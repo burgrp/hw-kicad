@@ -1,0 +1,13 @@
+(module Mill-Bridge (layer F.Cu) (tedit 577E6D1E)
+  (fp_text reference MB1 (at 0 1.27) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value Mill_Bridge (at 0 -2.794) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_arc (start 2.04 -1.016) (end 2.04 0) (angle 180) (layer F.CrtYd) (width 0.15))
+  (fp_arc (start -2.04 -1.016) (end -2.04 -2.032) (angle 180) (layer F.CrtYd) (width 0.15))
+  (pad "" np_thru_hole circle (at -1 0) (size 0.5 0.5) (drill 0.5) (layers *.Cu))
+  (pad "" np_thru_hole circle (at 1 0) (size 0.5 0.5) (drill 0.5) (layers *.Cu))
+  (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers *.Cu))
+)
