@@ -10,6 +10,13 @@ function generate(name, generator) {
     };
 
     w(`(module ${name} (layer F.Cu)`);
+
+    w(` (model \${DF}/${name}.wrl`);
+    w(`  (at (xyz 0 0 0))`);
+    w(`  (scale (xyz 0.393701 0.393701 0.393701))`);
+    w(`  (rotate (xyz 0 0 0))`);
+    w(` )`);
+    
     generator(w, name);
     w(`)`);
 
