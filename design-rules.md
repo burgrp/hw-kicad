@@ -34,8 +34,11 @@ Grid 2 - 1mm
 
 ## Silk screen
 
-Address label: line 10mm x 40mm
-OSHW-Logo_11.4x12mm_SilkScreen
+* Address label: line 10mm x 40mm
+* OSHW-Logo_11.4x12mm_SilkScreen
+* "DEVICE.FARM"  
+* "CC-BY-SA"
+* name + version
 
 # Onshape
 

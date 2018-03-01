@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const fs = require("fs");
 
 function generate(name, generator) {
@@ -56,6 +58,6 @@ function microMatchFOB(count) {
     });
 }
 
-[4, 6].forEach(microMatchFOB);
+[4, 6, 12].forEach(microMatchFOB);
 
 
