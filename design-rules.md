@@ -39,6 +39,7 @@ Grid 2 - 1mm
 * "DEVICE.FARM"  
 * "CC-BY-SA"
 * name + version
+* power (and output) rating
 
 # Onshape
 
