@@ -13,7 +13,7 @@
   (pad 3 thru_hole rect (at -7.62 0) (size 1.5 1.5) (drill 0.8) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole rect (at 2.54 0) (size 2 2) (drill 0.8) (layers *.Cu *.Mask F.SilkS))
   (pad 1 thru_hole rect (at 10.16 0) (size 2 2) (drill 0.8) (layers *.Cu *.Mask F.SilkS))
-  (model ${DF}/G3MB-SSR.wrl
+  (model ${DF_3D}/G3MB-SSR.wrl
     (at (xyz 0 0.053149 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))

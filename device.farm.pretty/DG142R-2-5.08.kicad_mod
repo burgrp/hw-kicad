@@ -19,7 +19,7 @@
   (pad 1 thru_hole oval (at 2.54 9.398) (size 2.54 3.81) (drill 1.4) (layers *.Cu *.Mask))
   (pad 2 thru_hole oval (at 7.62 1.778) (size 2.54 3.81) (drill 1.4) (layers *.Cu *.Mask))
   (pad 2 thru_hole oval (at 7.62 9.398) (size 2.54 3.81) (drill 1.4) (layers *.Cu *.Mask))
-  (model ${DF}/DG142R-2-5.08.wrl
+  (model ${DF_3D}/DG142R-2-5.08.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
