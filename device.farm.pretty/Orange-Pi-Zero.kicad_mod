@@ -1,8 +1,8 @@
-(module Orange-Pi-Zero (layer F.Cu) (tedit 5C24D71B)
-  (fp_text reference REF** (at -35.56 -33.02) (layer F.SilkS)
+(module Orange-Pi-Zero locked (layer F.Cu) (tedit 5CA67469)
+  (fp_text reference M1 (at -35.56 -33.02) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value "Orange Pi Zero" (at -31.75 -35.56) (layer F.Fab)
+  (fp_text value Orange-Pi-Zero (at -31.75 -35.56) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 3.00257 0.942796) (end 3.00257 -0.942796) (layer F.SilkS) (width 0.1))
@@ -77,6 +77,11 @@
   (model "${DF}/Orange Pi Zero.wrl"
     (at (xyz 0 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
+    (rotate (xyz 0 0 0))
+  )
+  (model "${DF}/device.farm.pretty/Orange Pi Zero.step"
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
 )
