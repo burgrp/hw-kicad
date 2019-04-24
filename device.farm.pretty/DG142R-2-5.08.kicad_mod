@@ -1,4 +1,4 @@
-(module DG142R-2-5.08 (layer F.Cu) (tedit 5B44D1C3)
+(module DG142R-2-5.08 (layer F.Cu) (tedit 5CBF3B49)
   (fp_text reference REF** (at 5.334 15.494) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -19,9 +19,9 @@
   (pad 1 thru_hole oval (at 2.54 9.398) (size 2.54 3.81) (drill 1.4) (layers *.Cu *.Mask))
   (pad 2 thru_hole oval (at 7.62 1.778) (size 2.54 3.81) (drill 1.4) (layers *.Cu *.Mask))
   (pad 2 thru_hole oval (at 7.62 9.398) (size 2.54 3.81) (drill 1.4) (layers *.Cu *.Mask))
-  (model ${DF_3D}/DG142R-2-5.08.wrl
+  (model ${DF_3D}/DG142R-2-5.08.step
     (at (xyz 0 0 0))
-    (scale (xyz 0.3937 0.3937 0.3937))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
 )

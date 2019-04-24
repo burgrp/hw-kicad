@@ -74,9 +74,9 @@
   (pad 29 thru_hole circle (at -10.851472 1.365342) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
   (pad 28 thru_hole circle (at -8.311472 1.365342) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
   (pad 27 thru_hole circle (at -5.771472 1.365342) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
-  (model "${DF}/Orange Pi Zero.wrl"
+  (model "${DF}/Orange Pi Zero.step"
     (at (xyz 0 0 0))
-    (scale (xyz 0.3937 0.3937 0.3937))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
   (model "${DF}/device.farm.pretty/Orange Pi Zero.step"

@@ -17,9 +17,9 @@
   (pad 21 thru_hole circle (at 20.32 -7.62) (size 3 3) (drill 1.5) (layers *.Cu *.Mask F.SilkS))
   (pad 24 thru_hole circle (at 25.4 -7.62) (size 3 3) (drill 1.5) (layers *.Cu *.Mask F.SilkS))
   (pad 22 thru_hole circle (at 15.24 -7.62) (size 3 3) (drill 1.5) (layers *.Cu *.Mask F.SilkS))
-  (model ${DF_3D}/RT314_Relay.wrl
+  (model ${DF_3D}/RT314_Relay.step
     (at (xyz 0 0 0))
-    (scale (xyz 0.3937 0.3937 0.3937))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
 )

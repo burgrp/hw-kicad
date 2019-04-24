@@ -1,4 +1,4 @@
-(module HB-9500-4P (layer F.Cu) (tedit 5B81284D)
+(module HB-9500-4P (layer F.Cu) (tedit 5CC0321C)
   (fp_text reference REF** (at 0 -5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -13,9 +13,9 @@
   (pad 2 thru_hole circle (at 9.5 0) (size 4 4) (drill 1.9) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 19 0) (size 4 4) (drill 1.9) (layers *.Cu *.Mask))
   (pad 4 thru_hole circle (at 28.5 0) (size 4 4) (drill 1.9) (layers *.Cu *.Mask))
-  (model ${DF_3D}/HB-9500-4P.wrl
+  (model ${DF_3D}/HB-9500-4P.step
     (at (xyz 0 0 0))
-    (scale (xyz 0.393701 0.393701 0.393701))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
 )

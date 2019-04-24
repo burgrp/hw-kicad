@@ -46,9 +46,9 @@
   (pad 30 thru_hole oval (at 12.2 11.6) (size 2.2 1.1) (drill 0.9) (layers *.Cu *.Mask))
   (pad 31 thru_hole oval (at 12.2 9.6) (size 2.2 1.1) (drill 0.9) (layers *.Cu *.Mask))
   (pad 32 thru_hole oval (at 12.2 7.6) (size 2.2 1.1) (drill 0.9) (layers *.Cu *.Mask))
-  (model ${DF_3D}/Omega2+.wrl
+  (model ${DF_3D}/Omega2+.step
     (at (xyz 0 0 0))
-    (scale (xyz 0.3937 0.3937 0.3937))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
 )
