@@ -1,3 +1,12 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP CMT2110A
+D 240 – 960 MHz OOK Transmitter
+F https://www.hoperf.com/data/upload/portal/20190307/CMT2110AW%20Datasheet.pdf
+$ENDCMP
+#
+$CMP CMT2210A-ESR
+F http://www.signal.com.tr/pdf/cat/CMT2210A-ESR.pdf
+$ENDCMP
+#
 #End Doc Library

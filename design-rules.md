@@ -17,8 +17,9 @@ Custom Via Sizes:
    Dia  Drill
 1. 0.9  0.6    Power supply
 2. 3    1      Main Lines / Terminal Blocks (5 for high current switching boards)
-3. 4    2.2    Screw holes (5/3.8 for bigger boards)
+3. 4    2.2    Screw holes (5/3.8 for bigger boards) or "MountingHole:MountingHole_2.2mm_M2_Pad" package
 ~~~
+
 
 Custom Track Widths
 
