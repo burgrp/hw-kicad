@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AL5801
+F https://www.diodes.com/assets/Datasheets/AL5801.pdf
+$ENDCMP
+#
 $CMP CMT2110A
 D 240 – 960 MHz OOK Transmitter
 F https://www.hoperf.com/data/upload/portal/20190307/CMT2110AW%20Datasheet.pdf
