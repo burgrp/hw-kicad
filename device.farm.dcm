@@ -13,4 +13,8 @@ $CMP CMT2210A-ESR
 F http://www.signal.com.tr/pdf/cat/CMT2210A-ESR.pdf
 $ENDCMP
 #
+$CMP CMT2210LCW
+F https://www.hoperf.com/data/upload/portal/20190307/CMT2210LCW%20Datasheet.pdf
+$ENDCMP
+#
 #End Doc Library
