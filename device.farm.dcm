@@ -17,4 +17,13 @@ $CMP CMT2210LCW
 F https://www.hoperf.com/data/upload/portal/20190307/CMT2210LCW%20Datasheet.pdf
 $ENDCMP
 #
+$CMP MCP2221A
+D I/SL SO14, I/ST TSSOP14, I/P DIP14
+F https://ww1.microchip.com/downloads/en/DeviceDoc/20005565C.pdf
+$ENDCMP
+#
+$CMP VNH7070BAS
+F https://www.st.com/resource/en/datasheet/vnh7070bas.pdf
+$ENDCMP
+#
 #End Doc Library
