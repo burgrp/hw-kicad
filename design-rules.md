@@ -37,7 +37,6 @@ Grid 2 - 1mm
 
 * Address label: line 10mm x 40mm
 * OSHW-Logo_11.4x12mm_SilkScreen
-* "DEVICE.FARM"  
 * "CC-BY-SA"
 * name + version
 * power (and output) rating
