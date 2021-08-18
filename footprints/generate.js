@@ -13,7 +13,7 @@ function generate(name, generator) {
 
     w(`(module ${name} (layer F.Cu)`);
 
-    w(` (model \${HW_KICAD}/footprints/${name}.step`);
+    w(` (model \${DRAKE}/footprints/${name}.step`);
     w(`  (at (xyz 0 0 0))`);
     w(`  (scale (xyz 1 1 1))`);
     w(`  (rotate (xyz 0 0 0))`);

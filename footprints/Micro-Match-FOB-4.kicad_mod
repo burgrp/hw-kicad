@@ -1,5 +1,5 @@
 (module Micro-Match-FOB-4 (layer F.Cu)
- (model ${HW_KICAD}/footprints/Micro-Match-FOB-4.step
+ (model ${DRAKE}/footprints/Micro-Match-FOB-4.step
   (at (xyz 0 0 0))
   (scale (xyz 1 1 1))
   (rotate (xyz 0 0 0))

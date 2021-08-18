@@ -24,7 +24,7 @@
   (pad 2 thru_hole oval (at 7.62 9.398) (size 2.54 3.81) (drill 1.4) (layers *.Cu *.Mask))
   (pad 3 thru_hole oval (at 12.7 1.778) (size 2.54 3.81) (drill 1.4) (layers *.Cu *.Mask))
   (pad 3 thru_hole oval (at 12.7 9.398) (size 2.54 3.81) (drill 1.4) (layers *.Cu *.Mask))
-  (model ${HW_KICAD}/footprints/DG142R-3-5.08.step
+  (model ${DRAKE}/footprints/DG142R-3-5.08.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

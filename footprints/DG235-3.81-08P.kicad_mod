@@ -53,7 +53,7 @@
   (pad 6 thru_hole roundrect (at 19.05 5) (size 2.2 2.2) (drill 1.2) (layers *.Cu *.Mask) (roundrect_rratio 0.25))
   (pad 7 thru_hole roundrect (at 22.86 5) (size 2.2 2.2) (drill 1.2) (layers *.Cu *.Mask) (roundrect_rratio 0.25))
   (pad 8 thru_hole roundrect (at 26.67 5) (size 2.2 2.2) (drill 1.2) (layers *.Cu *.Mask) (roundrect_rratio 0.25))
-  (model ${HW_KICAD}/footprints/DG235-3.81-08P.step
+  (model ${DRAKE}/footprints/DG235-3.81-08P.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -90))
