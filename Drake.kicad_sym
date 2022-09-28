@@ -2658,10 +2658,10 @@
     (property "Value" "RT9193" (id 1) (at 0 8.89 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Footprint" "" (id 2) (at 0 0 0)
+    (property "Footprint" "Package_TO_SOT_SMD:SOT-23-5_HandSoldering" (id 2) (at 0 0 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Datasheet" "" (id 3) (at 0 0 0)
+    (property "Datasheet" "https://www.richtek.com/assets/product_file/RT9193/DS9193-16.pdf" (id 3) (at 0 0 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (symbol "RT9193_0_1"
