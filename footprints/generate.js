@@ -18,17 +18,18 @@ function generate(name, generator) {
     w(`  (scale (xyz 1 1 1))`);
     w(`  (rotate (xyz 0 0 0))`);
     w(` )`);
-    
+
     generator(w, name);
     w(`)`);
 
-    fs.writeFileSync(`${name}.kicad_mod`, lines.join("\n"));    
+    fs.writeFileSync(`${name}.kicad_mod`, lines.join("\n"));
 }
 
 function microMatchFOB(count) {
 
     generate(`Micro-Match-FOB-${count}`, (w, name) => {
-
+        w(` (layer "F.Cu")`);
+        w(` (attr smd)`);
         w(` (fp_text reference REF** (at 0 5) (layer F.SilkS)`);
         w(`  (effects (font (size 1 1) (thickness 0.15)))`);
         w(` )`);
