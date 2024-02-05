@@ -1,5 +1,5 @@
 (module Micro-Match-FOB-12 (layer F.Cu)
- (model ${DRAKE}/footprints/Micro-Match-FOB-12.step
+ (model Micro-Match-FOB-12.step
   (at (xyz 0 0 0))
   (scale (xyz 1 1 1))
   (rotate (xyz 0 0 0))

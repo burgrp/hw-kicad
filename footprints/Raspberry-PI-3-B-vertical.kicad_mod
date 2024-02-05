@@ -67,7 +67,7 @@
   (pad 38 thru_hole roundrect (at -45.72 -2.54) (size 2 2) (drill 1) (layers *.Cu *.Mask) (roundrect_rratio 0.25))
   (pad 39 thru_hole roundrect (at -48.26 0) (size 2 2) (drill 1) (layers *.Cu *.Mask) (roundrect_rratio 0.25))
   (pad 40 thru_hole roundrect (at -48.26 -2.54) (size 2 2) (drill 1) (layers *.Cu *.Mask) (roundrect_rratio 0.25))
-  (model ${DRAKE}/footprints/Raspberry-PI-3-B-vertical.step
+  (model Raspberry-PI-3-B-vertical.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

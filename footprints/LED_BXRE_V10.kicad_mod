@@ -40,7 +40,7 @@
   (fp_line (start 4.75 -6.75) (end -6.75 -6.75) (layer F.SilkS) (width 0.2))
   (pad 2 thru_hole circle (at -7.5 -6) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask))
   (pad 1 thru_hole circle (at 7.5 6) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask))
-  (model ${DRAKE}/footprints/LED_BXRE_V10.step
+  (model LED_BXRE_V10.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

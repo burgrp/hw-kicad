@@ -12,7 +12,7 @@
   (pad 1 thru_hole rect (at -2.5 0) (size 1.8 4) (drill oval 0.7 2) (layers *.Cu *.Mask))
   (pad 2 thru_hole rect (at 0 0) (size 1.8 4) (drill oval 0.7 2) (layers *.Cu *.Mask))
   (pad 3 thru_hole rect (at 2.5 0) (size 1.8 4) (drill oval 0.7 2) (layers *.Cu *.Mask))
-  (model ${DRAKE}/footprints/TS-01.step
+  (model TS-01.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

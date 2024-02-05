@@ -13,7 +13,7 @@
   (fp_line (start 4.553405 3.95) (end -7.05 3.95) (layer F.SilkS) (width 0.2))
   (pad 1 thru_hole circle (at 3.6 0) (size 6 6) (drill 4.4) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at -3.6 0) (size 6 6) (drill 4.4) (layers *.Cu *.Mask))
-  (model ${DRAKE}/footprints/XT60PB-F.step
+  (model XT60PB-F.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -90))

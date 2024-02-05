@@ -14,7 +14,7 @@
   (pad 4 thru_hole circle (at 2 -6) (size 1.8 1.8) (drill 0.7) (layers *.Cu *.Mask F.SilkS))
   (pad 3 thru_hole oval (at 14.2 -6) (size 2.5 2) (drill oval 1.1 0.5) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole oval (at 14.2 6) (size 2.5 2) (drill oval 1.1 0.5) (layers *.Cu *.Mask F.SilkS))
-  (model ${DRAKE}/footprints/SRD_C_Relay.step
+  (model SRD_C_Relay.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
