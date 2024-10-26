@@ -55,7 +55,7 @@
   (pad "30" thru_hole oval (at 15.24 -11.43) (size 1.4 2.54) (drill 0.7) (layers *.Cu *.Mask) (tstamp 72053626-cfe3-497f-aa30-1fde2c1cb05b))
   (pad "31" thru_hole oval (at 17.78 -11.43) (size 1.4 2.54) (drill 0.7) (layers *.Cu *.Mask) (tstamp f71391fc-a184-4ca3-b50d-d423956d0104))
   (pad "32" thru_hole oval (at 20.32 -11.43) (size 1.4 2.54) (drill 0.7) (layers *.Cu *.Mask) (tstamp 406c38b1-3fdb-49fb-b6cd-bdf6db41bce7))
-  (model "${DRAKE}/footprints/NanoPi-Duo.step"
+  (model "NanoPi-Duo.step"
     (offset (xyz 0 0.639752 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

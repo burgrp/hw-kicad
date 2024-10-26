@@ -59,7 +59,7 @@
   (pad "7" thru_hole roundrect (at 22.86 0) (size 2.2 2.2) (drill 1.2) (layers *.Cu *.Mask) (roundrect_rratio 0.25) (tstamp 926f8528-02c9-4a07-9eef-1ee3786dff1e))
   (pad "8" thru_hole roundrect (at 26.67 5) (size 2.2 2.2) (drill 1.2) (layers *.Cu *.Mask) (roundrect_rratio 0.25) (tstamp 802a2f2a-18d3-4990-a0ec-0f0658f65273))
   (pad "8" thru_hole roundrect (at 26.67 0) (size 2.2 2.2) (drill 1.2) (layers *.Cu *.Mask) (roundrect_rratio 0.25) (tstamp fc41a662-be63-42e0-ab32-3dd6faa51117))
-  (model "${DRAKE}/footprints/DG235-3.81-08P.step"
+  (model "DG235-3.81-08P.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -90))

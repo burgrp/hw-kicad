@@ -21,7 +21,7 @@
   (pad 3 thru_hole oval (at -11.5 -31) (size 2.5 3.5) (drill 1.2) (layers *.Cu *.Mask))
   (pad 1 thru_hole oval (at 20 31) (size 2.5 3.5) (drill 1.2) (layers *.Cu *.Mask))
   (pad 2 thru_hole oval (at 0 31) (size 2.5 3.5) (drill 1.2) (layers *.Cu *.Mask))
-  (model "${DRAKE}/footprints/Mean Well PM-15-5.step"
+  (model "Mean Well PM-15-5.step"
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

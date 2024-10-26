@@ -30,7 +30,7 @@
   (pad "14" smd rect (at 8.25 -11.5) (size 1 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp b9f4cb66-bdf4-4732-a2d3-958e375b42d0))
   (pad "15" smd rect (at 8.25 -13.5) (size 1 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 477cf469-8259-4a84-86d4-4555f14b311f))
   (pad "16" smd rect (at 8.25 -15.5) (size 1 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 6015c99b-21ba-413e-83c0-99ee87c79f22))
-  (model "${DRAKE}/footprints/ESP-12F.step"
+  (model "ESP-12F.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

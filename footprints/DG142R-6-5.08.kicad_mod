@@ -45,7 +45,7 @@
   (pad "5" thru_hole oval (at 22.86 9.398) (size 2.54 3.81) (drill 1.4) (layers *.Cu *.Mask) (tstamp bd5bd37c-a115-44ba-93e2-c833009d10d0))
   (pad "6" thru_hole oval (at 27.94 1.778) (size 2.54 3.81) (drill 1.4) (layers *.Cu *.Mask) (tstamp 028359e2-346d-4916-99ff-86dbbac0ce94))
   (pad "6" thru_hole oval (at 27.94 9.398) (size 2.54 3.81) (drill 1.4) (layers *.Cu *.Mask) (tstamp f4b6d7b0-303b-483c-988c-ec9b69e1cb14))
-  (model "${DRAKE}/footprints/DG142R-6-5.08.step"
+  (model "DG142R-6-5.08.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

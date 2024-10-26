@@ -70,7 +70,7 @@
   (pad "38" thru_hole circle (at 45.72 -2.54) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp 2426613c-f5b0-487c-bae4-46c5fd13b9af))
   (pad "39" thru_hole circle (at 48.26 0) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp a225e9fd-6545-4110-8e72-7e9c999e5896))
   (pad "40" thru_hole circle (at 48.26 -2.54) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp 8f5f6b78-7379-40ed-b159-1ace68a64faf))
-  (model "${DRAKE}/footprints/Raspberry-Pi-Zero-2-W-horizontal.step"
+  (model "Raspberry-Pi-Zero-2-W-horizontal.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

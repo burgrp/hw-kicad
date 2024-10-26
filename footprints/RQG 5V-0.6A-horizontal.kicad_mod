@@ -43,7 +43,7 @@
   (pad "2" thru_hole roundrect (at -6.314001 16.555) (size 1.6 2.2) (drill 0.8) (layers *.Cu *.Mask) (roundrect_rratio 0.25) (tstamp d77506a4-23d7-40ef-858a-a6291578c04b))
   (pad "3" thru_hole roundrect (at -21.4595 16.555) (size 1.6 2.2) (drill 0.8) (layers *.Cu *.Mask) (roundrect_rratio 0.25) (tstamp ac363904-feeb-408f-b87a-a901668d9c9b))
   (pad "4" thru_hole roundrect (at -18.9195 16.555) (size 1.6 2.2) (drill 0.8) (layers *.Cu *.Mask) (roundrect_rratio 0.25) (tstamp 1c32431e-4beb-4248-8dad-ade7f5454488))
-  (model "${DRAKE}/footprints/RQG 5V-0.6A-horizontal.step"
+  (model "RQG 5V-0.6A-horizontal.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

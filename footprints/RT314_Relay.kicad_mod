@@ -21,7 +21,7 @@
   (pad "21" thru_hole circle locked (at 20.32 -7.62) (size 3 3) (drill 1.5) (layers *.Cu *.Mask "F.SilkS") (tstamp 21c93221-34cf-4a29-9efb-077fcc6cc787))
   (pad "22" thru_hole circle locked (at 15.24 -7.62) (size 3 3) (drill 1.5) (layers *.Cu *.Mask "F.SilkS") (tstamp 78689d9b-7969-4cb7-9859-59161208393c))
   (pad "24" thru_hole circle locked (at 25.4 -7.62) (size 3 3) (drill 1.5) (layers *.Cu *.Mask "F.SilkS") (tstamp db606611-61ce-49ae-bdb0-16974a143b66))
-  (model "${DRAKE}/footprints/RT314_Relay.step"
+  (model "RT314_Relay.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

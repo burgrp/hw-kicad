@@ -20,7 +20,7 @@
   (pad "1" thru_hole oval (at 0 0) (size 2.5 3) (drill 1.3) (layers *.Cu *.Mask "F.SilkS") (tstamp 28a82967-f983-4ff5-89b3-aa8a41ec591c))
   (pad "2" thru_hole oval (at 5 0) (size 2.5 3) (drill 1.3) (layers *.Cu *.Mask "F.SilkS") (tstamp 7479ba1e-6459-4d5c-90a9-0c48e0afba06))
   (pad "3" thru_hole oval (at 10 0) (size 2.5 3) (drill 1.3) (layers *.Cu *.Mask "F.SilkS") (tstamp 5763e2e0-b7d2-44a3-aeda-a930cd8ca42d))
-  (model "${DRAKE}/footprints/DG301-5.0-03.step"
+  (model "DG301-5.0-03.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
