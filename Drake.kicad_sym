@@ -10553,7 +10553,7 @@
 				)
 			)
 		)
-		(property "Footprint" "drake:SWD"
+		(property "Footprint" "Drake:SWD"
 			(at 0 -8.89 0)
 			(effects
 				(font
