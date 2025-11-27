@@ -50,7 +50,7 @@
 			)
 		)
 		(symbol "PY32F002AA15M_0_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 5.08 0)
 				(length 2.54)
 				(name "VCC"
@@ -68,7 +68,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 2.54 0)
 				(length 2.54)
 				(name "PF0-OSCIN"
@@ -86,7 +86,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 0 0)
 				(length 2.54)
 				(name "PA5/PF1-OSCOUT"
@@ -104,7 +104,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -2.54 0)
 				(length 2.54)
 				(name "PA0/PF2-NRST"
@@ -122,7 +122,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -5.08 0)
 				(length 2.54)
 				(name "PA1"
@@ -140,25 +140,7 @@
 					)
 				)
 			)
-			(pin unspecified line
-				(at 20.32 5.08 180)
-				(length 2.54)
-				(name "VSS"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "10"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 2.54 180)
 				(length 2.54)
 				(name "PA14-SWC/PB3"
@@ -176,7 +158,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 0 180)
 				(length 2.54)
 				(name "PA13-SWD"
@@ -194,7 +176,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -2.54 180)
 				(length 2.54)
 				(name "PA7"
@@ -212,7 +194,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -5.08 180)
 				(length 2.54)
 				(name "PA6"
@@ -223,6 +205,26 @@
 					)
 				)
 				(number "6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(symbol "PY32F002AA15M_1_0"
+			(pin bidirectional line
+				(at 20.32 5.08 180)
+				(length 2.54)
+				(name "VSS"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "10"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -294,7 +296,7 @@
 			)
 		)
 		(symbol "PY32F002AA15N_0_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 5.08 0)
 				(length 2.54)
 				(name "VCC"
@@ -312,7 +314,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 2.54 0)
 				(length 2.54)
 				(name "PA12/PA13-SWD"
@@ -330,7 +332,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 0 0)
 				(length 2.54)
 				(name "PB6/PA14-SWC"
@@ -348,7 +350,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -2.54 0)
 				(length 2.54)
 				(name "PF2-NRST"
@@ -366,7 +368,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -5.08 0)
 				(length 2.54)
 				(name "PA1"
@@ -384,7 +386,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 5.08 180)
 				(length 2.54)
 				(name "VSS"
@@ -402,7 +404,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 2.54 180)
 				(length 2.54)
 				(name "PA5"
@@ -420,7 +422,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 0 180)
 				(length 2.54)
 				(name "PA4"
@@ -438,7 +440,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -2.54 180)
 				(length 2.54)
 				(name "PA3"
@@ -456,7 +458,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -5.08 180)
 				(length 2.54)
 				(name "PA2"
@@ -538,7 +540,7 @@
 			)
 		)
 		(symbol "PY32F002AF15P_0_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 11.43 0)
 				(length 2.54)
 				(name "VSS"
@@ -556,7 +558,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 8.89 0)
 				(length 2.54)
 				(name "PA13-SWD"
@@ -574,7 +576,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 6.35 0)
 				(length 2.54)
 				(name "PA14-SWC"
@@ -592,7 +594,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 3.81 0)
 				(length 2.54)
 				(name "PB3"
@@ -610,7 +612,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 1.27 0)
 				(length 2.54)
 				(name "PB6/PF4-BOOT0"
@@ -628,7 +630,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -1.27 0)
 				(length 2.54)
 				(name "PA6"
@@ -646,7 +648,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -3.81 0)
 				(length 2.54)
 				(name "PA5"
@@ -664,7 +666,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -6.35 0)
 				(length 2.54)
 				(name "PF0-OSCIN"
@@ -682,7 +684,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -8.89 0)
 				(length 2.54)
 				(name "PF1-OSCOUT"
@@ -700,7 +702,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -11.43 0)
 				(length 2.54)
 				(name "PF2-NRST"
@@ -718,7 +720,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 11.43 180)
 				(length 2.54)
 				(name "VCC"
@@ -736,7 +738,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 8.89 180)
 				(length 2.54)
 				(name "PB1"
@@ -754,7 +756,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 6.35 180)
 				(length 2.54)
 				(name "PB2"
@@ -772,7 +774,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 3.81 180)
 				(length 2.54)
 				(name "PB0"
@@ -790,7 +792,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 1.27 180)
 				(length 2.54)
 				(name "PA7"
@@ -808,7 +810,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -1.27 180)
 				(length 2.54)
 				(name "PA4"
@@ -826,7 +828,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -3.81 180)
 				(length 2.54)
 				(name "PA3"
@@ -844,7 +846,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -6.35 180)
 				(length 2.54)
 				(name "PA2"
@@ -862,7 +864,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -8.89 180)
 				(length 2.54)
 				(name "PA1"
@@ -880,7 +882,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -11.43 180)
 				(length 2.54)
 				(name "PA0"
@@ -966,7 +968,7 @@
 			)
 		)
 		(symbol "PY32F002AF15U_0_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 5.08 0)
 				(length 2.54)
 				(name "PA5"
@@ -984,7 +986,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 2.54 0)
 				(length 2.54)
 				(name "PA6"
@@ -1002,7 +1004,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 0 0)
 				(length 2.54)
 				(name "PA7"
@@ -1020,7 +1022,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -2.54 0)
 				(length 2.54)
 				(name "PB0"
@@ -1038,7 +1040,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -5.08 0)
 				(length 2.54)
 				(name "PB1"
@@ -1056,7 +1058,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -5.08 20.32 270)
 				(length 2.54)
 				(name "PA4"
@@ -1074,7 +1076,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -5.08 -20.32 90)
 				(length 2.54)
 				(name "VCC"
@@ -1092,7 +1094,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -2.54 20.32 270)
 				(length 2.54)
 				(name "PA3"
@@ -1110,7 +1112,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -2.54 -20.32 90)
 				(length 2.54)
 				(name "PA13-SWD"
@@ -1128,7 +1130,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 0 20.32 270)
 				(length 2.54)
 				(name "PA2"
@@ -1146,7 +1148,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 0 -20.32 90)
 				(length 2.54)
 				(name "PA14-SWC"
@@ -1164,7 +1166,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 2.54 20.32 270)
 				(length 2.54)
 				(name "PA1"
@@ -1182,7 +1184,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 2.54 -20.32 90)
 				(length 2.54)
 				(name "PB3"
@@ -1200,7 +1202,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 5.08 20.32 270)
 				(length 2.54)
 				(name "PA0"
@@ -1218,7 +1220,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 5.08 -20.32 90)
 				(length 2.54)
 				(name "PB5"
@@ -1236,7 +1238,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 5.08 180)
 				(length 2.54)
 				(name "PF2-NRST"
@@ -1254,7 +1256,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 2.54 180)
 				(length 2.54)
 				(name "PF1-OSCOUT"
@@ -1272,7 +1274,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 0 180)
 				(length 2.54)
 				(name "PF0-OSCIN"
@@ -1290,7 +1292,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -2.54 180)
 				(length 2.54)
 				(name "PF4-BOOT0"
@@ -1308,7 +1310,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -5.08 180)
 				(length 2.54)
 				(name "PB6"
@@ -1328,7 +1330,7 @@
 			)
 		)
 		(symbol "PY32F002AF15U_1_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at 15.24 -20.32 90)
 				(length 2.54)
 				(name "VSS"
@@ -1410,7 +1412,7 @@
 			)
 		)
 		(symbol "PY32F002AL15S_0_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -1.27 0)
 				(length 2.54)
 				(name "PA3"
@@ -1428,7 +1430,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -3.81 0)
 				(length 2.54)
 				(name "PA14-SWC/PB3"
@@ -1446,7 +1448,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 3.81 180)
 				(length 2.54)
 				(name "VSS"
@@ -1464,7 +1466,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 1.27 180)
 				(length 2.54)
 				(name "PA1"
@@ -1482,7 +1484,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -1.27 180)
 				(length 2.54)
 				(name "PA2/PF2-NRST"
@@ -1500,7 +1502,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -3.81 180)
 				(length 2.54)
 				(name "PA13-SWD"
@@ -1520,7 +1522,7 @@
 			)
 		)
 		(symbol "PY32F002AL15S_1_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 3.81 0)
 				(length 2.54)
 				(name "VCC"
@@ -1538,7 +1540,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 1.27 0)
 				(length 2.54)
 				(name "PA4/PA10"
@@ -1620,7 +1622,7 @@
 			)
 		)
 		(symbol "PY32F002AW15S_0_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 8.89 0)
 				(length 2.54)
 				(name "PA7"
@@ -1638,7 +1640,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 6.35 0)
 				(length 2.54)
 				(name "PB0"
@@ -1656,7 +1658,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 3.81 0)
 				(length 2.54)
 				(name "PB1"
@@ -1674,7 +1676,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 1.27 0)
 				(length 2.54)
 				(name "VCC"
@@ -1692,7 +1694,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -1.27 0)
 				(length 2.54)
 				(name "PA9"
@@ -1710,7 +1712,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -3.81 0)
 				(length 2.54)
 				(name "PA13-SWD"
@@ -1728,7 +1730,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -6.35 0)
 				(length 2.54)
 				(name "PA14-SWC"
@@ -1746,7 +1748,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -8.89 0)
 				(length 2.54)
 				(name "PF2-NRST"
@@ -1764,7 +1766,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 8.89 180)
 				(length 2.54)
 				(name "PA6"
@@ -1782,7 +1784,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 6.35 180)
 				(length 2.54)
 				(name "PA3"
@@ -1800,7 +1802,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 3.81 180)
 				(length 2.54)
 				(name "PA2"
@@ -1818,7 +1820,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 1.27 180)
 				(length 2.54)
 				(name "VSS"
@@ -1836,7 +1838,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -1.27 180)
 				(length 2.54)
 				(name "PA1"
@@ -1854,7 +1856,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -3.81 180)
 				(length 2.54)
 				(name "PA0"
@@ -1872,7 +1874,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -6.35 180)
 				(length 2.54)
 				(name "PF1-OSCOUT"
@@ -1890,7 +1892,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -8.89 180)
 				(length 2.54)
 				(name "PF0-OSCIN"
@@ -1976,7 +1978,7 @@
 			)
 		)
 		(symbol "PY32F002AW15U_0_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 3.81 0)
 				(length 2.54)
 				(name "PB1"
@@ -1994,7 +1996,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 1.27 0)
 				(length 2.54)
 				(name "PA12"
@@ -2012,7 +2014,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -1.27 0)
 				(length 2.54)
 				(name "PA13-SWD"
@@ -2030,7 +2032,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -3.81 0)
 				(length 2.54)
 				(name "PA14-SWC"
@@ -2048,7 +2050,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -3.81 20.32 270)
 				(length 2.54)
 				(name "PA8"
@@ -2066,7 +2068,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -3.81 -20.32 90)
 				(length 2.54)
 				(name "PF2-NRST"
@@ -2084,7 +2086,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -1.27 20.32 270)
 				(length 2.54)
 				(name "VCC"
@@ -2102,7 +2104,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -1.27 -20.32 90)
 				(length 2.54)
 				(name "PA0"
@@ -2120,7 +2122,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 1.27 20.32 270)
 				(length 2.54)
 				(name "PB0"
@@ -2138,7 +2140,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 1.27 -20.32 90)
 				(length 2.54)
 				(name "PA1"
@@ -2156,7 +2158,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 3.81 20.32 270)
 				(length 2.54)
 				(name "PA7"
@@ -2174,7 +2176,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 3.81 -20.32 90)
 				(length 2.54)
 				(name "PA2"
@@ -2192,7 +2194,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 3.81 180)
 				(length 2.54)
 				(name "PA6"
@@ -2210,7 +2212,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 1.27 180)
 				(length 2.54)
 				(name "PA5"
@@ -2228,7 +2230,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -1.27 180)
 				(length 2.54)
 				(name "PA4"
@@ -2246,7 +2248,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -3.81 180)
 				(length 2.54)
 				(name "PA3"
@@ -2266,7 +2268,7 @@
 			)
 		)
 		(symbol "PY32F002AW15U_1_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at 15.24 -20.32 90)
 				(length 2.54)
 				(name "VSS"
@@ -2348,7 +2350,7 @@
 			)
 		)
 		(symbol "PY32F002BD15S_0_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 7.62 0)
 				(length 2.54)
 				(name "VCC"
@@ -2366,7 +2368,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 5.08 0)
 				(length 2.54)
 				(name "PB2"
@@ -2384,7 +2386,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 2.54 0)
 				(length 2.54)
 				(name "PB1"
@@ -2402,7 +2404,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 0 0)
 				(length 2.54)
 				(name "PB0"
@@ -2420,7 +2422,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -2.54 0)
 				(length 2.54)
 				(name "PA0"
@@ -2438,7 +2440,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -5.08 0)
 				(length 2.54)
 				(name "PA1"
@@ -2456,7 +2458,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -7.62 0)
 				(length 2.54)
 				(name "PA2-SWC"
@@ -2474,7 +2476,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 7.62 180)
 				(length 2.54)
 				(name "VSS"
@@ -2492,7 +2494,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 5.08 180)
 				(length 2.54)
 				(name "PB7/PC0-NRST"
@@ -2510,7 +2512,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 2.54 180)
 				(length 2.54)
 				(name "PC1"
@@ -2528,7 +2530,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 0 180)
 				(length 2.54)
 				(name "PA7"
@@ -2546,7 +2548,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -2.54 180)
 				(length 2.54)
 				(name "PA6"
@@ -2564,7 +2566,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -5.08 180)
 				(length 2.54)
 				(name "PA4"
@@ -2582,7 +2584,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -7.62 180)
 				(length 2.54)
 				(name "PB6-SWD"
@@ -2664,7 +2666,7 @@
 			)
 		)
 		(symbol "PY32F002BF15P_0_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 11.43 0)
 				(length 2.54)
 				(name "PA5"
@@ -2682,7 +2684,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 8.89 0)
 				(length 2.54)
 				(name "PA6"
@@ -2700,7 +2702,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 6.35 0)
 				(length 2.54)
 				(name "PA7"
@@ -2718,7 +2720,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 3.81 0)
 				(length 2.54)
 				(name "PC0-NRST"
@@ -2736,7 +2738,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 1.27 0)
 				(length 2.54)
 				(name "PC1"
@@ -2754,7 +2756,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -1.27 0)
 				(length 2.54)
 				(name "PB7"
@@ -2772,7 +2774,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -3.81 0)
 				(length 2.54)
 				(name "VSS"
@@ -2790,7 +2792,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -6.35 0)
 				(length 2.54)
 				(name "PB6-SWD"
@@ -2808,7 +2810,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -8.89 0)
 				(length 2.54)
 				(name "VCC"
@@ -2826,7 +2828,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -11.43 0)
 				(length 2.54)
 				(name "PB5"
@@ -2844,7 +2846,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 11.43 180)
 				(length 2.54)
 				(name "PA4"
@@ -2862,7 +2864,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 8.89 180)
 				(length 2.54)
 				(name "PA3"
@@ -2880,7 +2882,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 6.35 180)
 				(length 2.54)
 				(name "PA2-SWC"
@@ -2898,7 +2900,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 3.81 180)
 				(length 2.54)
 				(name "PA1"
@@ -2916,7 +2918,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 1.27 180)
 				(length 2.54)
 				(name "PA0"
@@ -2934,7 +2936,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -1.27 180)
 				(length 2.54)
 				(name "PB0"
@@ -2952,7 +2954,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -3.81 180)
 				(length 2.54)
 				(name "PB1"
@@ -2970,7 +2972,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -6.35 180)
 				(length 2.54)
 				(name "PB2"
@@ -2988,7 +2990,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -8.89 180)
 				(length 2.54)
 				(name "PB3"
@@ -3006,7 +3008,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -11.43 180)
 				(length 2.54)
 				(name "PB4"
@@ -3088,7 +3090,7 @@
 			)
 		)
 		(symbol "PY32F002BF15S_0_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 11.43 0)
 				(length 2.54)
 				(name "VSS"
@@ -3106,7 +3108,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 8.89 0)
 				(length 2.54)
 				(name "PB6-SWD"
@@ -3124,7 +3126,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 6.35 0)
 				(length 2.54)
 				(name "PA2-SWC"
@@ -3142,7 +3144,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 3.81 0)
 				(length 2.54)
 				(name "PB4"
@@ -3160,7 +3162,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 1.27 0)
 				(length 2.54)
 				(name "PB3"
@@ -3178,7 +3180,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -1.27 0)
 				(length 2.54)
 				(name "PB2"
@@ -3196,7 +3198,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -3.81 0)
 				(length 2.54)
 				(name "PB1"
@@ -3214,7 +3216,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -6.35 0)
 				(length 2.54)
 				(name "PB0"
@@ -3232,7 +3234,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -8.89 0)
 				(length 2.54)
 				(name "PA0"
@@ -3250,7 +3252,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -11.43 0)
 				(length 2.54)
 				(name "PA1"
@@ -3268,7 +3270,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 11.43 180)
 				(length 2.54)
 				(name "VCC"
@@ -3286,7 +3288,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 8.89 180)
 				(length 2.54)
 				(name "PB5"
@@ -3304,7 +3306,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 6.35 180)
 				(length 2.54)
 				(name "PB7"
@@ -3322,7 +3324,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 3.81 180)
 				(length 2.54)
 				(name "PC1"
@@ -3340,7 +3342,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 1.27 180)
 				(length 2.54)
 				(name "PC0-NRST"
@@ -3358,7 +3360,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -1.27 180)
 				(length 2.54)
 				(name "PA7"
@@ -3376,7 +3378,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -3.81 180)
 				(length 2.54)
 				(name "PA6"
@@ -3394,7 +3396,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -6.35 180)
 				(length 2.54)
 				(name "PA5"
@@ -3412,7 +3414,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -8.89 180)
 				(length 2.54)
 				(name "PA3"
@@ -3430,7 +3432,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -11.43 180)
 				(length 2.54)
 				(name "PA4"
@@ -3516,7 +3518,7 @@
 			)
 		)
 		(symbol "PY32F002BF15U_0_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 5.08 0)
 				(length 2.54)
 				(name "PC0-NRST"
@@ -3534,7 +3536,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 2.54 0)
 				(length 2.54)
 				(name "PC1"
@@ -3552,7 +3554,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 0 0)
 				(length 2.54)
 				(name "PB7"
@@ -3570,7 +3572,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -2.54 0)
 				(length 2.54)
 				(name "VSS"
@@ -3588,7 +3590,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -5.08 0)
 				(length 2.54)
 				(name "PB6-SWD"
@@ -3606,7 +3608,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -5.08 20.32 270)
 				(length 2.54)
 				(name "PA7"
@@ -3624,7 +3626,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -5.08 -20.32 90)
 				(length 2.54)
 				(name "VCC"
@@ -3642,7 +3644,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -2.54 20.32 270)
 				(length 2.54)
 				(name "PA6"
@@ -3660,7 +3662,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -2.54 -20.32 90)
 				(length 2.54)
 				(name "PB5"
@@ -3678,7 +3680,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 0 20.32 270)
 				(length 2.54)
 				(name "PA5"
@@ -3696,7 +3698,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 0 -20.32 90)
 				(length 2.54)
 				(name "PB4"
@@ -3714,7 +3716,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 2.54 20.32 270)
 				(length 2.54)
 				(name "PA4"
@@ -3732,7 +3734,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 2.54 -20.32 90)
 				(length 2.54)
 				(name "PB3"
@@ -3750,7 +3752,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 5.08 20.32 270)
 				(length 2.54)
 				(name "PA3"
@@ -3768,7 +3770,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 5.08 -20.32 90)
 				(length 2.54)
 				(name "PB2"
@@ -3786,7 +3788,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 5.08 180)
 				(length 2.54)
 				(name "PA2-SWC"
@@ -3804,7 +3806,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 2.54 180)
 				(length 2.54)
 				(name "PA1"
@@ -3822,7 +3824,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 0 180)
 				(length 2.54)
 				(name "PA0"
@@ -3840,7 +3842,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -2.54 180)
 				(length 2.54)
 				(name "PB0"
@@ -3858,7 +3860,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -5.08 180)
 				(length 2.54)
 				(name "PB1"
@@ -3878,7 +3880,7 @@
 			)
 		)
 		(symbol "PY32F002BF15U_1_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at 15.24 -20.32 90)
 				(length 2.54)
 				(name "VSS"
@@ -3960,7 +3962,7 @@
 			)
 		)
 		(symbol "PY32F002BL15S_0_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -1.27 0)
 				(length 2.54)
 				(name "PB0"
@@ -3978,7 +3980,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -3.81 0)
 				(length 2.54)
 				(name "PA2-SWC"
@@ -3996,7 +3998,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 3.81 180)
 				(length 2.54)
 				(name "VSS"
@@ -4014,7 +4016,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 1.27 180)
 				(length 2.54)
 				(name "PA7/PC1"
@@ -4032,7 +4034,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -1.27 180)
 				(length 2.54)
 				(name "PA6/PC0-NRST"
@@ -4050,7 +4052,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -3.81 180)
 				(length 2.54)
 				(name "PB6-SWD"
@@ -4070,7 +4072,7 @@
 			)
 		)
 		(symbol "PY32F002BL15S_1_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 3.81 0)
 				(length 2.54)
 				(name "VCC"
@@ -4088,7 +4090,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 1.27 0)
 				(length 2.54)
 				(name "PB1"
@@ -4170,7 +4172,7 @@
 			)
 		)
 		(symbol "PY32F002BW15S_0_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 8.89 0)
 				(length 2.54)
 				(name "VCC"
@@ -4188,7 +4190,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 6.35 0)
 				(length 2.54)
 				(name "PB4"
@@ -4206,7 +4208,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 3.81 0)
 				(length 2.54)
 				(name "PB3"
@@ -4224,7 +4226,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 1.27 0)
 				(length 2.54)
 				(name "PB2"
@@ -4242,7 +4244,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -1.27 0)
 				(length 2.54)
 				(name "PB1"
@@ -4260,7 +4262,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -3.81 0)
 				(length 2.54)
 				(name "PB0"
@@ -4278,7 +4280,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -6.35 0)
 				(length 2.54)
 				(name "PA0"
@@ -4296,7 +4298,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -8.89 0)
 				(length 2.54)
 				(name "PA1"
@@ -4314,7 +4316,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 8.89 180)
 				(length 2.54)
 				(name "VSS"
@@ -4332,7 +4334,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 6.35 180)
 				(length 2.54)
 				(name "PB7"
@@ -4350,7 +4352,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 3.81 180)
 				(length 2.54)
 				(name "PC1"
@@ -4368,7 +4370,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 1.27 180)
 				(length 2.54)
 				(name "PA7/PC0-NRST"
@@ -4386,7 +4388,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -1.27 180)
 				(length 2.54)
 				(name "PA6"
@@ -4404,7 +4406,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -3.81 180)
 				(length 2.54)
 				(name "PA2-SWC"
@@ -4422,7 +4424,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -6.35 180)
 				(length 2.54)
 				(name "PB6-SWD"
@@ -4440,7 +4442,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -8.89 180)
 				(length 2.54)
 				(name "PA4"
@@ -4526,7 +4528,7 @@
 			)
 		)
 		(symbol "PY32F002BW15U_0_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 3.81 0)
 				(length 2.54)
 				(name "PA3"
@@ -4544,7 +4546,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 1.27 0)
 				(length 2.54)
 				(name "PA4"
@@ -4562,7 +4564,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -1.27 0)
 				(length 2.54)
 				(name "PA2-SWC"
@@ -4580,7 +4582,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -3.81 0)
 				(length 2.54)
 				(name "PB6-SWD"
@@ -4598,7 +4600,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -3.81 20.32 270)
 				(length 2.54)
 				(name "PA1"
@@ -4616,7 +4618,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -3.81 -20.32 90)
 				(length 2.54)
 				(name "PA5"
@@ -4634,7 +4636,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -1.27 20.32 270)
 				(length 2.54)
 				(name "VCC"
@@ -4652,7 +4654,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -1.27 -20.32 90)
 				(length 2.54)
 				(name "PA6"
@@ -4670,7 +4672,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 1.27 20.32 270)
 				(length 2.54)
 				(name "PB0"
@@ -4688,7 +4690,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 1.27 -20.32 90)
 				(length 2.54)
 				(name "PA7"
@@ -4706,7 +4708,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 3.81 20.32 270)
 				(length 2.54)
 				(name "PB1"
@@ -4724,7 +4726,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 3.81 -20.32 90)
 				(length 2.54)
 				(name "PC0-NRST"
@@ -4742,7 +4744,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 3.81 180)
 				(length 2.54)
 				(name "PB2"
@@ -4760,7 +4762,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 1.27 180)
 				(length 2.54)
 				(name "PB3"
@@ -4778,7 +4780,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -1.27 180)
 				(length 2.54)
 				(name "PB5"
@@ -4796,7 +4798,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -3.81 180)
 				(length 2.54)
 				(name "PC1"
@@ -4816,7 +4818,7 @@
 			)
 		)
 		(symbol "PY32F002BW15U_1_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at 15.24 -20.32 90)
 				(length 2.54)
 				(name "VSS"
@@ -4898,7 +4900,7 @@
 			)
 		)
 		(symbol "PY32F003A1xNx_0_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 5.08 0)
 				(length 2.54)
 				(name "VCC"
@@ -4916,7 +4918,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 2.54 0)
 				(length 2.54)
 				(name "PA12/PA13-SWD"
@@ -4934,7 +4936,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 0 0)
 				(length 2.54)
 				(name "PB6/PA14-SWC"
@@ -4952,7 +4954,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -2.54 0)
 				(length 2.54)
 				(name "PA4"
@@ -4970,7 +4972,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -5.08 0)
 				(length 2.54)
 				(name "PA3"
@@ -4988,7 +4990,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 5.08 180)
 				(length 2.54)
 				(name "VSS"
@@ -5006,7 +5008,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 2.54 180)
 				(length 2.54)
 				(name "PA2"
@@ -5024,7 +5026,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 0 180)
 				(length 2.54)
 				(name "PA1"
@@ -5042,7 +5044,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -2.54 180)
 				(length 2.54)
 				(name "PA0"
@@ -5060,7 +5062,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -5.08 180)
 				(length 2.54)
 				(name "PF2-NRST"
@@ -5142,7 +5144,7 @@
 			)
 		)
 		(symbol "PY32F003F1xPx_0_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 11.43 0)
 				(length 2.54)
 				(name "PA2"
@@ -5160,7 +5162,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 8.89 0)
 				(length 2.54)
 				(name "PA3"
@@ -5178,7 +5180,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 6.35 0)
 				(length 2.54)
 				(name "PA4"
@@ -5196,7 +5198,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 3.81 0)
 				(length 2.54)
 				(name "PA5"
@@ -5214,7 +5216,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 1.27 0)
 				(length 2.54)
 				(name "PA6"
@@ -5232,7 +5234,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -1.27 0)
 				(length 2.54)
 				(name "PA7"
@@ -5250,7 +5252,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -3.81 0)
 				(length 2.54)
 				(name "VSS"
@@ -5268,7 +5270,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -6.35 0)
 				(length 2.54)
 				(name "PA12"
@@ -5286,7 +5288,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -8.89 0)
 				(length 2.54)
 				(name "VCC"
@@ -5304,7 +5306,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -11.43 0)
 				(length 2.54)
 				(name "PA13-SWD"
@@ -5322,7 +5324,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 11.43 180)
 				(length 2.54)
 				(name "PA1"
@@ -5340,7 +5342,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 8.89 180)
 				(length 2.54)
 				(name "PA0"
@@ -5358,7 +5360,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 6.35 180)
 				(length 2.54)
 				(name "PF2-NRST"
@@ -5376,7 +5378,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 3.81 180)
 				(length 2.54)
 				(name "PF1"
@@ -5394,7 +5396,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 1.27 180)
 				(length 2.54)
 				(name "PF0"
@@ -5412,7 +5414,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -1.27 180)
 				(length 2.54)
 				(name "PF4"
@@ -5430,7 +5432,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -3.81 180)
 				(length 2.54)
 				(name "PB7"
@@ -5448,7 +5450,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -6.35 180)
 				(length 2.54)
 				(name "PB6"
@@ -5466,7 +5468,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -8.89 180)
 				(length 2.54)
 				(name "PB5"
@@ -5484,7 +5486,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -11.43 180)
 				(length 2.54)
 				(name "PA14-SWC"
@@ -5566,7 +5568,7 @@
 			)
 		)
 		(symbol "PY32F003F1xSx_0_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 11.43 0)
 				(length 2.54)
 				(name "PA4"
@@ -5584,7 +5586,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 8.89 0)
 				(length 2.54)
 				(name "PA5"
@@ -5602,7 +5604,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 6.35 0)
 				(length 2.54)
 				(name "PA6"
@@ -5620,7 +5622,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 3.81 0)
 				(length 2.54)
 				(name "PA7"
@@ -5638,7 +5640,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 1.27 0)
 				(length 2.54)
 				(name "PB0"
@@ -5656,7 +5658,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -1.27 0)
 				(length 2.54)
 				(name "PB1"
@@ -5674,7 +5676,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -3.81 0)
 				(length 2.54)
 				(name "VSS"
@@ -5692,7 +5694,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -6.35 0)
 				(length 2.54)
 				(name "PB2"
@@ -5710,7 +5712,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -8.89 0)
 				(length 2.54)
 				(name "VCC"
@@ -5728,7 +5730,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -11.43 0)
 				(length 2.54)
 				(name "PA12"
@@ -5746,7 +5748,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 11.43 180)
 				(length 2.54)
 				(name "PA1"
@@ -5764,7 +5766,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 8.89 180)
 				(length 2.54)
 				(name "PA0"
@@ -5782,7 +5784,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 6.35 180)
 				(length 2.54)
 				(name "PF2-NRST"
@@ -5800,7 +5802,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 3.81 180)
 				(length 2.54)
 				(name "PF1"
@@ -5818,7 +5820,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 1.27 180)
 				(length 2.54)
 				(name "PF0"
@@ -5836,7 +5838,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -1.27 180)
 				(length 2.54)
 				(name "PA2"
@@ -5854,7 +5856,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -3.81 180)
 				(length 2.54)
 				(name "PA3"
@@ -5872,7 +5874,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -6.35 180)
 				(length 2.54)
 				(name "PF4"
@@ -5890,7 +5892,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -8.89 180)
 				(length 2.54)
 				(name "PA14-SWC"
@@ -5908,7 +5910,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -11.43 180)
 				(length 2.54)
 				(name "PA13-SWD"
@@ -5994,7 +5996,7 @@
 			)
 		)
 		(symbol "PY32F003F1xUx_0_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 5.08 0)
 				(length 2.54)
 				(name "PA5"
@@ -6012,7 +6014,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 2.54 0)
 				(length 2.54)
 				(name "PA6"
@@ -6030,7 +6032,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 0 0)
 				(length 2.54)
 				(name "PA7"
@@ -6048,7 +6050,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -2.54 0)
 				(length 2.54)
 				(name "VSS"
@@ -6066,7 +6068,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -5.08 0)
 				(length 2.54)
 				(name "PA12"
@@ -6084,7 +6086,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -5.08 20.32 270)
 				(length 2.54)
 				(name "PA4"
@@ -6102,7 +6104,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -5.08 -20.32 90)
 				(length 2.54)
 				(name "VCC"
@@ -6120,7 +6122,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -2.54 20.32 270)
 				(length 2.54)
 				(name "PA3"
@@ -6138,7 +6140,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -2.54 -20.32 90)
 				(length 2.54)
 				(name "PA13-SWD"
@@ -6156,7 +6158,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 0 20.32 270)
 				(length 2.54)
 				(name "PA2"
@@ -6174,7 +6176,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 0 -20.32 90)
 				(length 2.54)
 				(name "PA14-SWC"
@@ -6192,7 +6194,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 2.54 20.32 270)
 				(length 2.54)
 				(name "PA1"
@@ -6210,7 +6212,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 2.54 -20.32 90)
 				(length 2.54)
 				(name "PB5"
@@ -6228,7 +6230,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 5.08 20.32 270)
 				(length 2.54)
 				(name "PA0"
@@ -6246,7 +6248,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 5.08 -20.32 90)
 				(length 2.54)
 				(name "PB6"
@@ -6264,7 +6266,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 5.08 180)
 				(length 2.54)
 				(name "PF2-NRST"
@@ -6282,7 +6284,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 2.54 180)
 				(length 2.54)
 				(name "PF1"
@@ -6300,7 +6302,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 0 180)
 				(length 2.54)
 				(name "PF0"
@@ -6318,7 +6320,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -2.54 180)
 				(length 2.54)
 				(name "PF4"
@@ -6336,7 +6338,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -5.08 180)
 				(length 2.54)
 				(name "PB7"
@@ -6356,7 +6358,7 @@
 			)
 		)
 		(symbol "PY32F003F1xUx_1_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at 15.24 -20.32 90)
 				(length 2.54)
 				(name "VSS"
@@ -6438,7 +6440,7 @@
 			)
 		)
 		(symbol "PY32F003F2xPx_0_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 11.43 0)
 				(length 2.54)
 				(name "PA3"
@@ -6456,7 +6458,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 8.89 0)
 				(length 2.54)
 				(name "PA4"
@@ -6474,7 +6476,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 6.35 0)
 				(length 2.54)
 				(name "PA5"
@@ -6492,7 +6494,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 3.81 0)
 				(length 2.54)
 				(name "PA6"
@@ -6510,7 +6512,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 1.27 0)
 				(length 2.54)
 				(name "PA7"
@@ -6528,7 +6530,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -1.27 0)
 				(length 2.54)
 				(name "PB1"
@@ -6546,7 +6548,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -3.81 0)
 				(length 2.54)
 				(name "VSS"
@@ -6564,7 +6566,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -6.35 0)
 				(length 2.54)
 				(name "PB2"
@@ -6582,7 +6584,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -8.89 0)
 				(length 2.54)
 				(name "VCC"
@@ -6600,7 +6602,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -11.43 0)
 				(length 2.54)
 				(name "PA12"
@@ -6618,7 +6620,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 11.43 180)
 				(length 2.54)
 				(name "PA2"
@@ -6636,7 +6638,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 8.89 180)
 				(length 2.54)
 				(name "PA1"
@@ -6654,7 +6656,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 6.35 180)
 				(length 2.54)
 				(name "PA0"
@@ -6672,7 +6674,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 3.81 180)
 				(length 2.54)
 				(name "PF2-NRST"
@@ -6690,7 +6692,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 1.27 180)
 				(length 2.54)
 				(name "PF1"
@@ -6708,7 +6710,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -1.27 180)
 				(length 2.54)
 				(name "PF0"
@@ -6726,7 +6728,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -3.81 180)
 				(length 2.54)
 				(name "PF4"
@@ -6744,7 +6746,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -6.35 180)
 				(length 2.54)
 				(name "PB3"
@@ -6762,7 +6764,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -8.89 180)
 				(length 2.54)
 				(name "PA14-SWC"
@@ -6780,7 +6782,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -11.43 180)
 				(length 2.54)
 				(name "PA13-SWD"
@@ -6866,7 +6868,7 @@
 			)
 		)
 		(symbol "PY32F003F2xUx_0_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 5.08 0)
 				(length 2.54)
 				(name "PA2"
@@ -6884,7 +6886,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 2.54 0)
 				(length 2.54)
 				(name "PA3"
@@ -6902,7 +6904,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 0 0)
 				(length 2.54)
 				(name "PA4"
@@ -6920,7 +6922,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -2.54 0)
 				(length 2.54)
 				(name "VSS"
@@ -6938,7 +6940,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -5.08 0)
 				(length 2.54)
 				(name "PB2"
@@ -6956,7 +6958,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -5.08 20.32 270)
 				(length 2.54)
 				(name "PA1"
@@ -6974,7 +6976,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -5.08 -20.32 90)
 				(length 2.54)
 				(name "VCC"
@@ -6992,7 +6994,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -2.54 20.32 270)
 				(length 2.54)
 				(name "PA0"
@@ -7010,7 +7012,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -2.54 -20.32 90)
 				(length 2.54)
 				(name "PA9"
@@ -7028,7 +7030,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 0 20.32 270)
 				(length 2.54)
 				(name "PF2-NRST"
@@ -7046,7 +7048,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 0 -20.32 90)
 				(length 2.54)
 				(name "PA10"
@@ -7064,7 +7066,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 2.54 20.32 270)
 				(length 2.54)
 				(name "PF1"
@@ -7082,7 +7084,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 2.54 -20.32 90)
 				(length 2.54)
 				(name "PA13-SWD"
@@ -7100,7 +7102,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 5.08 20.32 270)
 				(length 2.54)
 				(name "PF0"
@@ -7118,7 +7120,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 5.08 -20.32 90)
 				(length 2.54)
 				(name "PA14-SWC"
@@ -7136,7 +7138,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 5.08 180)
 				(length 2.54)
 				(name "PB8"
@@ -7154,7 +7156,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 2.54 180)
 				(length 2.54)
 				(name "PF4"
@@ -7172,7 +7174,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 0 180)
 				(length 2.54)
 				(name "PB7"
@@ -7190,7 +7192,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -2.54 180)
 				(length 2.54)
 				(name "PB5"
@@ -7208,7 +7210,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -5.08 180)
 				(length 2.54)
 				(name "PB4"
@@ -7228,7 +7230,7 @@
 			)
 		)
 		(symbol "PY32F003F2xUx_1_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at 15.24 -20.32 90)
 				(length 2.54)
 				(name "VSS"
@@ -7310,7 +7312,7 @@
 			)
 		)
 		(symbol "PY32F003F3xPx_0_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 11.43 0)
 				(length 2.54)
 				(name "PA1"
@@ -7328,7 +7330,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 8.89 0)
 				(length 2.54)
 				(name "PA2"
@@ -7346,7 +7348,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 6.35 0)
 				(length 2.54)
 				(name "PA3"
@@ -7364,7 +7366,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 3.81 0)
 				(length 2.54)
 				(name "PA4"
@@ -7382,7 +7384,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 1.27 0)
 				(length 2.54)
 				(name "PF0"
@@ -7400,7 +7402,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -1.27 0)
 				(length 2.54)
 				(name "PA7"
@@ -7418,7 +7420,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -3.81 0)
 				(length 2.54)
 				(name "VSS"
@@ -7436,7 +7438,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -6.35 0)
 				(length 2.54)
 				(name "PB2"
@@ -7454,7 +7456,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -8.89 0)
 				(length 2.54)
 				(name "VCC"
@@ -7472,7 +7474,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -11.43 0)
 				(length 2.54)
 				(name "PA12"
@@ -7490,7 +7492,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 11.43 180)
 				(length 2.54)
 				(name "PA0"
@@ -7508,7 +7510,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 8.89 180)
 				(length 2.54)
 				(name "PF2-NRST"
@@ -7526,7 +7528,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 6.35 180)
 				(length 2.54)
 				(name "PF4"
@@ -7544,7 +7546,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 3.81 180)
 				(length 2.54)
 				(name "PB7"
@@ -7562,7 +7564,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 1.27 180)
 				(length 2.54)
 				(name "PB6"
@@ -7580,7 +7582,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -1.27 180)
 				(length 2.54)
 				(name "PB5"
@@ -7598,7 +7600,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -3.81 180)
 				(length 2.54)
 				(name "PB4"
@@ -7616,7 +7618,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -6.35 180)
 				(length 2.54)
 				(name "PB3"
@@ -7634,7 +7636,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -8.89 180)
 				(length 2.54)
 				(name "PA14-SWC"
@@ -7652,7 +7654,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -11.43 180)
 				(length 2.54)
 				(name "PA13-SWD"
@@ -7734,7 +7736,7 @@
 			)
 		)
 		(symbol "PY32F003F4xPx_0_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 11.43 0)
 				(length 2.54)
 				(name "PF1"
@@ -7752,7 +7754,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 8.89 0)
 				(length 2.54)
 				(name "PA2/PF2-NRST"
@@ -7770,7 +7772,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 6.35 0)
 				(length 2.54)
 				(name "PA3"
@@ -7788,7 +7790,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 3.81 0)
 				(length 2.54)
 				(name "PA4"
@@ -7806,7 +7808,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 1.27 0)
 				(length 2.54)
 				(name "PB0"
@@ -7824,7 +7826,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -1.27 0)
 				(length 2.54)
 				(name "PB1"
@@ -7842,7 +7844,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -3.81 0)
 				(length 2.54)
 				(name "VSS"
@@ -7860,7 +7862,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -6.35 0)
 				(length 2.54)
 				(name "PB2"
@@ -7878,7 +7880,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -8.89 0)
 				(length 2.54)
 				(name "VCC"
@@ -7896,7 +7898,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -11.43 0)
 				(length 2.54)
 				(name "PA9"
@@ -7914,7 +7916,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 11.43 180)
 				(length 2.54)
 				(name "PF0"
@@ -7932,7 +7934,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 8.89 180)
 				(length 2.54)
 				(name "PA7"
@@ -7950,7 +7952,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 6.35 180)
 				(length 2.54)
 				(name "PA13-SWD"
@@ -7968,7 +7970,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 3.81 180)
 				(length 2.54)
 				(name "PA14-SWC"
@@ -7986,7 +7988,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 1.27 180)
 				(length 2.54)
 				(name "PB4"
@@ -8004,7 +8006,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -1.27 180)
 				(length 2.54)
 				(name "PB3"
@@ -8022,7 +8024,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -3.81 180)
 				(length 2.54)
 				(name "PA15"
@@ -8040,7 +8042,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -6.35 180)
 				(length 2.54)
 				(name "PA12"
@@ -8058,7 +8060,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -8.89 180)
 				(length 2.54)
 				(name "PA11"
@@ -8076,7 +8078,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -11.43 180)
 				(length 2.54)
 				(name "PA10"
@@ -8158,7 +8160,7 @@
 			)
 		)
 		(symbol "PY32F003F5xPx_0_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 11.43 0)
 				(length 2.54)
 				(name "PA2"
@@ -8176,7 +8178,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 8.89 0)
 				(length 2.54)
 				(name "PA3"
@@ -8194,7 +8196,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 6.35 0)
 				(length 2.54)
 				(name "PA4"
@@ -8212,7 +8214,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 3.81 0)
 				(length 2.54)
 				(name "PA5"
@@ -8230,7 +8232,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 1.27 0)
 				(length 2.54)
 				(name "PA6"
@@ -8248,7 +8250,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -1.27 0)
 				(length 2.54)
 				(name "PA7"
@@ -8266,7 +8268,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -3.81 0)
 				(length 2.54)
 				(name "VSS"
@@ -8284,7 +8286,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -6.35 0)
 				(length 2.54)
 				(name "PB2"
@@ -8302,7 +8304,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -8.89 0)
 				(length 2.54)
 				(name "VCC"
@@ -8320,7 +8322,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -11.43 0)
 				(length 2.54)
 				(name "PA13-SWD"
@@ -8338,7 +8340,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 11.43 180)
 				(length 2.54)
 				(name "PA1"
@@ -8356,7 +8358,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 8.89 180)
 				(length 2.54)
 				(name "PF3"
@@ -8374,7 +8376,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 6.35 180)
 				(length 2.54)
 				(name "PF2-NRST"
@@ -8392,7 +8394,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 3.81 180)
 				(length 2.54)
 				(name "PF1"
@@ -8410,7 +8412,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 1.27 180)
 				(length 2.54)
 				(name "PF0"
@@ -8428,7 +8430,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -1.27 180)
 				(length 2.54)
 				(name "PF4"
@@ -8446,7 +8448,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -3.81 180)
 				(length 2.54)
 				(name "PB8"
@@ -8464,7 +8466,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -6.35 180)
 				(length 2.54)
 				(name "PB6"
@@ -8482,7 +8484,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -8.89 180)
 				(length 2.54)
 				(name "PB5"
@@ -8500,7 +8502,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -11.43 180)
 				(length 2.54)
 				(name "PA14-SWC"
@@ -8582,7 +8584,7 @@
 			)
 		)
 		(symbol "PY32F003F6xPx_0_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 11.43 0)
 				(length 2.54)
 				(name "VCC"
@@ -8600,7 +8602,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 8.89 0)
 				(length 2.54)
 				(name "VSS"
@@ -8618,7 +8620,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 6.35 0)
 				(length 2.54)
 				(name "PB1"
@@ -8636,7 +8638,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 3.81 0)
 				(length 2.54)
 				(name "PA10"
@@ -8654,7 +8656,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 1.27 0)
 				(length 2.54)
 				(name "PA11"
@@ -8672,7 +8674,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -1.27 0)
 				(length 2.54)
 				(name "PA12"
@@ -8690,7 +8692,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -3.81 0)
 				(length 2.54)
 				(name "PA14-SWC"
@@ -8708,7 +8710,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -6.35 0)
 				(length 2.54)
 				(name "PA13-SWD"
@@ -8726,7 +8728,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -8.89 0)
 				(length 2.54)
 				(name "PB0"
@@ -8744,7 +8746,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -11.43 0)
 				(length 2.54)
 				(name "PA5"
@@ -8762,7 +8764,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 11.43 180)
 				(length 2.54)
 				(name "PA7"
@@ -8780,7 +8782,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 8.89 180)
 				(length 2.54)
 				(name "PA6"
@@ -8798,7 +8800,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 6.35 180)
 				(length 2.54)
 				(name "PA4"
@@ -8816,7 +8818,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 3.81 180)
 				(length 2.54)
 				(name "PA3"
@@ -8834,7 +8836,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 1.27 180)
 				(length 2.54)
 				(name "PA2"
@@ -8852,7 +8854,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -1.27 180)
 				(length 2.54)
 				(name "PA1"
@@ -8870,7 +8872,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -3.81 180)
 				(length 2.54)
 				(name "PA0"
@@ -8888,7 +8890,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -6.35 180)
 				(length 2.54)
 				(name "PF2-NRST"
@@ -8906,7 +8908,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -8.89 180)
 				(length 2.54)
 				(name "PF1"
@@ -8924,7 +8926,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -11.43 180)
 				(length 2.54)
 				(name "PF0"
@@ -9006,7 +9008,7 @@
 			)
 		)
 		(symbol "PY32F003L1xSx_0_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -1.27 0)
 				(length 2.54)
 				(name "PA1"
@@ -9024,7 +9026,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -3.81 0)
 				(length 2.54)
 				(name "PA2"
@@ -9042,7 +9044,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 3.81 180)
 				(length 2.54)
 				(name "VSS"
@@ -9060,7 +9062,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 1.27 180)
 				(length 2.54)
 				(name "PB5/PA14-SWC"
@@ -9078,7 +9080,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -1.27 180)
 				(length 2.54)
 				(name "PA10/PA13-SWD"
@@ -9096,7 +9098,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -3.81 180)
 				(length 2.54)
 				(name "PB0/PF2-NRST"
@@ -9116,7 +9118,7 @@
 			)
 		)
 		(symbol "PY32F003L1xSx_1_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 3.81 0)
 				(length 2.54)
 				(name "VCC"
@@ -9134,7 +9136,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 1.27 0)
 				(length 2.54)
 				(name "PA0"
@@ -9216,7 +9218,7 @@
 			)
 		)
 		(symbol "PY32F003L2xDx_0_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -1.27 0)
 				(length 2.54)
 				(name "PA1"
@@ -9234,7 +9236,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -3.81 0)
 				(length 2.54)
 				(name "PA2"
@@ -9252,7 +9254,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 3.81 180)
 				(length 2.54)
 				(name "PB5"
@@ -9270,7 +9272,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 1.27 180)
 				(length 2.54)
 				(name "PA14-SWC/PB6"
@@ -9288,7 +9290,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -1.27 180)
 				(length 2.54)
 				(name "PA13-SWD/PA10"
@@ -9306,7 +9308,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -3.81 180)
 				(length 2.54)
 				(name "PB0/PF2-NRST"
@@ -9326,7 +9328,7 @@
 			)
 		)
 		(symbol "PY32F003L2xDx_1_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 3.81 0)
 				(length 2.54)
 				(name "VCC"
@@ -9344,7 +9346,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 1.27 0)
 				(length 2.54)
 				(name "PA0"
@@ -9362,7 +9364,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -10.16 -8.89 90)
 				(length 2.54)
 				(name "VSS"
@@ -9444,7 +9446,7 @@
 			)
 		)
 		(symbol "PY32F003L2xSx_0_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -1.27 0)
 				(length 2.54)
 				(name "PA1"
@@ -9462,7 +9464,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -3.81 0)
 				(length 2.54)
 				(name "PA2"
@@ -9480,7 +9482,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 3.81 180)
 				(length 2.54)
 				(name "VSS"
@@ -9498,7 +9500,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -1.27 180)
 				(length 2.54)
 				(name "PA10/PA13-SWD"
@@ -9516,7 +9518,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -3.81 180)
 				(length 2.54)
 				(name "PB0/PF2-NRST"
@@ -9536,7 +9538,7 @@
 			)
 		)
 		(symbol "PY32F003L2xSx_1_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 3.81 0)
 				(length 2.54)
 				(name "VCC"
@@ -9554,7 +9556,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 1.27 0)
 				(length 2.54)
 				(name "PA0"
@@ -9572,7 +9574,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 1.27 180)
 				(length 2.54)
 				(name "PB7/PA14-SWC"
@@ -9654,7 +9656,7 @@
 			)
 		)
 		(symbol "PY32F003W1xSx_0_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 8.89 0)
 				(length 2.54)
 				(name "VSS"
@@ -9672,7 +9674,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 6.35 0)
 				(length 2.54)
 				(name "PA12"
@@ -9690,7 +9692,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 3.81 0)
 				(length 2.54)
 				(name "PA13-SWD"
@@ -9708,7 +9710,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 1.27 0)
 				(length 2.54)
 				(name "PF1/PA14-SWC"
@@ -9726,7 +9728,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -1.27 0)
 				(length 2.54)
 				(name "PF0/PF2-NRST"
@@ -9744,7 +9746,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -3.81 0)
 				(length 2.54)
 				(name "PA0"
@@ -9762,7 +9764,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -6.35 0)
 				(length 2.54)
 				(name "PA1"
@@ -9780,7 +9782,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -8.89 0)
 				(length 2.54)
 				(name "PA2"
@@ -9798,7 +9800,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 8.89 180)
 				(length 2.54)
 				(name "VCC"
@@ -9816,7 +9818,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 6.35 180)
 				(length 2.54)
 				(name "PB1"
@@ -9834,7 +9836,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 3.81 180)
 				(length 2.54)
 				(name "PB0"
@@ -9852,7 +9854,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 1.27 180)
 				(length 2.54)
 				(name "PA7"
@@ -9870,7 +9872,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -1.27 180)
 				(length 2.54)
 				(name "PA6"
@@ -9888,7 +9890,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -3.81 180)
 				(length 2.54)
 				(name "PA5"
@@ -9906,7 +9908,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -6.35 180)
 				(length 2.54)
 				(name "PA4"
@@ -9924,7 +9926,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -8.89 180)
 				(length 2.54)
 				(name "PA3"
@@ -10006,7 +10008,7 @@
 			)
 		)
 		(symbol "PY32F030E1xMx_0_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 13.97 0)
 				(length 2.54)
 				(name "VCC"
@@ -10024,7 +10026,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 11.43 0)
 				(length 2.54)
 				(name "PF0-OSCIN"
@@ -10042,7 +10044,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 8.89 0)
 				(length 2.54)
 				(name "PF1-OSCOUT"
@@ -10060,7 +10062,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 6.35 0)
 				(length 2.54)
 				(name "PF2-NRST"
@@ -10078,7 +10080,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 3.81 0)
 				(length 2.54)
 				(name "PA0"
@@ -10096,7 +10098,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 1.27 0)
 				(length 2.54)
 				(name "PA1"
@@ -10114,7 +10116,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -1.27 0)
 				(length 2.54)
 				(name "PA2"
@@ -10132,7 +10134,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -3.81 0)
 				(length 2.54)
 				(name "PA3"
@@ -10150,7 +10152,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -6.35 0)
 				(length 2.54)
 				(name "PA4"
@@ -10168,7 +10170,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -8.89 0)
 				(length 2.54)
 				(name "PA5"
@@ -10186,7 +10188,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -11.43 0)
 				(length 2.54)
 				(name "PA6"
@@ -10204,7 +10206,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -13.97 0)
 				(length 2.54)
 				(name "PA7"
@@ -10222,7 +10224,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 13.97 180)
 				(length 2.54)
 				(name "VSS"
@@ -10240,7 +10242,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 11.43 180)
 				(length 2.54)
 				(name "PB8"
@@ -10258,7 +10260,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 8.89 180)
 				(length 2.54)
 				(name "PF4-BOOT0"
@@ -10276,7 +10278,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 6.35 180)
 				(length 2.54)
 				(name "PB5"
@@ -10294,7 +10296,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 3.81 180)
 				(length 2.54)
 				(name "PB4"
@@ -10312,7 +10314,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 1.27 180)
 				(length 2.54)
 				(name "PB3"
@@ -10330,7 +10332,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -1.27 180)
 				(length 2.54)
 				(name "PA15"
@@ -10348,7 +10350,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -3.81 180)
 				(length 2.54)
 				(name "PA14"
@@ -10366,7 +10368,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -6.35 180)
 				(length 2.54)
 				(name "PA13"
@@ -10384,7 +10386,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -8.89 180)
 				(length 2.54)
 				(name "PA12"
@@ -10402,7 +10404,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -11.43 180)
 				(length 2.54)
 				(name "PB1"
@@ -10420,7 +10422,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -13.97 180)
 				(length 2.54)
 				(name "PB0"
@@ -10505,7 +10507,7 @@
 			)
 		)
 		(symbol "PY32F030E1xUx-E_0_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 6.35 0)
 				(length 2.54)
 				(name "VCC"
@@ -10523,7 +10525,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 3.81 0)
 				(length 2.54)
 				(name "PF0-OSCIN"
@@ -10541,7 +10543,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 1.27 0)
 				(length 2.54)
 				(name "PF1-OSCOUT"
@@ -10559,7 +10561,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -1.27 0)
 				(length 2.54)
 				(name "PF2-NRST"
@@ -10577,7 +10579,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -3.81 0)
 				(length 2.54)
 				(name "PF3"
@@ -10595,7 +10597,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -6.35 0)
 				(length 2.54)
 				(name "PA0"
@@ -10613,7 +10615,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -6.35 -20.32 90)
 				(length 2.54)
 				(name "PA1"
@@ -10631,7 +10633,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -3.81 20.32 270)
 				(length 2.54)
 				(name "PB5"
@@ -10649,7 +10651,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -3.81 -20.32 90)
 				(length 2.54)
 				(name "PA2"
@@ -10667,7 +10669,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -1.27 20.32 270)
 				(length 2.54)
 				(name "PB4"
@@ -10685,7 +10687,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -1.27 -20.32 90)
 				(length 2.54)
 				(name "PA3"
@@ -10703,7 +10705,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 1.27 20.32 270)
 				(length 2.54)
 				(name "PB3"
@@ -10721,7 +10723,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 1.27 -20.32 90)
 				(length 2.54)
 				(name "PA4"
@@ -10739,7 +10741,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 3.81 20.32 270)
 				(length 2.54)
 				(name "PA15"
@@ -10757,7 +10759,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 3.81 -20.32 90)
 				(length 2.54)
 				(name "PA5"
@@ -10775,7 +10777,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 6.35 20.32 270)
 				(length 2.54)
 				(name "PA14-SWC"
@@ -10793,7 +10795,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 6.35 -20.32 90)
 				(length 2.54)
 				(name "PA6"
@@ -10811,7 +10813,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 6.35 180)
 				(length 2.54)
 				(name "PA13-SWD"
@@ -10829,7 +10831,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 3.81 180)
 				(length 2.54)
 				(name "PA10-OSC32IN"
@@ -10847,7 +10849,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 1.27 180)
 				(length 2.54)
 				(name "PB2"
@@ -10865,7 +10867,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -1.27 180)
 				(length 2.54)
 				(name "PB1"
@@ -10883,7 +10885,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -3.81 180)
 				(length 2.54)
 				(name "PB0"
@@ -10901,7 +10903,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -6.35 180)
 				(length 2.54)
 				(name "PA7"
@@ -10921,7 +10923,7 @@
 			)
 		)
 		(symbol "PY32F030E1xUx-E_1_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at -6.35 20.32 270)
 				(length 2.54)
 				(name "PB8"
@@ -10939,7 +10941,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 15.24 -20.32 90)
 				(length 2.54)
 				(name "VSS"
@@ -11021,7 +11023,7 @@
 			)
 		)
 		(symbol "PY32F030E2xMx_0_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 13.97 0)
 				(length 2.54)
 				(name "VCC"
@@ -11039,7 +11041,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 11.43 0)
 				(length 2.54)
 				(name "PF0-OSCIN"
@@ -11057,7 +11059,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 8.89 0)
 				(length 2.54)
 				(name "PF1-OSCOUT"
@@ -11075,7 +11077,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 6.35 0)
 				(length 2.54)
 				(name "PF2-NRST"
@@ -11093,7 +11095,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 3.81 0)
 				(length 2.54)
 				(name "PA0"
@@ -11111,7 +11113,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 1.27 0)
 				(length 2.54)
 				(name "PA1"
@@ -11129,7 +11131,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -1.27 0)
 				(length 2.54)
 				(name "PA2"
@@ -11147,7 +11149,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -3.81 0)
 				(length 2.54)
 				(name "PA3"
@@ -11165,7 +11167,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -6.35 0)
 				(length 2.54)
 				(name "PA4"
@@ -11183,7 +11185,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -8.89 0)
 				(length 2.54)
 				(name "PA5"
@@ -11201,7 +11203,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -11.43 0)
 				(length 2.54)
 				(name "PA6"
@@ -11219,7 +11221,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -13.97 0)
 				(length 2.54)
 				(name "PA7"
@@ -11237,7 +11239,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 13.97 180)
 				(length 2.54)
 				(name "VSS"
@@ -11255,7 +11257,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 11.43 180)
 				(length 2.54)
 				(name "PB8"
@@ -11273,7 +11275,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 8.89 180)
 				(length 2.54)
 				(name "PF4-BOOT0"
@@ -11291,7 +11293,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 6.35 180)
 				(length 2.54)
 				(name "PB5"
@@ -11309,7 +11311,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 3.81 180)
 				(length 2.54)
 				(name "PB4"
@@ -11327,7 +11329,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 1.27 180)
 				(length 2.54)
 				(name "PB3"
@@ -11345,7 +11347,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -1.27 180)
 				(length 2.54)
 				(name "PA15"
@@ -11363,7 +11365,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -3.81 180)
 				(length 2.54)
 				(name "PA14"
@@ -11381,7 +11383,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -6.35 180)
 				(length 2.54)
 				(name "PA13"
@@ -11399,7 +11401,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -11.43 180)
 				(length 2.54)
 				(name "PB1"
@@ -11417,7 +11419,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -13.97 180)
 				(length 2.54)
 				(name "PB0"
@@ -11437,7 +11439,7 @@
 			)
 		)
 		(symbol "PY32F030E2xMx_1_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -8.89 180)
 				(length 2.54)
 				(name "PB2"
@@ -11519,7 +11521,7 @@
 			)
 		)
 		(symbol "PY32F030F1xPx_0_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 11.43 0)
 				(length 2.54)
 				(name "PF0-OSCIN"
@@ -11537,7 +11539,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 8.89 0)
 				(length 2.54)
 				(name "PF1-OSCOUT"
@@ -11555,7 +11557,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 6.35 0)
 				(length 2.54)
 				(name "PF2-NRST"
@@ -11573,7 +11575,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 3.81 0)
 				(length 2.54)
 				(name "PF3"
@@ -11591,7 +11593,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 1.27 0)
 				(length 2.54)
 				(name "PA2"
@@ -11609,7 +11611,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -1.27 0)
 				(length 2.54)
 				(name "PA3"
@@ -11627,7 +11629,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -3.81 0)
 				(length 2.54)
 				(name "VSS"
@@ -11645,7 +11647,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -6.35 0)
 				(length 2.54)
 				(name "PB2"
@@ -11663,7 +11665,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -8.89 0)
 				(length 2.54)
 				(name "VCC"
@@ -11681,7 +11683,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -11.43 0)
 				(length 2.54)
 				(name "PA8"
@@ -11699,7 +11701,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 11.43 180)
 				(length 2.54)
 				(name "PF4-BOOT0"
@@ -11717,7 +11719,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 8.89 180)
 				(length 2.54)
 				(name "PB7"
@@ -11735,7 +11737,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 6.35 180)
 				(length 2.54)
 				(name "PB6"
@@ -11753,7 +11755,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 3.81 180)
 				(length 2.54)
 				(name "PB5"
@@ -11771,7 +11773,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 1.27 180)
 				(length 2.54)
 				(name "PB4"
@@ -11789,7 +11791,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -1.27 180)
 				(length 2.54)
 				(name "PA14"
@@ -11807,7 +11809,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -3.81 180)
 				(length 2.54)
 				(name "PA13"
@@ -11825,7 +11827,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -6.35 180)
 				(length 2.54)
 				(name "PA11"
@@ -11843,7 +11845,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -8.89 180)
 				(length 2.54)
 				(name "PA10-OSC32IN"
@@ -11861,7 +11863,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -11.43 180)
 				(length 2.54)
 				(name "PA9-OSC32OUT"
@@ -11947,7 +11949,7 @@
 			)
 		)
 		(symbol "PY32F030F1xUx_0_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 5.08 0)
 				(length 2.54)
 				(name "PA2"
@@ -11965,7 +11967,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 2.54 0)
 				(length 2.54)
 				(name "PA3"
@@ -11983,7 +11985,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 0 0)
 				(length 2.54)
 				(name "PA4"
@@ -12001,7 +12003,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -2.54 0)
 				(length 2.54)
 				(name "VSS"
@@ -12019,7 +12021,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -5.08 0)
 				(length 2.54)
 				(name "PB2"
@@ -12037,7 +12039,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -5.08 20.32 270)
 				(length 2.54)
 				(name "PA1"
@@ -12055,7 +12057,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -5.08 -20.32 90)
 				(length 2.54)
 				(name "VCC"
@@ -12073,7 +12075,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -2.54 20.32 270)
 				(length 2.54)
 				(name "PA0"
@@ -12091,7 +12093,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -2.54 -20.32 90)
 				(length 2.54)
 				(name "PA9"
@@ -12109,7 +12111,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 0 20.32 270)
 				(length 2.54)
 				(name "PF2-NRST"
@@ -12127,7 +12129,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 0 -20.32 90)
 				(length 2.54)
 				(name "PA10"
@@ -12145,7 +12147,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 2.54 20.32 270)
 				(length 2.54)
 				(name "PF1-OSCOUT"
@@ -12163,7 +12165,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 2.54 -20.32 90)
 				(length 2.54)
 				(name "PA13"
@@ -12181,7 +12183,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 5.08 20.32 270)
 				(length 2.54)
 				(name "PF0-OSCIN"
@@ -12199,7 +12201,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 5.08 -20.32 90)
 				(length 2.54)
 				(name "PA14"
@@ -12217,7 +12219,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 5.08 180)
 				(length 2.54)
 				(name "PB8"
@@ -12235,7 +12237,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 2.54 180)
 				(length 2.54)
 				(name "PF4-BOOT0"
@@ -12253,7 +12255,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 0 180)
 				(length 2.54)
 				(name "PB7"
@@ -12271,7 +12273,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -2.54 180)
 				(length 2.54)
 				(name "PB5"
@@ -12289,7 +12291,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -5.08 180)
 				(length 2.54)
 				(name "PB4"
@@ -12309,7 +12311,7 @@
 			)
 		)
 		(symbol "PY32F030F1xUx_1_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at 15.24 -20.32 90)
 				(length 2.54)
 				(name "VSS"
@@ -12391,7 +12393,7 @@
 			)
 		)
 		(symbol "PY32F030F2xPx_0_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 11.43 0)
 				(length 2.54)
 				(name "PA2"
@@ -12409,7 +12411,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 8.89 0)
 				(length 2.54)
 				(name "PA3"
@@ -12427,7 +12429,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 6.35 0)
 				(length 2.54)
 				(name "PA4"
@@ -12445,7 +12447,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 3.81 0)
 				(length 2.54)
 				(name "PA5"
@@ -12463,7 +12465,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 1.27 0)
 				(length 2.54)
 				(name "PA6"
@@ -12481,7 +12483,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -1.27 0)
 				(length 2.54)
 				(name "PA7"
@@ -12499,7 +12501,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -3.81 0)
 				(length 2.54)
 				(name "VSS"
@@ -12517,7 +12519,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -6.35 0)
 				(length 2.54)
 				(name "PA12"
@@ -12535,7 +12537,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -8.89 0)
 				(length 2.54)
 				(name "VCC"
@@ -12553,7 +12555,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -11.43 0)
 				(length 2.54)
 				(name "PA13"
@@ -12571,7 +12573,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 11.43 180)
 				(length 2.54)
 				(name "PA1"
@@ -12589,7 +12591,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 8.89 180)
 				(length 2.54)
 				(name "PA0"
@@ -12607,7 +12609,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 6.35 180)
 				(length 2.54)
 				(name "PF2-NRST"
@@ -12625,7 +12627,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 3.81 180)
 				(length 2.54)
 				(name "PF1-OSCOUT"
@@ -12643,7 +12645,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 1.27 180)
 				(length 2.54)
 				(name "PF0-OSCIN"
@@ -12661,7 +12663,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -1.27 180)
 				(length 2.54)
 				(name "PF4-BOOT0"
@@ -12679,7 +12681,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -3.81 180)
 				(length 2.54)
 				(name "PB7"
@@ -12697,7 +12699,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -6.35 180)
 				(length 2.54)
 				(name "PB6"
@@ -12715,7 +12717,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -8.89 180)
 				(length 2.54)
 				(name "PB5"
@@ -12733,7 +12735,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -11.43 180)
 				(length 2.54)
 				(name "PA14"
@@ -12819,7 +12821,7 @@
 			)
 		)
 		(symbol "PY32F030F2xUx_0_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 5.08 0)
 				(length 2.54)
 				(name "PA5"
@@ -12837,7 +12839,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 2.54 0)
 				(length 2.54)
 				(name "PA6"
@@ -12855,7 +12857,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 0 0)
 				(length 2.54)
 				(name "PA7"
@@ -12873,7 +12875,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -2.54 0)
 				(length 2.54)
 				(name "VSS"
@@ -12891,7 +12893,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -5.08 0)
 				(length 2.54)
 				(name "PA12"
@@ -12909,7 +12911,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -5.08 20.32 270)
 				(length 2.54)
 				(name "PA4"
@@ -12927,7 +12929,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -5.08 -20.32 90)
 				(length 2.54)
 				(name "VCC"
@@ -12945,7 +12947,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -2.54 20.32 270)
 				(length 2.54)
 				(name "PA3"
@@ -12963,7 +12965,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -2.54 -20.32 90)
 				(length 2.54)
 				(name "PA13"
@@ -12981,7 +12983,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 0 20.32 270)
 				(length 2.54)
 				(name "PA2"
@@ -12999,7 +13001,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 2.54 20.32 270)
 				(length 2.54)
 				(name "PA1"
@@ -13017,7 +13019,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 2.54 -20.32 90)
 				(length 2.54)
 				(name "PB5"
@@ -13035,7 +13037,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 5.08 20.32 270)
 				(length 2.54)
 				(name "PA0"
@@ -13053,7 +13055,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 5.08 -20.32 90)
 				(length 2.54)
 				(name "PB6"
@@ -13071,7 +13073,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 5.08 180)
 				(length 2.54)
 				(name "PF2-NRST"
@@ -13089,7 +13091,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 2.54 180)
 				(length 2.54)
 				(name "PF1-OSCOUT"
@@ -13107,7 +13109,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 0 180)
 				(length 2.54)
 				(name "PF0-OSCIN"
@@ -13125,7 +13127,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -2.54 180)
 				(length 2.54)
 				(name "PF4-BOOT0"
@@ -13143,7 +13145,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -5.08 180)
 				(length 2.54)
 				(name "PB7"
@@ -13163,7 +13165,7 @@
 			)
 		)
 		(symbol "PY32F030F2xUx_1_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at 0 -20.32 90)
 				(length 2.54)
 				(name "PA14"
@@ -13181,7 +13183,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 15.24 -20.32 90)
 				(length 2.54)
 				(name "VSS"
@@ -13263,7 +13265,7 @@
 			)
 		)
 		(symbol "PY32F030F3xPx_0_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 11.43 0)
 				(length 2.54)
 				(name "PF4-BOOT0"
@@ -13281,7 +13283,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 8.89 0)
 				(length 2.54)
 				(name "PF0-OSCIN"
@@ -13299,7 +13301,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 6.35 0)
 				(length 2.54)
 				(name "PF1-OSCOUT"
@@ -13317,7 +13319,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 3.81 0)
 				(length 2.54)
 				(name "PF2-NRST"
@@ -13335,7 +13337,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 1.27 0)
 				(length 2.54)
 				(name "PF3"
@@ -13353,7 +13355,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -1.27 0)
 				(length 2.54)
 				(name "PA0"
@@ -13371,7 +13373,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -3.81 0)
 				(length 2.54)
 				(name "PA1"
@@ -13389,7 +13391,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -6.35 0)
 				(length 2.54)
 				(name "PA2"
@@ -13407,7 +13409,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -8.89 0)
 				(length 2.54)
 				(name "PA3"
@@ -13425,7 +13427,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -11.43 0)
 				(length 2.54)
 				(name "PA4"
@@ -13443,7 +13445,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 11.43 180)
 				(length 2.54)
 				(name "PA14"
@@ -13461,7 +13463,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 8.89 180)
 				(length 2.54)
 				(name "PA13"
@@ -13479,7 +13481,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 6.35 180)
 				(length 2.54)
 				(name "PA10"
@@ -13497,7 +13499,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 3.81 180)
 				(length 2.54)
 				(name "PA9"
@@ -13515,7 +13517,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 1.27 180)
 				(length 2.54)
 				(name "VCC"
@@ -13533,7 +13535,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -1.27 180)
 				(length 2.54)
 				(name "VSS"
@@ -13551,7 +13553,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -3.81 180)
 				(length 2.54)
 				(name "PB1"
@@ -13569,7 +13571,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -6.35 180)
 				(length 2.54)
 				(name "PA7"
@@ -13587,7 +13589,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -8.89 180)
 				(length 2.54)
 				(name "PA6"
@@ -13605,7 +13607,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -11.43 180)
 				(length 2.54)
 				(name "PA5"
@@ -13691,7 +13693,7 @@
 			)
 		)
 		(symbol "PY32F030F3xUx_0_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 5.08 0)
 				(length 2.54)
 				(name "PF0"
@@ -13709,7 +13711,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 2.54 0)
 				(length 2.54)
 				(name "NC"
@@ -13727,7 +13729,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 0 0)
 				(length 2.54)
 				(name "PF1"
@@ -13745,7 +13747,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -2.54 0)
 				(length 2.54)
 				(name "PF2"
@@ -13763,7 +13765,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -5.08 0)
 				(length 2.54)
 				(name "PA0"
@@ -13781,7 +13783,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -5.08 20.32 270)
 				(length 2.54)
 				(name "VCC"
@@ -13799,7 +13801,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -5.08 -20.32 90)
 				(length 2.54)
 				(name "PA4"
@@ -13817,7 +13819,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -2.54 20.32 270)
 				(length 2.54)
 				(name "PB7"
@@ -13835,7 +13837,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -2.54 -20.32 90)
 				(length 2.54)
 				(name "PA5"
@@ -13853,7 +13855,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 0 20.32 270)
 				(length 2.54)
 				(name "PB6"
@@ -13871,7 +13873,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 0 -20.32 90)
 				(length 2.54)
 				(name "NC"
@@ -13889,7 +13891,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 2.54 20.32 270)
 				(length 2.54)
 				(name "PB5"
@@ -13907,7 +13909,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 2.54 -20.32 90)
 				(length 2.54)
 				(name "PA6"
@@ -13925,7 +13927,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 5.08 20.32 270)
 				(length 2.54)
 				(name "PB4"
@@ -13943,7 +13945,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 5.08 -20.32 90)
 				(length 2.54)
 				(name "PA7"
@@ -13961,7 +13963,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 5.08 180)
 				(length 2.54)
 				(name "PA14"
@@ -13979,7 +13981,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 2.54 180)
 				(length 2.54)
 				(name "PA13"
@@ -13997,7 +13999,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 0 180)
 				(length 2.54)
 				(name "PA12"
@@ -14015,7 +14017,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -2.54 180)
 				(length 2.54)
 				(name "PA9"
@@ -14033,7 +14035,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -5.08 180)
 				(length 2.54)
 				(name "PA8"
@@ -14053,7 +14055,7 @@
 			)
 		)
 		(symbol "PY32F030F3xUx_1_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at 15.24 -20.32 90)
 				(length 2.54)
 				(name "VSS"
@@ -14135,7 +14137,7 @@
 			)
 		)
 		(symbol "PY32F030F4xP_0_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 11.43 0)
 				(length 2.54)
 				(name "PA4"
@@ -14153,7 +14155,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 8.89 0)
 				(length 2.54)
 				(name "PA6"
@@ -14171,7 +14173,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 6.35 0)
 				(length 2.54)
 				(name "PA7"
@@ -14189,7 +14191,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 3.81 0)
 				(length 2.54)
 				(name "PB0"
@@ -14207,7 +14209,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 1.27 0)
 				(length 2.54)
 				(name "PB1"
@@ -14225,7 +14227,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -1.27 0)
 				(length 2.54)
 				(name "VSS"
@@ -14243,7 +14245,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -3.81 0)
 				(length 2.54)
 				(name "VCC"
@@ -14261,7 +14263,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -6.35 0)
 				(length 2.54)
 				(name "PA8"
@@ -14279,7 +14281,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -8.89 0)
 				(length 2.54)
 				(name "PA9"
@@ -14297,7 +14299,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -11.43 0)
 				(length 2.54)
 				(name "PA10"
@@ -14315,7 +14317,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 11.43 180)
 				(length 2.54)
 				(name "PA3"
@@ -14333,7 +14335,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 8.89 180)
 				(length 2.54)
 				(name "PA2"
@@ -14351,7 +14353,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 6.35 180)
 				(length 2.54)
 				(name "PA1"
@@ -14369,7 +14371,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 3.81 180)
 				(length 2.54)
 				(name "PA0/PF3"
@@ -14387,7 +14389,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 1.27 180)
 				(length 2.54)
 				(name "PF2-NRST"
@@ -14405,7 +14407,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -1.27 180)
 				(length 2.54)
 				(name "PF1-OSCOUT"
@@ -14423,7 +14425,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -3.81 180)
 				(length 2.54)
 				(name "PF0-OSCIN"
@@ -14441,7 +14443,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -6.35 180)
 				(length 2.54)
 				(name "PA5/PB4"
@@ -14459,7 +14461,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -8.89 180)
 				(length 2.54)
 				(name "PA14-SWC"
@@ -14477,7 +14479,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -11.43 180)
 				(length 2.54)
 				(name "PA13-SWD"
@@ -14563,7 +14565,7 @@
 			)
 		)
 		(symbol "PY32F030K1xTx_0_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 8.89 0)
 				(length 2.54)
 				(name "VCC"
@@ -14581,7 +14583,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 6.35 0)
 				(length 2.54)
 				(name "PF0-OSCIN"
@@ -14599,7 +14601,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 3.81 0)
 				(length 2.54)
 				(name "PF1-OSCOUT"
@@ -14617,7 +14619,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 1.27 0)
 				(length 2.54)
 				(name "PF2-NRST"
@@ -14635,7 +14637,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -1.27 0)
 				(length 2.54)
 				(name "PF3"
@@ -14653,7 +14655,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -3.81 0)
 				(length 2.54)
 				(name "PA0"
@@ -14671,7 +14673,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -6.35 0)
 				(length 2.54)
 				(name "PA1"
@@ -14689,7 +14691,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -8.89 0)
 				(length 2.54)
 				(name "PA2"
@@ -14707,7 +14709,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -8.89 20.32 270)
 				(length 2.54)
 				(name "VSS"
@@ -14725,7 +14727,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -8.89 -20.32 90)
 				(length 2.54)
 				(name "PA3"
@@ -14743,7 +14745,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -6.35 -20.32 90)
 				(length 2.54)
 				(name "PA4"
@@ -14761,7 +14763,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -3.81 20.32 270)
 				(length 2.54)
 				(name "PB7"
@@ -14779,7 +14781,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -3.81 -20.32 90)
 				(length 2.54)
 				(name "PA5"
@@ -14797,7 +14799,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -1.27 20.32 270)
 				(length 2.54)
 				(name "PB6"
@@ -14815,7 +14817,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -1.27 -20.32 90)
 				(length 2.54)
 				(name "PA6"
@@ -14833,7 +14835,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 1.27 20.32 270)
 				(length 2.54)
 				(name "PB5"
@@ -14851,7 +14853,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 1.27 -20.32 90)
 				(length 2.54)
 				(name "PA7"
@@ -14869,7 +14871,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 3.81 20.32 270)
 				(length 2.54)
 				(name "PB4"
@@ -14887,7 +14889,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 3.81 -20.32 90)
 				(length 2.54)
 				(name "PB0"
@@ -14905,7 +14907,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 6.35 20.32 270)
 				(length 2.54)
 				(name "PB3"
@@ -14923,7 +14925,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 6.35 -20.32 90)
 				(length 2.54)
 				(name "PB1"
@@ -14941,7 +14943,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 8.89 -20.32 90)
 				(length 2.54)
 				(name "VSS"
@@ -14959,7 +14961,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 6.35 180)
 				(length 2.54)
 				(name "PA13-SWD"
@@ -14977,7 +14979,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 3.81 180)
 				(length 2.54)
 				(name "PA12"
@@ -14995,7 +14997,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 1.27 180)
 				(length 2.54)
 				(name "PA11"
@@ -15013,7 +15015,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -1.27 180)
 				(length 2.54)
 				(name "PA10-OSC32IN"
@@ -15031,7 +15033,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -3.81 180)
 				(length 2.54)
 				(name "PA9-OSC32OUT"
@@ -15049,7 +15051,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -6.35 180)
 				(length 2.54)
 				(name "PA8"
@@ -15067,7 +15069,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -8.89 180)
 				(length 2.54)
 				(name "VCC"
@@ -15087,7 +15089,7 @@
 			)
 		)
 		(symbol "PY32F030K1xTx_1_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at -6.35 20.32 270)
 				(length 2.54)
 				(name "PF4-BT0"
@@ -15105,7 +15107,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 8.89 20.32 270)
 				(length 2.54)
 				(name "PA15"
@@ -15123,7 +15125,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 8.89 180)
 				(length 2.54)
 				(name "PA14-SWC"
@@ -15209,7 +15211,7 @@
 			)
 		)
 		(symbol "PY32F030K2xTx_0_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 8.89 0)
 				(length 2.54)
 				(name "VCC"
@@ -15227,7 +15229,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 6.35 0)
 				(length 2.54)
 				(name "PF0-OSCIN"
@@ -15245,7 +15247,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 3.81 0)
 				(length 2.54)
 				(name "PF1-OSCOUT"
@@ -15263,7 +15265,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 1.27 0)
 				(length 2.54)
 				(name "PF2-NRST"
@@ -15281,7 +15283,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -1.27 0)
 				(length 2.54)
 				(name "PF3"
@@ -15299,7 +15301,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -3.81 0)
 				(length 2.54)
 				(name "PA0"
@@ -15317,7 +15319,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -6.35 0)
 				(length 2.54)
 				(name "PA1"
@@ -15335,7 +15337,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -8.89 0)
 				(length 2.54)
 				(name "PA2"
@@ -15353,7 +15355,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -8.89 20.32 270)
 				(length 2.54)
 				(name "PB8"
@@ -15371,7 +15373,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -8.89 -20.32 90)
 				(length 2.54)
 				(name "PA3"
@@ -15389,7 +15391,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -6.35 -20.32 90)
 				(length 2.54)
 				(name "PA4"
@@ -15407,7 +15409,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -3.81 20.32 270)
 				(length 2.54)
 				(name "PB7"
@@ -15425,7 +15427,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -3.81 -20.32 90)
 				(length 2.54)
 				(name "PA5"
@@ -15443,7 +15445,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -1.27 20.32 270)
 				(length 2.54)
 				(name "PB6"
@@ -15461,7 +15463,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -1.27 -20.32 90)
 				(length 2.54)
 				(name "PA6"
@@ -15479,7 +15481,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 1.27 20.32 270)
 				(length 2.54)
 				(name "PB5"
@@ -15497,7 +15499,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 1.27 -20.32 90)
 				(length 2.54)
 				(name "PA7"
@@ -15515,7 +15517,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 3.81 20.32 270)
 				(length 2.54)
 				(name "PB4"
@@ -15533,7 +15535,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 3.81 -20.32 90)
 				(length 2.54)
 				(name "PB0"
@@ -15551,7 +15553,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 6.35 20.32 270)
 				(length 2.54)
 				(name "PB3"
@@ -15569,7 +15571,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 6.35 -20.32 90)
 				(length 2.54)
 				(name "PB1"
@@ -15587,7 +15589,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 8.89 -20.32 90)
 				(length 2.54)
 				(name "VSS"
@@ -15605,7 +15607,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 6.35 180)
 				(length 2.54)
 				(name "PA13-SWD"
@@ -15623,7 +15625,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 3.81 180)
 				(length 2.54)
 				(name "PA12"
@@ -15641,7 +15643,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 1.27 180)
 				(length 2.54)
 				(name "PA11"
@@ -15659,7 +15661,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -1.27 180)
 				(length 2.54)
 				(name "PA10-OSC32IN"
@@ -15677,7 +15679,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -3.81 180)
 				(length 2.54)
 				(name "PA9-OSC32OUT"
@@ -15695,7 +15697,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -6.35 180)
 				(length 2.54)
 				(name "PA8"
@@ -15713,7 +15715,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -8.89 180)
 				(length 2.54)
 				(name "PB2"
@@ -15733,7 +15735,7 @@
 			)
 		)
 		(symbol "PY32F030K2xTx_1_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at -6.35 20.32 270)
 				(length 2.54)
 				(name "PF4-BT0"
@@ -15751,7 +15753,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 8.89 20.32 270)
 				(length 2.54)
 				(name "PA15"
@@ -15769,7 +15771,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 8.89 180)
 				(length 2.54)
 				(name "PA14-SWC"
@@ -15855,7 +15857,7 @@
 			)
 		)
 		(symbol "PY32F030K2xUx_0_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 8.89 0)
 				(length 2.54)
 				(name "VCC"
@@ -15873,7 +15875,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 6.35 0)
 				(length 2.54)
 				(name "PF0-OSCIN"
@@ -15891,7 +15893,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 1.27 0)
 				(length 2.54)
 				(name "PF2-NRST"
@@ -15909,7 +15911,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -1.27 0)
 				(length 2.54)
 				(name "PF3"
@@ -15927,7 +15929,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -3.81 0)
 				(length 2.54)
 				(name "PA0"
@@ -15945,7 +15947,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -6.35 0)
 				(length 2.54)
 				(name "PA1"
@@ -15963,7 +15965,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -8.89 0)
 				(length 2.54)
 				(name "PA2"
@@ -15981,7 +15983,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -8.89 20.32 270)
 				(length 2.54)
 				(name "PB8"
@@ -15999,7 +16001,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -8.89 -20.32 90)
 				(length 2.54)
 				(name "PA3"
@@ -16017,7 +16019,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -6.35 -20.32 90)
 				(length 2.54)
 				(name "PA4"
@@ -16035,7 +16037,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -3.81 20.32 270)
 				(length 2.54)
 				(name "PB7"
@@ -16053,7 +16055,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -3.81 -20.32 90)
 				(length 2.54)
 				(name "PA5"
@@ -16071,7 +16073,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -1.27 20.32 270)
 				(length 2.54)
 				(name "PB6"
@@ -16089,7 +16091,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -1.27 -20.32 90)
 				(length 2.54)
 				(name "PA6"
@@ -16107,7 +16109,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 1.27 20.32 270)
 				(length 2.54)
 				(name "PB5"
@@ -16125,7 +16127,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 1.27 -20.32 90)
 				(length 2.54)
 				(name "PA7"
@@ -16143,7 +16145,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 3.81 20.32 270)
 				(length 2.54)
 				(name "PB4"
@@ -16161,7 +16163,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 3.81 -20.32 90)
 				(length 2.54)
 				(name "PB0"
@@ -16179,7 +16181,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 6.35 20.32 270)
 				(length 2.54)
 				(name "PB3"
@@ -16197,7 +16199,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 6.35 -20.32 90)
 				(length 2.54)
 				(name "PB1"
@@ -16215,7 +16217,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 8.89 -20.32 90)
 				(length 2.54)
 				(name "VSS"
@@ -16233,7 +16235,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 6.35 180)
 				(length 2.54)
 				(name "PA13-SWD"
@@ -16251,7 +16253,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 3.81 180)
 				(length 2.54)
 				(name "PA12"
@@ -16269,7 +16271,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 1.27 180)
 				(length 2.54)
 				(name "PA11"
@@ -16287,7 +16289,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -1.27 180)
 				(length 2.54)
 				(name "PA10-OSC32IN"
@@ -16305,7 +16307,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -3.81 180)
 				(length 2.54)
 				(name "PA9-OSC32OUT"
@@ -16323,7 +16325,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -6.35 180)
 				(length 2.54)
 				(name "PA8"
@@ -16341,7 +16343,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -8.89 180)
 				(length 2.54)
 				(name "PB2"
@@ -16361,7 +16363,7 @@
 			)
 		)
 		(symbol "PY32F030K2xUx_1_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 3.81 0)
 				(length 2.54)
 				(name "PF1-OSCOUT"
@@ -16379,7 +16381,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -6.35 20.32 270)
 				(length 2.54)
 				(name "PF4-BT0"
@@ -16397,7 +16399,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 8.89 20.32 270)
 				(length 2.54)
 				(name "PA15"
@@ -16415,7 +16417,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 15.24 -20.32 90)
 				(length 2.54)
 				(name "VSS"
@@ -16433,7 +16435,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 8.89 180)
 				(length 2.54)
 				(name "PA14-SWC"
@@ -16519,7 +16521,7 @@
 			)
 		)
 		(symbol "PY32F030K3xUx-E_0_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 8.89 0)
 				(length 2.54)
 				(name "VCC"
@@ -16537,7 +16539,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 6.35 0)
 				(length 2.54)
 				(name "PF0-OSCIN"
@@ -16555,7 +16557,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 1.27 0)
 				(length 2.54)
 				(name "PF2-NRST"
@@ -16573,7 +16575,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -1.27 0)
 				(length 2.54)
 				(name "PF3"
@@ -16591,7 +16593,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -3.81 0)
 				(length 2.54)
 				(name "PA0"
@@ -16609,7 +16611,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -6.35 0)
 				(length 2.54)
 				(name "PA1"
@@ -16627,7 +16629,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -8.89 0)
 				(length 2.54)
 				(name "PA2"
@@ -16645,7 +16647,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -8.89 20.32 270)
 				(length 2.54)
 				(name "PB8"
@@ -16663,7 +16665,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -8.89 -20.32 90)
 				(length 2.54)
 				(name "PA3"
@@ -16681,7 +16683,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -6.35 -20.32 90)
 				(length 2.54)
 				(name "PA4"
@@ -16699,7 +16701,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -3.81 20.32 270)
 				(length 2.54)
 				(name "PB7"
@@ -16717,7 +16719,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -3.81 -20.32 90)
 				(length 2.54)
 				(name "PA5"
@@ -16735,7 +16737,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -1.27 20.32 270)
 				(length 2.54)
 				(name "PB6"
@@ -16753,7 +16755,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -1.27 -20.32 90)
 				(length 2.54)
 				(name "PA6"
@@ -16771,7 +16773,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 1.27 20.32 270)
 				(length 2.54)
 				(name "PB5"
@@ -16789,7 +16791,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 1.27 -20.32 90)
 				(length 2.54)
 				(name "PA7"
@@ -16807,7 +16809,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 3.81 20.32 270)
 				(length 2.54)
 				(name "PB4"
@@ -16825,7 +16827,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 3.81 -20.32 90)
 				(length 2.54)
 				(name "PB0"
@@ -16843,7 +16845,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 6.35 20.32 270)
 				(length 2.54)
 				(name "PB3"
@@ -16861,7 +16863,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 6.35 -20.32 90)
 				(length 2.54)
 				(name "PB1"
@@ -16879,7 +16881,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 6.35 180)
 				(length 2.54)
 				(name "PA13-SWD"
@@ -16897,7 +16899,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 3.81 180)
 				(length 2.54)
 				(name "PA12"
@@ -16915,7 +16917,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 1.27 180)
 				(length 2.54)
 				(name "PA11"
@@ -16933,7 +16935,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -1.27 180)
 				(length 2.54)
 				(name "PA10-OSC32IN"
@@ -16951,7 +16953,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -3.81 180)
 				(length 2.54)
 				(name "PA9-OSC32OUT"
@@ -16969,7 +16971,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -6.35 180)
 				(length 2.54)
 				(name "PA8"
@@ -16989,7 +16991,7 @@
 			)
 		)
 		(symbol "PY32F030K3xUx-E_1_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 3.81 0)
 				(length 2.54)
 				(name "PF1-OSCOUT"
@@ -17007,7 +17009,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -6.35 20.32 270)
 				(length 2.54)
 				(name "PF4-BT0"
@@ -17025,7 +17027,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 8.89 20.32 270)
 				(length 2.54)
 				(name "PA15"
@@ -17043,7 +17045,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 8.89 -20.32 90)
 				(length 2.54)
 				(name "PB2"
@@ -17061,7 +17063,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 15.24 -20.32 90)
 				(length 2.54)
 				(name "VSS"
@@ -17079,7 +17081,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 8.89 180)
 				(length 2.54)
 				(name "PA14-SWC"
@@ -17097,7 +17099,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -8.89 180)
 				(length 2.54)
 				(name "VCC"
@@ -17183,7 +17185,7 @@
 			)
 		)
 		(symbol "PY32F030K4xUx-E_0_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 8.89 0)
 				(length 2.54)
 				(name "VCC"
@@ -17201,7 +17203,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 6.35 0)
 				(length 2.54)
 				(name "PF0-OSCIN"
@@ -17219,7 +17221,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 1.27 0)
 				(length 2.54)
 				(name "PF2-NRST"
@@ -17237,7 +17239,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -1.27 0)
 				(length 2.54)
 				(name "PF3"
@@ -17255,7 +17257,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -3.81 0)
 				(length 2.54)
 				(name "PA0"
@@ -17273,7 +17275,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -6.35 0)
 				(length 2.54)
 				(name "PA1"
@@ -17291,7 +17293,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -8.89 0)
 				(length 2.54)
 				(name "PA2"
@@ -17309,7 +17311,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -8.89 20.32 270)
 				(length 2.54)
 				(name "PB8"
@@ -17327,7 +17329,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -8.89 -20.32 90)
 				(length 2.54)
 				(name "PA3"
@@ -17345,7 +17347,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -6.35 -20.32 90)
 				(length 2.54)
 				(name "PA4"
@@ -17363,7 +17365,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -3.81 20.32 270)
 				(length 2.54)
 				(name "PB7"
@@ -17381,7 +17383,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -3.81 -20.32 90)
 				(length 2.54)
 				(name "PA5"
@@ -17399,7 +17401,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -1.27 20.32 270)
 				(length 2.54)
 				(name "PB6"
@@ -17417,7 +17419,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -1.27 -20.32 90)
 				(length 2.54)
 				(name "PA6"
@@ -17435,7 +17437,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 1.27 20.32 270)
 				(length 2.54)
 				(name "PB5"
@@ -17453,7 +17455,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 1.27 -20.32 90)
 				(length 2.54)
 				(name "PA7"
@@ -17471,7 +17473,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 3.81 20.32 270)
 				(length 2.54)
 				(name "PB4"
@@ -17489,7 +17491,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 3.81 -20.32 90)
 				(length 2.54)
 				(name "PB0"
@@ -17507,7 +17509,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 6.35 20.32 270)
 				(length 2.54)
 				(name "PB3"
@@ -17525,7 +17527,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 6.35 -20.32 90)
 				(length 2.54)
 				(name "PB1"
@@ -17543,7 +17545,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 8.89 -20.32 90)
 				(length 2.54)
 				(name "VSS"
@@ -17561,7 +17563,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 6.35 180)
 				(length 2.54)
 				(name "PA13-SWD"
@@ -17579,7 +17581,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 3.81 180)
 				(length 2.54)
 				(name "PA12"
@@ -17597,7 +17599,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 1.27 180)
 				(length 2.54)
 				(name "PA11"
@@ -17615,7 +17617,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -1.27 180)
 				(length 2.54)
 				(name "PA10-OSC32IN"
@@ -17633,7 +17635,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -3.81 180)
 				(length 2.54)
 				(name "PA9-OSC32OUT"
@@ -17651,7 +17653,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -6.35 180)
 				(length 2.54)
 				(name "PA8"
@@ -17669,7 +17671,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -8.89 180)
 				(length 2.54)
 				(name "PB2"
@@ -17689,7 +17691,7 @@
 			)
 		)
 		(symbol "PY32F030K4xUx-E_1_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 3.81 0)
 				(length 2.54)
 				(name "PF1-OSCOUT"
@@ -17707,7 +17709,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -6.35 20.32 270)
 				(length 2.54)
 				(name "PF4-BT0"
@@ -17725,7 +17727,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 8.89 20.32 270)
 				(length 2.54)
 				(name "PA15"
@@ -17743,7 +17745,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 15.24 -20.32 90)
 				(length 2.54)
 				(name "VSS"
@@ -17761,7 +17763,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 8.89 180)
 				(length 2.54)
 				(name "PA14-SWC"
@@ -17843,7 +17845,7 @@
 			)
 		)
 		(symbol "PY32F030L1xDx_0_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -1.27 0)
 				(length 2.54)
 				(name "PA1"
@@ -17861,7 +17863,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -3.81 0)
 				(length 2.54)
 				(name "PA2"
@@ -17879,7 +17881,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 3.81 180)
 				(length 2.54)
 				(name "PB5"
@@ -17897,7 +17899,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 1.27 180)
 				(length 2.54)
 				(name "PA14/PB6"
@@ -17915,7 +17917,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -1.27 180)
 				(length 2.54)
 				(name "PA13/PA10"
@@ -17933,7 +17935,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -3.81 180)
 				(length 2.54)
 				(name "PB0/PF2"
@@ -17953,7 +17955,7 @@
 			)
 		)
 		(symbol "PY32F030L1xDx_1_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 3.81 0)
 				(length 2.54)
 				(name "VCC"
@@ -17971,7 +17973,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 1.27 0)
 				(length 2.54)
 				(name "PA0"
@@ -17989,7 +17991,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -10.16 -8.89 90)
 				(length 2.54)
 				(name "VSS"
@@ -18075,7 +18077,7 @@
 			)
 		)
 		(symbol "PY32F071C1xTx_0_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at -25.4 13.97 0)
 				(length 2.54)
 				(name "PF9"
@@ -18093,7 +18095,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -25.4 11.43 0)
 				(length 2.54)
 				(name "PC13"
@@ -18111,7 +18113,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -25.4 8.89 0)
 				(length 2.54)
 				(name "PC14-OSC32IN"
@@ -18129,7 +18131,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -25.4 6.35 0)
 				(length 2.54)
 				(name "PC15-OSC32OUT"
@@ -18147,7 +18149,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -25.4 3.81 0)
 				(length 2.54)
 				(name "PF0-OSCIN"
@@ -18165,7 +18167,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -25.4 1.27 0)
 				(length 2.54)
 				(name "PF1-OSCOUT"
@@ -18183,7 +18185,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -25.4 -1.27 0)
 				(length 2.54)
 				(name "PF2-NRST"
@@ -18201,7 +18203,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -25.4 -3.81 0)
 				(length 2.54)
 				(name "VSSA"
@@ -18219,7 +18221,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -25.4 -6.35 0)
 				(length 2.54)
 				(name "VCCA"
@@ -18237,7 +18239,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -25.4 -8.89 0)
 				(length 2.54)
 				(name "PA0"
@@ -18255,7 +18257,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -25.4 -11.43 0)
 				(length 2.54)
 				(name "PA1"
@@ -18273,7 +18275,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -25.4 -13.97 0)
 				(length 2.54)
 				(name "PA2"
@@ -18291,7 +18293,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -13.97 25.4 270)
 				(length 2.54)
 				(name "VCC"
@@ -18309,7 +18311,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -13.97 -25.4 90)
 				(length 2.54)
 				(name "PA3"
@@ -18327,7 +18329,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -11.43 25.4 270)
 				(length 2.54)
 				(name "VSS"
@@ -18345,7 +18347,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -11.43 -25.4 90)
 				(length 2.54)
 				(name "PA5"
@@ -18363,7 +18365,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -8.89 25.4 270)
 				(length 2.54)
 				(name "PB9"
@@ -18381,7 +18383,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -8.89 -25.4 90)
 				(length 2.54)
 				(name "PA5"
@@ -18399,7 +18401,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -6.35 25.4 270)
 				(length 2.54)
 				(name "PB8"
@@ -18417,7 +18419,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -6.35 -25.4 90)
 				(length 2.54)
 				(name "PA6"
@@ -18435,7 +18437,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -3.81 25.4 270)
 				(length 2.54)
 				(name "PF8-BOOT0"
@@ -18453,7 +18455,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -3.81 -25.4 90)
 				(length 2.54)
 				(name "PA7"
@@ -18471,7 +18473,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -1.27 25.4 270)
 				(length 2.54)
 				(name "PB7"
@@ -18489,7 +18491,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -1.27 -25.4 90)
 				(length 2.54)
 				(name "PB0"
@@ -18507,7 +18509,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 1.27 25.4 270)
 				(length 2.54)
 				(name "PB6"
@@ -18525,7 +18527,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 1.27 -25.4 90)
 				(length 2.54)
 				(name "PB1"
@@ -18543,7 +18545,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 3.81 -25.4 90)
 				(length 2.54)
 				(name "PB2"
@@ -18561,7 +18563,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 6.35 -25.4 90)
 				(length 2.54)
 				(name "PB10"
@@ -18579,7 +18581,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 8.89 25.4 270)
 				(length 2.54)
 				(name "PB3"
@@ -18597,7 +18599,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 8.89 -25.4 90)
 				(length 2.54)
 				(name "PB11"
@@ -18615,7 +18617,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 11.43 25.4 270)
 				(length 2.54)
 				(name "PA15"
@@ -18633,7 +18635,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 11.43 -25.4 90)
 				(length 2.54)
 				(name "VSS"
@@ -18651,7 +18653,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 13.97 25.4 270)
 				(length 2.54)
 				(name "PA14"
@@ -18669,7 +18671,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 25.4 13.97 180)
 				(length 2.54)
 				(name "PF6"
@@ -18687,7 +18689,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 25.4 11.43 180)
 				(length 2.54)
 				(name "PF5"
@@ -18705,7 +18707,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 25.4 8.89 180)
 				(length 2.54)
 				(name "PA13"
@@ -18723,7 +18725,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 25.4 6.35 180)
 				(length 2.54)
 				(name "PA12"
@@ -18741,7 +18743,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 25.4 3.81 180)
 				(length 2.54)
 				(name "PA11"
@@ -18759,7 +18761,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 25.4 1.27 180)
 				(length 2.54)
 				(name "PA10"
@@ -18777,7 +18779,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 25.4 -1.27 180)
 				(length 2.54)
 				(name "PA9"
@@ -18795,7 +18797,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 25.4 -3.81 180)
 				(length 2.54)
 				(name "PA8"
@@ -18813,7 +18815,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 25.4 -6.35 180)
 				(length 2.54)
 				(name "PB15"
@@ -18831,7 +18833,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 25.4 -8.89 180)
 				(length 2.54)
 				(name "PB14"
@@ -18849,7 +18851,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 25.4 -11.43 180)
 				(length 2.54)
 				(name "PB13"
@@ -18869,7 +18871,7 @@
 			)
 		)
 		(symbol "PY32F071C1xTx_1_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at 3.81 25.4 270)
 				(length 2.54)
 				(name "PB5"
@@ -18887,7 +18889,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 6.35 25.4 270)
 				(length 2.54)
 				(name "PB4"
@@ -18905,7 +18907,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 13.97 -25.4 90)
 				(length 2.54)
 				(name "VCC"
@@ -18923,7 +18925,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 25.4 -13.97 180)
 				(length 2.54)
 				(name "PB12"
@@ -19009,7 +19011,7 @@
 			)
 		)
 		(symbol "PY32F071C1xU6_0_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at -25.4 13.97 0)
 				(length 2.54)
 				(name "PF9"
@@ -19027,7 +19029,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -25.4 11.43 0)
 				(length 2.54)
 				(name "PC13"
@@ -19045,7 +19047,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -25.4 8.89 0)
 				(length 2.54)
 				(name "PC14-OSC32IN"
@@ -19063,7 +19065,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -25.4 6.35 0)
 				(length 2.54)
 				(name "PC15-OSC32OUT"
@@ -19081,7 +19083,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -25.4 3.81 0)
 				(length 2.54)
 				(name "PF0-OSCIN"
@@ -19099,7 +19101,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -25.4 1.27 0)
 				(length 2.54)
 				(name "PF1-OSCOUT"
@@ -19117,7 +19119,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -25.4 -1.27 0)
 				(length 2.54)
 				(name "PF2-NRST"
@@ -19135,7 +19137,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -25.4 -3.81 0)
 				(length 2.54)
 				(name "VSSA"
@@ -19153,7 +19155,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -25.4 -6.35 0)
 				(length 2.54)
 				(name "VCCA"
@@ -19171,7 +19173,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -25.4 -8.89 0)
 				(length 2.54)
 				(name "PA0"
@@ -19189,7 +19191,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -25.4 -11.43 0)
 				(length 2.54)
 				(name "PA1"
@@ -19207,7 +19209,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -25.4 -13.97 0)
 				(length 2.54)
 				(name "PA2"
@@ -19225,7 +19227,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -13.97 25.4 270)
 				(length 2.54)
 				(name "VCC"
@@ -19243,7 +19245,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -13.97 -25.4 90)
 				(length 2.54)
 				(name "PA3"
@@ -19261,7 +19263,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -11.43 25.4 270)
 				(length 2.54)
 				(name "VSS"
@@ -19279,7 +19281,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -11.43 -25.4 90)
 				(length 2.54)
 				(name "PA5"
@@ -19297,7 +19299,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -8.89 25.4 270)
 				(length 2.54)
 				(name "PB9"
@@ -19315,7 +19317,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -8.89 -25.4 90)
 				(length 2.54)
 				(name "PA5"
@@ -19333,7 +19335,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -6.35 25.4 270)
 				(length 2.54)
 				(name "PB8"
@@ -19351,7 +19353,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -6.35 -25.4 90)
 				(length 2.54)
 				(name "PA6"
@@ -19369,7 +19371,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -3.81 25.4 270)
 				(length 2.54)
 				(name "PF8-BOOT0"
@@ -19387,7 +19389,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -3.81 -25.4 90)
 				(length 2.54)
 				(name "PA7"
@@ -19405,7 +19407,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -1.27 25.4 270)
 				(length 2.54)
 				(name "PB7"
@@ -19423,7 +19425,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -1.27 -25.4 90)
 				(length 2.54)
 				(name "PB0"
@@ -19441,7 +19443,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 1.27 25.4 270)
 				(length 2.54)
 				(name "PB6"
@@ -19459,7 +19461,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 1.27 -25.4 90)
 				(length 2.54)
 				(name "PB1"
@@ -19477,7 +19479,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 3.81 -25.4 90)
 				(length 2.54)
 				(name "PB2"
@@ -19495,7 +19497,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 6.35 -25.4 90)
 				(length 2.54)
 				(name "PB10"
@@ -19513,7 +19515,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 8.89 25.4 270)
 				(length 2.54)
 				(name "PB3"
@@ -19531,7 +19533,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 8.89 -25.4 90)
 				(length 2.54)
 				(name "PB11"
@@ -19549,7 +19551,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 11.43 25.4 270)
 				(length 2.54)
 				(name "PA15"
@@ -19567,7 +19569,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 11.43 -25.4 90)
 				(length 2.54)
 				(name "VSS"
@@ -19585,7 +19587,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 13.97 25.4 270)
 				(length 2.54)
 				(name "PA14"
@@ -19603,7 +19605,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 25.4 13.97 180)
 				(length 2.54)
 				(name "PF6"
@@ -19621,7 +19623,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 25.4 11.43 180)
 				(length 2.54)
 				(name "PF5"
@@ -19639,7 +19641,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 25.4 8.89 180)
 				(length 2.54)
 				(name "PA13"
@@ -19657,7 +19659,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 25.4 6.35 180)
 				(length 2.54)
 				(name "PA12"
@@ -19675,7 +19677,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 25.4 3.81 180)
 				(length 2.54)
 				(name "PA11"
@@ -19693,7 +19695,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 25.4 1.27 180)
 				(length 2.54)
 				(name "PA10"
@@ -19711,7 +19713,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 25.4 -1.27 180)
 				(length 2.54)
 				(name "PA9"
@@ -19729,7 +19731,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 25.4 -3.81 180)
 				(length 2.54)
 				(name "PA8"
@@ -19747,7 +19749,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 25.4 -6.35 180)
 				(length 2.54)
 				(name "PB15"
@@ -19765,7 +19767,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 25.4 -8.89 180)
 				(length 2.54)
 				(name "PB14"
@@ -19783,7 +19785,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 25.4 -11.43 180)
 				(length 2.54)
 				(name "PB13"
@@ -19803,7 +19805,7 @@
 			)
 		)
 		(symbol "PY32F071C1xU6_1_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at 3.81 25.4 270)
 				(length 2.54)
 				(name "PB5"
@@ -19821,7 +19823,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 6.35 25.4 270)
 				(length 2.54)
 				(name "PB4"
@@ -19839,7 +19841,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 13.97 -25.4 90)
 				(length 2.54)
 				(name "VCC"
@@ -19857,7 +19859,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 25.4 -13.97 180)
 				(length 2.54)
 				(name "PB12"
@@ -19943,7 +19945,7 @@
 			)
 		)
 		(symbol "PY32F071K1xU6_0_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 8.89 0)
 				(length 2.54)
 				(name "PC14-OSC32IN"
@@ -19961,7 +19963,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 6.35 0)
 				(length 2.54)
 				(name "PC15-OSC32OUT"
@@ -19979,7 +19981,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 3.81 0)
 				(length 2.54)
 				(name "PF2-NRST"
@@ -19997,7 +19999,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 1.27 0)
 				(length 2.54)
 				(name "VSSA"
@@ -20015,7 +20017,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -1.27 0)
 				(length 2.54)
 				(name "VCCA"
@@ -20033,7 +20035,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -3.81 0)
 				(length 2.54)
 				(name "PA0"
@@ -20051,7 +20053,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -6.35 0)
 				(length 2.54)
 				(name "PA1"
@@ -20069,7 +20071,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -20.32 -8.89 0)
 				(length 2.54)
 				(name "PA2"
@@ -20087,7 +20089,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -8.89 20.32 270)
 				(length 2.54)
 				(name "PB9"
@@ -20105,7 +20107,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -8.89 -20.32 90)
 				(length 2.54)
 				(name "PA3"
@@ -20123,7 +20125,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -6.35 20.32 270)
 				(length 2.54)
 				(name "PB8"
@@ -20141,7 +20143,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -6.35 -20.32 90)
 				(length 2.54)
 				(name "PA4"
@@ -20159,7 +20161,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -3.81 -20.32 90)
 				(length 2.54)
 				(name "PA5"
@@ -20177,7 +20179,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -1.27 20.32 270)
 				(length 2.54)
 				(name "PB7"
@@ -20195,7 +20197,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -1.27 -20.32 90)
 				(length 2.54)
 				(name "PA6"
@@ -20213,7 +20215,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 1.27 20.32 270)
 				(length 2.54)
 				(name "PB6"
@@ -20231,7 +20233,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 1.27 -20.32 90)
 				(length 2.54)
 				(name "PA7"
@@ -20249,7 +20251,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 3.81 20.32 270)
 				(length 2.54)
 				(name "PB5"
@@ -20267,7 +20269,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 3.81 -20.32 90)
 				(length 2.54)
 				(name "PB0"
@@ -20285,7 +20287,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 6.35 20.32 270)
 				(length 2.54)
 				(name "PB4"
@@ -20303,7 +20305,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 6.35 -20.32 90)
 				(length 2.54)
 				(name "PB1"
@@ -20321,7 +20323,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 8.89 -20.32 90)
 				(length 2.54)
 				(name "VSS"
@@ -20339,7 +20341,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 6.35 180)
 				(length 2.54)
 				(name "PA13"
@@ -20357,7 +20359,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 3.81 180)
 				(length 2.54)
 				(name "PA12"
@@ -20375,7 +20377,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 1.27 180)
 				(length 2.54)
 				(name "PA11"
@@ -20393,7 +20395,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -1.27 180)
 				(length 2.54)
 				(name "PA10"
@@ -20411,7 +20413,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -3.81 180)
 				(length 2.54)
 				(name "PA9"
@@ -20429,7 +20431,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -6.35 180)
 				(length 2.54)
 				(name "PA8"
@@ -20447,7 +20449,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 -8.89 180)
 				(length 2.54)
 				(name "VCC"
@@ -20467,7 +20469,7 @@
 			)
 		)
 		(symbol "PY32F071K1xU6_1_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at -3.81 20.32 270)
 				(length 2.54)
 				(name "PF8-B0"
@@ -20485,7 +20487,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 8.89 20.32 270)
 				(length 2.54)
 				(name "PA14"
@@ -20503,7 +20505,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 15.24 -20.32 90)
 				(length 2.54)
 				(name "VSS"
@@ -20521,7 +20523,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 20.32 8.89 180)
 				(length 2.54)
 				(name "PF5"
@@ -20607,7 +20609,7 @@
 			)
 		)
 		(symbol "PY32F071P1xU6_0_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at -27.94 16.51 0)
 				(length 2.54)
 				(name "PC13"
@@ -20625,7 +20627,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -27.94 13.97 0)
 				(length 2.54)
 				(name "PC14"
@@ -20643,7 +20645,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -27.94 11.43 0)
 				(length 2.54)
 				(name "PC15"
@@ -20661,7 +20663,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -27.94 8.89 0)
 				(length 2.54)
 				(name "PF0"
@@ -20679,7 +20681,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -27.94 6.35 0)
 				(length 2.54)
 				(name "PF1"
@@ -20697,7 +20699,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -27.94 3.81 0)
 				(length 2.54)
 				(name "PF2"
@@ -20715,7 +20717,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -27.94 1.27 0)
 				(length 2.54)
 				(name "PC0"
@@ -20733,7 +20735,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -27.94 -1.27 0)
 				(length 2.54)
 				(name "PC1"
@@ -20751,7 +20753,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -27.94 -3.81 0)
 				(length 2.54)
 				(name "PC2"
@@ -20769,7 +20771,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -27.94 -6.35 0)
 				(length 2.54)
 				(name "PC3"
@@ -20787,7 +20789,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -27.94 -8.89 0)
 				(length 2.54)
 				(name "VCCA"
@@ -20805,7 +20807,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -27.94 -11.43 0)
 				(length 2.54)
 				(name "PA0"
@@ -20823,7 +20825,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -27.94 -13.97 0)
 				(length 2.54)
 				(name "PA1"
@@ -20841,7 +20843,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -27.94 -16.51 0)
 				(length 2.54)
 				(name "PA2"
@@ -20859,7 +20861,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -16.51 -27.94 90)
 				(length 2.54)
 				(name "PA3"
@@ -20877,7 +20879,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -13.97 27.94 270)
 				(length 2.54)
 				(name "PB9"
@@ -20895,7 +20897,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -13.97 -27.94 90)
 				(length 2.54)
 				(name "PA4"
@@ -20913,7 +20915,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -11.43 27.94 270)
 				(length 2.54)
 				(name "PB8"
@@ -20931,7 +20933,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -11.43 -27.94 90)
 				(length 2.54)
 				(name "PA5"
@@ -20949,7 +20951,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -8.89 27.94 270)
 				(length 2.54)
 				(name "PF8"
@@ -20967,7 +20969,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -8.89 -27.94 90)
 				(length 2.54)
 				(name "PA6"
@@ -20985,7 +20987,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -6.35 27.94 270)
 				(length 2.54)
 				(name "PB7"
@@ -21003,7 +21005,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -6.35 -27.94 90)
 				(length 2.54)
 				(name "PA7"
@@ -21021,7 +21023,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -3.81 27.94 270)
 				(length 2.54)
 				(name "PB6"
@@ -21039,7 +21041,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -3.81 -27.94 90)
 				(length 2.54)
 				(name "PC4"
@@ -21057,7 +21059,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -1.27 27.94 270)
 				(length 2.54)
 				(name "PB5"
@@ -21075,7 +21077,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -1.27 -27.94 90)
 				(length 2.54)
 				(name "PC5"
@@ -21093,7 +21095,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 1.27 27.94 270)
 				(length 2.54)
 				(name "PB4"
@@ -21111,7 +21113,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 1.27 -27.94 90)
 				(length 2.54)
 				(name "PB0"
@@ -21129,7 +21131,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 3.81 27.94 270)
 				(length 2.54)
 				(name "PB3"
@@ -21147,7 +21149,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 3.81 -27.94 90)
 				(length 2.54)
 				(name "PB1"
@@ -21165,7 +21167,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 6.35 27.94 270)
 				(length 2.54)
 				(name "PF7"
@@ -21183,7 +21185,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 8.89 27.94 270)
 				(length 2.54)
 				(name "PC12"
@@ -21201,7 +21203,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 11.43 27.94 270)
 				(length 2.54)
 				(name "PC11"
@@ -21219,7 +21221,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 11.43 -27.94 90)
 				(length 2.54)
 				(name "PB11"
@@ -21237,7 +21239,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 13.97 27.94 270)
 				(length 2.54)
 				(name "PC10"
@@ -21255,7 +21257,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 13.97 -27.94 90)
 				(length 2.54)
 				(name "VCC"
@@ -21273,7 +21275,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 16.51 27.94 270)
 				(length 2.54)
 				(name "PA15"
@@ -21291,7 +21293,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 27.94 16.51 180)
 				(length 2.54)
 				(name "PA14"
@@ -21309,7 +21311,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 27.94 8.89 180)
 				(length 2.54)
 				(name "PA11"
@@ -21327,7 +21329,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 27.94 6.35 180)
 				(length 2.54)
 				(name "PA10"
@@ -21345,7 +21347,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 27.94 3.81 180)
 				(length 2.54)
 				(name "PA9"
@@ -21363,7 +21365,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 27.94 1.27 180)
 				(length 2.54)
 				(name "PA8"
@@ -21381,7 +21383,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 27.94 -1.27 180)
 				(length 2.54)
 				(name "PC9"
@@ -21399,7 +21401,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 27.94 -3.81 180)
 				(length 2.54)
 				(name "PC8"
@@ -21417,7 +21419,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 27.94 -6.35 180)
 				(length 2.54)
 				(name "PC7"
@@ -21435,7 +21437,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 27.94 -8.89 180)
 				(length 2.54)
 				(name "PC6"
@@ -21453,7 +21455,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 27.94 -11.43 180)
 				(length 2.54)
 				(name "PB15"
@@ -21471,7 +21473,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 27.94 -13.97 180)
 				(length 2.54)
 				(name "PB14"
@@ -21489,7 +21491,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 27.94 -16.51 180)
 				(length 2.54)
 				(name "PB13"
@@ -21509,7 +21511,7 @@
 			)
 		)
 		(symbol "PY32F071P1xU6_1_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at -16.51 27.94 270)
 				(length 2.54)
 				(name "VCC"
@@ -21527,7 +21529,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 6.35 -27.94 90)
 				(length 2.54)
 				(name "PB2"
@@ -21545,7 +21547,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 8.89 -27.94 90)
 				(length 2.54)
 				(name "PB10"
@@ -21563,7 +21565,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 16.51 -27.94 90)
 				(length 2.54)
 				(name "PB12"
@@ -21581,7 +21583,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 22.86 -27.94 90)
 				(length 2.54)
 				(name "VSS"
@@ -21599,7 +21601,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 27.94 13.97 180)
 				(length 2.54)
 				(name "PA13"
@@ -21617,7 +21619,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 27.94 11.43 180)
 				(length 2.54)
 				(name "PA12"
@@ -21703,7 +21705,7 @@
 			)
 		)
 		(symbol "PY32F071R1xT6_0_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at -30.48 19.05 0)
 				(length 2.54)
 				(name "PF9"
@@ -21721,7 +21723,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -30.48 16.51 0)
 				(length 2.54)
 				(name "PC13"
@@ -21739,7 +21741,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -30.48 13.97 0)
 				(length 2.54)
 				(name "PC14-OSC32IN"
@@ -21757,7 +21759,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -30.48 11.43 0)
 				(length 2.54)
 				(name "PC15-OSC32OUT"
@@ -21775,7 +21777,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -30.48 8.89 0)
 				(length 2.54)
 				(name "PF0-OSCIN"
@@ -21793,7 +21795,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -30.48 6.35 0)
 				(length 2.54)
 				(name "PF1-OSCOUT"
@@ -21811,7 +21813,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -30.48 3.81 0)
 				(length 2.54)
 				(name "PF2-NRST"
@@ -21829,7 +21831,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -30.48 1.27 0)
 				(length 2.54)
 				(name "PC0"
@@ -21847,7 +21849,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -30.48 -1.27 0)
 				(length 2.54)
 				(name "PC1"
@@ -21865,7 +21867,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -30.48 -3.81 0)
 				(length 2.54)
 				(name "PC2"
@@ -21883,7 +21885,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -30.48 -6.35 0)
 				(length 2.54)
 				(name "PC3"
@@ -21901,7 +21903,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -30.48 -8.89 0)
 				(length 2.54)
 				(name "VSSA"
@@ -21919,7 +21921,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -30.48 -11.43 0)
 				(length 2.54)
 				(name "VCCA"
@@ -21937,7 +21939,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -30.48 -13.97 0)
 				(length 2.54)
 				(name "PA0"
@@ -21955,7 +21957,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -30.48 -16.51 0)
 				(length 2.54)
 				(name "PA1"
@@ -21973,7 +21975,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -30.48 -19.05 0)
 				(length 2.54)
 				(name "PA2"
@@ -21991,7 +21993,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -19.05 30.48 270)
 				(length 2.54)
 				(name "VCC"
@@ -22009,7 +22011,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -19.05 -30.48 90)
 				(length 2.54)
 				(name "PA3"
@@ -22027,7 +22029,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -16.51 30.48 270)
 				(length 2.54)
 				(name "VSS"
@@ -22045,7 +22047,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -16.51 -30.48 90)
 				(length 2.54)
 				(name "PF3"
@@ -22063,7 +22065,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -13.97 30.48 270)
 				(length 2.54)
 				(name "PB9"
@@ -22081,7 +22083,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -13.97 -30.48 90)
 				(length 2.54)
 				(name "PF4"
@@ -22099,7 +22101,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -11.43 30.48 270)
 				(length 2.54)
 				(name "PB8"
@@ -22117,7 +22119,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -11.43 -30.48 90)
 				(length 2.54)
 				(name "PA4"
@@ -22135,7 +22137,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -8.89 30.48 270)
 				(length 2.54)
 				(name "PF8-BOOT0"
@@ -22153,7 +22155,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -8.89 -30.48 90)
 				(length 2.54)
 				(name "PA5"
@@ -22171,7 +22173,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -6.35 30.48 270)
 				(length 2.54)
 				(name "PB7"
@@ -22189,7 +22191,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -6.35 -30.48 90)
 				(length 2.54)
 				(name "PA6"
@@ -22207,7 +22209,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -3.81 30.48 270)
 				(length 2.54)
 				(name "PB6"
@@ -22225,7 +22227,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -3.81 -30.48 90)
 				(length 2.54)
 				(name "PA7"
@@ -22243,7 +22245,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 3.81 30.48 270)
 				(length 2.54)
 				(name "PB3"
@@ -22261,7 +22263,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 3.81 -30.48 90)
 				(length 2.54)
 				(name "PB0"
@@ -22279,7 +22281,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 6.35 30.48 270)
 				(length 2.54)
 				(name "PF7"
@@ -22297,7 +22299,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 6.35 -30.48 90)
 				(length 2.54)
 				(name "PB1"
@@ -22315,7 +22317,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 8.89 30.48 270)
 				(length 2.54)
 				(name "PC12"
@@ -22333,7 +22335,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 8.89 -30.48 90)
 				(length 2.54)
 				(name "PB2"
@@ -22351,7 +22353,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 11.43 30.48 270)
 				(length 2.54)
 				(name "PC11"
@@ -22369,7 +22371,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 11.43 -30.48 90)
 				(length 2.54)
 				(name "PB10"
@@ -22387,7 +22389,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 13.97 30.48 270)
 				(length 2.54)
 				(name "PC10"
@@ -22405,7 +22407,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 13.97 -30.48 90)
 				(length 2.54)
 				(name "PB11"
@@ -22423,7 +22425,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 16.51 30.48 270)
 				(length 2.54)
 				(name "PA15"
@@ -22441,7 +22443,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 16.51 -30.48 90)
 				(length 2.54)
 				(name "VSS"
@@ -22459,7 +22461,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 19.05 30.48 270)
 				(length 2.54)
 				(name "PA14"
@@ -22477,7 +22479,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 19.05 -30.48 90)
 				(length 2.54)
 				(name "VCC"
@@ -22495,7 +22497,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 30.48 19.05 180)
 				(length 2.54)
 				(name "PF6"
@@ -22513,7 +22515,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 30.48 16.51 180)
 				(length 2.54)
 				(name "PF5"
@@ -22531,7 +22533,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 30.48 13.97 180)
 				(length 2.54)
 				(name "PA13"
@@ -22549,7 +22551,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 30.48 11.43 180)
 				(length 2.54)
 				(name "PA12"
@@ -22567,7 +22569,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 30.48 8.89 180)
 				(length 2.54)
 				(name "PA11"
@@ -22585,7 +22587,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 30.48 6.35 180)
 				(length 2.54)
 				(name "PA10"
@@ -22603,7 +22605,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 30.48 3.81 180)
 				(length 2.54)
 				(name "PA9"
@@ -22621,7 +22623,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 30.48 -3.81 180)
 				(length 2.54)
 				(name "PC8"
@@ -22639,7 +22641,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 30.48 -6.35 180)
 				(length 2.54)
 				(name "PC7"
@@ -22657,7 +22659,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 30.48 -8.89 180)
 				(length 2.54)
 				(name "PC6"
@@ -22675,7 +22677,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 30.48 -11.43 180)
 				(length 2.54)
 				(name "PB15"
@@ -22693,7 +22695,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 30.48 -13.97 180)
 				(length 2.54)
 				(name "PB14"
@@ -22711,7 +22713,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 30.48 -16.51 180)
 				(length 2.54)
 				(name "PB13"
@@ -22729,7 +22731,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 30.48 -19.05 180)
 				(length 2.54)
 				(name "PB12"
@@ -22749,7 +22751,7 @@
 			)
 		)
 		(symbol "PY32F071R1xT6_1_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at -1.27 30.48 270)
 				(length 2.54)
 				(name "PB5"
@@ -22767,7 +22769,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -1.27 -30.48 90)
 				(length 2.54)
 				(name "PC4"
@@ -22785,7 +22787,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 1.27 30.48 270)
 				(length 2.54)
 				(name "PB4"
@@ -22803,7 +22805,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 1.27 -30.48 90)
 				(length 2.54)
 				(name "PC5"
@@ -22821,7 +22823,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 30.48 1.27 180)
 				(length 2.54)
 				(name "PA8"
@@ -22839,7 +22841,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 30.48 -1.27 180)
 				(length 2.54)
 				(name "PC9"
@@ -22925,7 +22927,7 @@
 			)
 		)
 		(symbol "PY32F071R1xU6_0_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at -30.48 19.05 0)
 				(length 2.54)
 				(name "PF9"
@@ -22943,7 +22945,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -30.48 16.51 0)
 				(length 2.54)
 				(name "PC13"
@@ -22961,7 +22963,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -30.48 13.97 0)
 				(length 2.54)
 				(name "PC14-OSC32IN"
@@ -22979,7 +22981,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -30.48 11.43 0)
 				(length 2.54)
 				(name "PC15-OSC32OUT"
@@ -22997,7 +22999,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -30.48 8.89 0)
 				(length 2.54)
 				(name "PF0-OSCIN"
@@ -23015,7 +23017,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -30.48 6.35 0)
 				(length 2.54)
 				(name "PF1-OSCOUT"
@@ -23033,7 +23035,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -30.48 3.81 0)
 				(length 2.54)
 				(name "PF2-NRST"
@@ -23051,7 +23053,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -30.48 1.27 0)
 				(length 2.54)
 				(name "PC0"
@@ -23069,7 +23071,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -30.48 -1.27 0)
 				(length 2.54)
 				(name "PC1"
@@ -23087,7 +23089,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -30.48 -3.81 0)
 				(length 2.54)
 				(name "PC2"
@@ -23105,7 +23107,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -30.48 -6.35 0)
 				(length 2.54)
 				(name "PC3"
@@ -23123,7 +23125,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -30.48 -8.89 0)
 				(length 2.54)
 				(name "VSSA"
@@ -23141,7 +23143,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -30.48 -11.43 0)
 				(length 2.54)
 				(name "VCCA"
@@ -23159,7 +23161,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -30.48 -13.97 0)
 				(length 2.54)
 				(name "PA0"
@@ -23177,7 +23179,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -30.48 -16.51 0)
 				(length 2.54)
 				(name "PA1"
@@ -23195,7 +23197,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -30.48 -19.05 0)
 				(length 2.54)
 				(name "PA2"
@@ -23213,7 +23215,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -19.05 30.48 270)
 				(length 2.54)
 				(name "VCC"
@@ -23231,7 +23233,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -19.05 -30.48 90)
 				(length 2.54)
 				(name "PA3"
@@ -23249,7 +23251,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -16.51 30.48 270)
 				(length 2.54)
 				(name "VSS"
@@ -23267,7 +23269,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -16.51 -30.48 90)
 				(length 2.54)
 				(name "PF3"
@@ -23285,7 +23287,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -13.97 30.48 270)
 				(length 2.54)
 				(name "PB9"
@@ -23303,7 +23305,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -13.97 -30.48 90)
 				(length 2.54)
 				(name "PF4"
@@ -23321,7 +23323,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -11.43 30.48 270)
 				(length 2.54)
 				(name "PB8"
@@ -23339,7 +23341,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -11.43 -30.48 90)
 				(length 2.54)
 				(name "PA4"
@@ -23357,7 +23359,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -8.89 30.48 270)
 				(length 2.54)
 				(name "PF8-BOOT0"
@@ -23375,7 +23377,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -8.89 -30.48 90)
 				(length 2.54)
 				(name "PA5"
@@ -23393,7 +23395,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -6.35 30.48 270)
 				(length 2.54)
 				(name "PB7"
@@ -23411,7 +23413,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -6.35 -30.48 90)
 				(length 2.54)
 				(name "PA6"
@@ -23429,7 +23431,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -3.81 30.48 270)
 				(length 2.54)
 				(name "PB6"
@@ -23447,7 +23449,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -3.81 -30.48 90)
 				(length 2.54)
 				(name "PA7"
@@ -23465,7 +23467,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 3.81 30.48 270)
 				(length 2.54)
 				(name "PB3"
@@ -23483,7 +23485,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 3.81 -30.48 90)
 				(length 2.54)
 				(name "PB0"
@@ -23501,7 +23503,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 6.35 30.48 270)
 				(length 2.54)
 				(name "PF7"
@@ -23519,7 +23521,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 6.35 -30.48 90)
 				(length 2.54)
 				(name "PB1"
@@ -23537,7 +23539,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 8.89 30.48 270)
 				(length 2.54)
 				(name "PC12"
@@ -23555,7 +23557,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 8.89 -30.48 90)
 				(length 2.54)
 				(name "PB2"
@@ -23573,7 +23575,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 11.43 30.48 270)
 				(length 2.54)
 				(name "PC11"
@@ -23591,7 +23593,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 11.43 -30.48 90)
 				(length 2.54)
 				(name "PB10"
@@ -23609,7 +23611,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 13.97 30.48 270)
 				(length 2.54)
 				(name "PC10"
@@ -23627,7 +23629,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 13.97 -30.48 90)
 				(length 2.54)
 				(name "PB11"
@@ -23645,7 +23647,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 16.51 30.48 270)
 				(length 2.54)
 				(name "PA15"
@@ -23663,7 +23665,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 16.51 -30.48 90)
 				(length 2.54)
 				(name "VSS"
@@ -23681,7 +23683,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 19.05 30.48 270)
 				(length 2.54)
 				(name "PA14"
@@ -23699,7 +23701,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 19.05 -30.48 90)
 				(length 2.54)
 				(name "VCC"
@@ -23717,7 +23719,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 30.48 19.05 180)
 				(length 2.54)
 				(name "PF6"
@@ -23735,7 +23737,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 30.48 16.51 180)
 				(length 2.54)
 				(name "PF5"
@@ -23753,7 +23755,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 30.48 13.97 180)
 				(length 2.54)
 				(name "PA13"
@@ -23771,7 +23773,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 30.48 11.43 180)
 				(length 2.54)
 				(name "PA12"
@@ -23789,7 +23791,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 30.48 8.89 180)
 				(length 2.54)
 				(name "PA11"
@@ -23807,7 +23809,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 30.48 6.35 180)
 				(length 2.54)
 				(name "PA10"
@@ -23825,7 +23827,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 30.48 3.81 180)
 				(length 2.54)
 				(name "PA9"
@@ -23843,7 +23845,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 30.48 -3.81 180)
 				(length 2.54)
 				(name "PC8"
@@ -23861,7 +23863,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 30.48 -6.35 180)
 				(length 2.54)
 				(name "PC7"
@@ -23879,7 +23881,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 30.48 -8.89 180)
 				(length 2.54)
 				(name "PC6"
@@ -23897,7 +23899,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 30.48 -11.43 180)
 				(length 2.54)
 				(name "PB15"
@@ -23915,7 +23917,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 30.48 -13.97 180)
 				(length 2.54)
 				(name "PB14"
@@ -23933,7 +23935,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 30.48 -16.51 180)
 				(length 2.54)
 				(name "PB13"
@@ -23951,7 +23953,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 30.48 -19.05 180)
 				(length 2.54)
 				(name "PB12"
@@ -23971,7 +23973,7 @@
 			)
 		)
 		(symbol "PY32F071R1xU6_1_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at -1.27 30.48 270)
 				(length 2.54)
 				(name "PB5"
@@ -23989,7 +23991,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -1.27 -30.48 90)
 				(length 2.54)
 				(name "PC4"
@@ -24007,7 +24009,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 1.27 30.48 270)
 				(length 2.54)
 				(name "PB4"
@@ -24025,7 +24027,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 1.27 -30.48 90)
 				(length 2.54)
 				(name "PC5"
@@ -24043,7 +24045,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 30.48 1.27 180)
 				(length 2.54)
 				(name "PA8"
@@ -24061,7 +24063,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 30.48 -1.27 180)
 				(length 2.54)
 				(name "PC9"
