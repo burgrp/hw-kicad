@@ -7159,7 +7159,7 @@
 			)
 		)
 		(symbol "PAN2110P0AA_0_0"
-			(pin unspecified line
+			(pin bidirectional line
 				(at -15.24 5.08 0)
 				(length 2.54)
 				(name "ANT"
@@ -7177,7 +7177,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -15.24 0 0)
 				(length 2.54)
 				(name "XC0"
@@ -7195,7 +7195,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -15.24 -5.08 0)
 				(length 2.54)
 				(name "XC1"
@@ -7213,7 +7213,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 0 10.16 270)
 				(length 2.54)
 				(name "VDD"
@@ -7231,7 +7231,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 0 -10.16 90)
 				(length 2.54)
 				(name "VSS"
@@ -7249,7 +7249,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 15.24 2.54 180)
 				(length 2.54)
 				(name "SDA/DATA"
@@ -7267,7 +7267,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 15.24 0 180)
 				(length 2.54)
 				(name "SCL/SCK"
@@ -7285,7 +7285,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 15.24 -2.54 180)
 				(length 2.54)
 				(name "CSN"
