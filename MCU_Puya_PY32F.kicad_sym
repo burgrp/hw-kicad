@@ -50,7 +50,7 @@
 			)
 		)
 		(symbol "PY32F002AA15M_0_0"
-			(pin bidirectional line
+			(pin power_in line
 				(at -20.32 5.08 0)
 				(length 2.54)
 				(name "VCC"
@@ -214,7 +214,7 @@
 			)
 		)
 		(symbol "PY32F002AA15M_1_0"
-			(pin bidirectional line
+			(pin power_in line
 				(at 20.32 5.08 180)
 				(length 2.54)
 				(name "VSS"
@@ -296,7 +296,7 @@
 			)
 		)
 		(symbol "PY32F002AA15N_0_0"
-			(pin bidirectional line
+			(pin power_in line
 				(at -20.32 5.08 0)
 				(length 2.54)
 				(name "VCC"
@@ -386,7 +386,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at 20.32 5.08 180)
 				(length 2.54)
 				(name "VSS"
@@ -540,7 +540,7 @@
 			)
 		)
 		(symbol "PY32F002AF15P_0_0"
-			(pin bidirectional line
+			(pin power_in line
 				(at -20.32 10.16 0)
 				(length 2.54)
 				(name "VSS"
@@ -720,7 +720,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at 20.32 10.16 180)
 				(length 2.54)
 				(name "VCC"
@@ -1076,7 +1076,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at -5.08 -20.32 90)
 				(length 2.54)
 				(name "VCC"
@@ -1330,7 +1330,7 @@
 			)
 		)
 		(symbol "PY32F002AF15U_1_0"
-			(pin bidirectional line
+			(pin power_in line
 				(at 15.24 -20.32 90)
 				(length 2.54)
 				(name "VSS"
@@ -1448,7 +1448,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at 20.32 2.54 180)
 				(length 2.54)
 				(name "VSS"
@@ -1522,7 +1522,7 @@
 			)
 		)
 		(symbol "PY32F002AL15S_1_0"
-			(pin bidirectional line
+			(pin power_in line
 				(at -20.32 2.54 0)
 				(length 2.54)
 				(name "VCC"
@@ -1676,7 +1676,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at -20.32 0 0)
 				(length 2.54)
 				(name "VCC"
@@ -1820,7 +1820,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at 20.32 1.27 180)
 				(length 2.54)
 				(name "VSS"
@@ -2086,7 +2086,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at 0 19.05 270)
 				(length 2.54)
 				(name "VCC"
@@ -2268,7 +2268,7 @@
 			)
 		)
 		(symbol "PY32F002AW15U_1_0"
-			(pin bidirectional line
+			(pin power_in line
 				(at 16.51 -21.59 90)
 				(length 2.54)
 				(name "VSS"
@@ -2350,7 +2350,7 @@
 			)
 		)
 		(symbol "PY32F002BD15S_0_0"
-			(pin bidirectional line
+			(pin power_in line
 				(at -20.32 7.62 0)
 				(length 2.54)
 				(name "VCC"
@@ -2476,7 +2476,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at 20.32 7.62 180)
 				(length 2.54)
 				(name "VSS"
@@ -2774,7 +2774,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at -20.32 -5.08 0)
 				(length 2.54)
 				(name "VSS"
@@ -2810,7 +2810,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at -20.32 -10.16 0)
 				(length 2.54)
 				(name "VCC"
@@ -3090,7 +3090,7 @@
 			)
 		)
 		(symbol "PY32F002BF15S_0_0"
-			(pin bidirectional line
+			(pin power_in line
 				(at -20.32 10.16 0)
 				(length 2.54)
 				(name "VSS"
@@ -3270,7 +3270,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at 20.32 10.16 180)
 				(length 2.54)
 				(name "VCC"
@@ -3572,7 +3572,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at -20.32 -2.54 0)
 				(length 2.54)
 				(name "VSS"
@@ -3626,7 +3626,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at -5.08 -20.32 90)
 				(length 2.54)
 				(name "VCC"
@@ -3880,7 +3880,7 @@
 			)
 		)
 		(symbol "PY32F002BF15U_1_0"
-			(pin bidirectional line
+			(pin power_in line
 				(at 15.24 -20.32 90)
 				(length 2.54)
 				(name "VSS"
@@ -3998,7 +3998,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at 20.32 2.54 180)
 				(length 2.54)
 				(name "VSS"
@@ -4072,7 +4072,7 @@
 			)
 		)
 		(symbol "PY32F002BL15S_1_0"
-			(pin bidirectional line
+			(pin power_in line
 				(at -20.32 2.54 0)
 				(length 2.54)
 				(name "VCC"
@@ -4172,7 +4172,7 @@
 			)
 		)
 		(symbol "PY32F002BW15S_0_0"
-			(pin bidirectional line
+			(pin power_in line
 				(at -20.32 7.62 0)
 				(length 2.54)
 				(name "VCC"
@@ -4316,7 +4316,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at 20.32 7.62 180)
 				(length 2.54)
 				(name "VSS"
@@ -4636,7 +4636,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at 0 19.05 270)
 				(length 2.54)
 				(name "VCC"
@@ -4818,7 +4818,7 @@
 			)
 		)
 		(symbol "PY32F002BW15U_1_0"
-			(pin bidirectional line
+			(pin power_in line
 				(at 16.51 -21.59 90)
 				(length 2.54)
 				(name "VSS"
@@ -4900,7 +4900,7 @@
 			)
 		)
 		(symbol "PY32F003A1xNx_0_0"
-			(pin bidirectional line
+			(pin power_in line
 				(at -20.32 5.08 0)
 				(length 2.54)
 				(name "VCC"
@@ -4990,7 +4990,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at 20.32 5.08 180)
 				(length 2.54)
 				(name "VSS"
@@ -5252,7 +5252,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at -20.32 -5.08 0)
 				(length 2.54)
 				(name "VSS"
@@ -5288,7 +5288,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at -20.32 -10.16 0)
 				(length 2.54)
 				(name "VCC"
@@ -5676,7 +5676,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at -20.32 -5.08 0)
 				(length 2.54)
 				(name "VSS"
@@ -5712,7 +5712,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at -20.32 -10.16 0)
 				(length 2.54)
 				(name "VCC"
@@ -6050,7 +6050,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at -20.32 -2.54 0)
 				(length 2.54)
 				(name "VSS"
@@ -6104,7 +6104,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at -5.08 -20.32 90)
 				(length 2.54)
 				(name "VCC"
@@ -6358,7 +6358,7 @@
 			)
 		)
 		(symbol "PY32F003F1xUx_1_0"
-			(pin bidirectional line
+			(pin power_in line
 				(at 15.24 -20.32 90)
 				(length 2.54)
 				(name "VSS"
@@ -6548,7 +6548,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at -20.32 -5.08 0)
 				(length 2.54)
 				(name "VSS"
@@ -6584,7 +6584,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at -20.32 -10.16 0)
 				(length 2.54)
 				(name "VCC"
@@ -6922,7 +6922,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at -20.32 -2.54 0)
 				(length 2.54)
 				(name "VSS"
@@ -6976,7 +6976,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at -5.08 -20.32 90)
 				(length 2.54)
 				(name "VCC"
@@ -7230,7 +7230,7 @@
 			)
 		)
 		(symbol "PY32F003F2xUx_1_0"
-			(pin bidirectional line
+			(pin power_in line
 				(at 15.24 -20.32 90)
 				(length 2.54)
 				(name "VSS"
@@ -7420,7 +7420,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at -20.32 -5.08 0)
 				(length 2.54)
 				(name "VSS"
@@ -7456,7 +7456,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at -20.32 -10.16 0)
 				(length 2.54)
 				(name "VCC"
@@ -7844,7 +7844,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at -20.32 -5.08 0)
 				(length 2.54)
 				(name "VSS"
@@ -7880,7 +7880,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at -20.32 -10.16 0)
 				(length 2.54)
 				(name "VCC"
@@ -8268,7 +8268,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at -20.32 -5.08 0)
 				(length 2.54)
 				(name "VSS"
@@ -8304,7 +8304,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at -20.32 -10.16 0)
 				(length 2.54)
 				(name "VCC"
@@ -8584,7 +8584,7 @@
 			)
 		)
 		(symbol "PY32F003F6xPx_0_0"
-			(pin bidirectional line
+			(pin power_in line
 				(at -20.32 10.16 0)
 				(length 2.54)
 				(name "VCC"
@@ -8602,7 +8602,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at -20.32 7.62 0)
 				(length 2.54)
 				(name "VSS"
@@ -9044,7 +9044,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at 20.32 2.54 180)
 				(length 2.54)
 				(name "VSS"
@@ -9118,7 +9118,7 @@
 			)
 		)
 		(symbol "PY32F003L1xSx_1_0"
-			(pin bidirectional line
+			(pin power_in line
 				(at -20.32 2.54 0)
 				(length 2.54)
 				(name "VCC"
@@ -9328,7 +9328,7 @@
 			)
 		)
 		(symbol "PY32F003L2xDx_1_0"
-			(pin bidirectional line
+			(pin power_in line
 				(at -20.32 2.54 0)
 				(length 2.54)
 				(name "VCC"
@@ -9364,7 +9364,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at -10.16 -10.16 90)
 				(length 2.54)
 				(name "VSS"
@@ -9482,7 +9482,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at 20.32 2.54 180)
 				(length 2.54)
 				(name "VSS"
@@ -9538,7 +9538,7 @@
 			)
 		)
 		(symbol "PY32F003L2xSx_1_0"
-			(pin bidirectional line
+			(pin power_in line
 				(at -20.32 2.54 0)
 				(length 2.54)
 				(name "VCC"
@@ -9656,7 +9656,7 @@
 			)
 		)
 		(symbol "PY32F003W1xSx_0_0"
-			(pin bidirectional line
+			(pin power_in line
 				(at -20.32 7.62 0)
 				(length 2.54)
 				(name "VSS"
@@ -9800,7 +9800,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at 20.32 7.62 180)
 				(length 2.54)
 				(name "VCC"
@@ -10008,7 +10008,7 @@
 			)
 		)
 		(symbol "PY32F030E1xMx_0_0"
-			(pin bidirectional line
+			(pin power_in line
 				(at -20.32 12.7 0)
 				(length 2.54)
 				(name "VCC"
@@ -10224,7 +10224,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at 20.32 12.7 180)
 				(length 2.54)
 				(name "VSS"
@@ -10507,7 +10507,7 @@
 			)
 		)
 		(symbol "PY32F030E1xUx-E_0_0"
-			(pin bidirectional line
+			(pin power_in line
 				(at -19.05 5.08 0)
 				(length 2.54)
 				(name "VCC"
@@ -10941,7 +10941,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at 16.51 -21.59 90)
 				(length 2.54)
 				(name "VSS"
@@ -11023,7 +11023,7 @@
 			)
 		)
 		(symbol "PY32F030E2xMx_0_0"
-			(pin bidirectional line
+			(pin power_in line
 				(at -20.32 12.7 0)
 				(length 2.54)
 				(name "VCC"
@@ -11239,7 +11239,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at 20.32 12.7 180)
 				(length 2.54)
 				(name "VSS"
@@ -11629,7 +11629,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at -20.32 -5.08 0)
 				(length 2.54)
 				(name "VSS"
@@ -11665,7 +11665,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at -20.32 -10.16 0)
 				(length 2.54)
 				(name "VCC"
@@ -12003,7 +12003,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at -20.32 -2.54 0)
 				(length 2.54)
 				(name "VSS"
@@ -12057,7 +12057,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at -5.08 -20.32 90)
 				(length 2.54)
 				(name "VCC"
@@ -12311,7 +12311,7 @@
 			)
 		)
 		(symbol "PY32F030F1xUx_1_0"
-			(pin bidirectional line
+			(pin power_in line
 				(at 15.24 -20.32 90)
 				(length 2.54)
 				(name "VSS"
@@ -12501,7 +12501,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at -20.32 -5.08 0)
 				(length 2.54)
 				(name "VSS"
@@ -12537,7 +12537,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at -20.32 -10.16 0)
 				(length 2.54)
 				(name "VCC"
@@ -12875,7 +12875,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at -20.32 -2.54 0)
 				(length 2.54)
 				(name "VSS"
@@ -12929,7 +12929,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at -5.08 -20.32 90)
 				(length 2.54)
 				(name "VCC"
@@ -13183,7 +13183,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at 15.24 -20.32 90)
 				(length 2.54)
 				(name "VSS"
@@ -13517,7 +13517,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at 20.32 0 180)
 				(length 2.54)
 				(name "VCC"
@@ -13535,7 +13535,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at 20.32 -2.54 180)
 				(length 2.54)
 				(name "VSS"
@@ -13783,7 +13783,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at -5.08 20.32 270)
 				(length 2.54)
 				(name "VCC"
@@ -14055,7 +14055,7 @@
 			)
 		)
 		(symbol "PY32F030F3xUx_1_0"
-			(pin bidirectional line
+			(pin power_in line
 				(at 15.24 -20.32 90)
 				(length 2.54)
 				(name "VSS"
@@ -14227,7 +14227,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at -20.32 -2.54 0)
 				(length 2.54)
 				(name "VSS"
@@ -14245,7 +14245,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at -20.32 -5.08 0)
 				(length 2.54)
 				(name "VCC"
@@ -14565,7 +14565,7 @@
 			)
 		)
 		(symbol "PY32F030K1xTx_0_0"
-			(pin bidirectional line
+			(pin power_in line
 				(at -19.05 7.62 0)
 				(length 2.54)
 				(name "VCC"
@@ -14709,7 +14709,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at -7.62 19.05 270)
 				(length 2.54)
 				(name "VSS"
@@ -14943,7 +14943,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at 10.16 -21.59 90)
 				(length 2.54)
 				(name "VSS"
@@ -15069,7 +15069,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at 21.59 -10.16 180)
 				(length 2.54)
 				(name "VCC"
@@ -15211,7 +15211,7 @@
 			)
 		)
 		(symbol "PY32F030K2xTx_0_0"
-			(pin bidirectional line
+			(pin power_in line
 				(at -19.05 7.62 0)
 				(length 2.54)
 				(name "VCC"
@@ -15589,7 +15589,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at 10.16 -21.59 90)
 				(length 2.54)
 				(name "VSS"
@@ -15857,7 +15857,7 @@
 			)
 		)
 		(symbol "PY32F030K2xUx_0_0"
-			(pin bidirectional line
+			(pin power_in line
 				(at -19.05 7.62 0)
 				(length 2.54)
 				(name "VCC"
@@ -16217,7 +16217,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at 10.16 -21.59 90)
 				(length 2.54)
 				(name "VSS"
@@ -16417,7 +16417,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at 16.51 -21.59 90)
 				(length 2.54)
 				(name "VSS"
@@ -16521,7 +16521,7 @@
 			)
 		)
 		(symbol "PY32F030K3xUx-E_0_0"
-			(pin bidirectional line
+			(pin power_in line
 				(at -19.05 7.62 0)
 				(length 2.54)
 				(name "VCC"
@@ -17063,7 +17063,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at 16.51 -21.59 90)
 				(length 2.54)
 				(name "VSS"
@@ -17099,7 +17099,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at 21.59 -10.16 180)
 				(length 2.54)
 				(name "VCC"
@@ -17185,7 +17185,7 @@
 			)
 		)
 		(symbol "PY32F030K4xUx-E_0_0"
-			(pin bidirectional line
+			(pin power_in line
 				(at -19.05 7.62 0)
 				(length 2.54)
 				(name "VCC"
@@ -17545,7 +17545,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at 10.16 -21.59 90)
 				(length 2.54)
 				(name "VSS"
@@ -17745,7 +17745,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at 16.51 -21.59 90)
 				(length 2.54)
 				(name "VSS"
@@ -17955,7 +17955,7 @@
 			)
 		)
 		(symbol "PY32F030L1xDx_1_0"
-			(pin bidirectional line
+			(pin power_in line
 				(at -20.32 2.54 0)
 				(length 2.54)
 				(name "VCC"
@@ -17991,7 +17991,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at -10.16 -10.16 90)
 				(length 2.54)
 				(name "VSS"
@@ -18203,7 +18203,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at -24.13 -5.08 0)
 				(length 2.54)
 				(name "VSSA"
@@ -18221,7 +18221,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at -24.13 -7.62 0)
 				(length 2.54)
 				(name "VCCA"
@@ -18293,7 +18293,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at -12.7 24.13 270)
 				(length 2.54)
 				(name "VCC"
@@ -18329,7 +18329,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at -10.16 24.13 270)
 				(length 2.54)
 				(name "VSS"
@@ -18635,7 +18635,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at 12.7 -26.67 90)
 				(length 2.54)
 				(name "VSS"
@@ -18907,7 +18907,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at 15.24 -26.67 90)
 				(length 2.54)
 				(name "VCC"
@@ -19137,7 +19137,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at -24.13 -5.08 0)
 				(length 2.54)
 				(name "VSSA"
@@ -19155,7 +19155,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at -24.13 -7.62 0)
 				(length 2.54)
 				(name "VCCA"
@@ -19227,7 +19227,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at -12.7 24.13 270)
 				(length 2.54)
 				(name "VCC"
@@ -19263,7 +19263,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at -10.16 24.13 270)
 				(length 2.54)
 				(name "VSS"
@@ -19569,7 +19569,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at 12.7 -26.67 90)
 				(length 2.54)
 				(name "VSS"
@@ -19841,7 +19841,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at 15.24 -26.67 90)
 				(length 2.54)
 				(name "VCC"
@@ -19999,7 +19999,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at -19.05 0 0)
 				(length 2.54)
 				(name "VSSA"
@@ -20017,7 +20017,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at -19.05 -2.54 0)
 				(length 2.54)
 				(name "VCCA"
@@ -20323,7 +20323,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at 10.16 -21.59 90)
 				(length 2.54)
 				(name "VSS"
@@ -20449,7 +20449,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at 21.59 -10.16 180)
 				(length 2.54)
 				(name "VCC"
@@ -20505,7 +20505,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at 16.51 -21.59 90)
 				(length 2.54)
 				(name "VSS"
@@ -20789,7 +20789,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at -26.67 -10.16 0)
 				(length 2.54)
 				(name "VCCA"
@@ -21257,7 +21257,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at 15.24 -29.21 90)
 				(length 2.54)
 				(name "VCC"
@@ -21511,7 +21511,7 @@
 			)
 		)
 		(symbol "PY32F071P1xU6_1_0"
-			(pin bidirectional line
+			(pin power_in line
 				(at -15.24 26.67 270)
 				(length 2.54)
 				(name "VCC"
@@ -21583,7 +21583,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at 24.13 -29.21 90)
 				(length 2.54)
 				(name "VSS"
@@ -21903,7 +21903,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at -29.21 -10.16 0)
 				(length 2.54)
 				(name "VSSA"
@@ -21921,7 +21921,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at -29.21 -12.7 0)
 				(length 2.54)
 				(name "VCCA"
@@ -21993,7 +21993,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at -17.78 29.21 270)
 				(length 2.54)
 				(name "VCC"
@@ -22029,7 +22029,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at -15.24 29.21 270)
 				(length 2.54)
 				(name "VSS"
@@ -22443,7 +22443,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at 17.78 -31.75 90)
 				(length 2.54)
 				(name "VSS"
@@ -22479,7 +22479,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at 20.32 -31.75 90)
 				(length 2.54)
 				(name "VCC"
@@ -23125,7 +23125,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at -29.21 -10.16 0)
 				(length 2.54)
 				(name "VSSA"
@@ -23143,7 +23143,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at -29.21 -12.7 0)
 				(length 2.54)
 				(name "VCCA"
@@ -23215,7 +23215,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at -17.78 29.21 270)
 				(length 2.54)
 				(name "VCC"
@@ -23251,7 +23251,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at -15.24 29.21 270)
 				(length 2.54)
 				(name "VSS"
@@ -23665,7 +23665,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at 17.78 -31.75 90)
 				(length 2.54)
 				(name "VSS"
@@ -23701,7 +23701,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at 20.32 -31.75 90)
 				(length 2.54)
 				(name "VCC"
