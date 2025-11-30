@@ -479,7 +479,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "U"
-			(at 19.05 17.78 0)
+			(at 17.78 16.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -488,7 +488,7 @@
 			)
 		)
 		(property "Value" "_LQFP32"
-			(at 19.05 -20.32 0)
+			(at 17.78 -19.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -497,7 +497,7 @@
 			)
 		)
 		(property "Footprint" "Package_QFP:LQFP-32_7x7mm_P0.8mm"
-			(at 19.05 -22.86 0)
+			(at 17.78 -21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -507,7 +507,7 @@
 			)
 		)
 		(property "Datasheet" "DATASHEET"
-			(at 19.05 -25.4 0)
+			(at 17.78 -24.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -527,7 +527,7 @@
 		)
 		(symbol "_LQFP32_0_0"
 			(pin unspecified line
-				(at -19.05 7.62 0)
+				(at -17.78 7.62 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -545,7 +545,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -19.05 5.08 0)
+				(at -17.78 5.08 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -563,7 +563,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -19.05 2.54 0)
+				(at -17.78 2.54 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -581,7 +581,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -19.05 0 0)
+				(at -17.78 0 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -599,7 +599,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -19.05 -2.54 0)
+				(at -17.78 -2.54 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -617,7 +617,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -19.05 -5.08 0)
+				(at -17.78 -5.08 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -635,7 +635,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -19.05 -7.62 0)
+				(at -17.78 -7.62 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -653,7 +653,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -19.05 -10.16 0)
+				(at -17.78 -10.16 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -671,7 +671,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -7.62 19.05 270)
+				(at -7.62 17.78 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -689,7 +689,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -7.62 -21.59 90)
+				(at -7.62 -20.32 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -707,7 +707,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -5.08 19.05 270)
+				(at -5.08 17.78 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -725,7 +725,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -5.08 -21.59 90)
+				(at -5.08 -20.32 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -743,7 +743,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -2.54 19.05 270)
+				(at -2.54 17.78 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -761,7 +761,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -2.54 -21.59 90)
+				(at -2.54 -20.32 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -779,7 +779,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 0 19.05 270)
+				(at 0 17.78 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -797,7 +797,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 0 -21.59 90)
+				(at 0 -20.32 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -815,7 +815,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 2.54 19.05 270)
+				(at 2.54 17.78 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -833,7 +833,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 2.54 -21.59 90)
+				(at 2.54 -20.32 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -851,7 +851,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 5.08 19.05 270)
+				(at 5.08 17.78 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -869,7 +869,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 5.08 -21.59 90)
+				(at 5.08 -20.32 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -887,7 +887,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 7.62 19.05 270)
+				(at 7.62 17.78 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -905,7 +905,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 7.62 -21.59 90)
+				(at 7.62 -20.32 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -923,7 +923,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 10.16 -21.59 90)
+				(at 10.16 -20.32 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -941,7 +941,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 21.59 5.08 180)
+				(at 20.32 5.08 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -959,7 +959,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 21.59 2.54 180)
+				(at 20.32 2.54 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -977,7 +977,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 21.59 0 180)
+				(at 20.32 0 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -995,7 +995,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 21.59 -2.54 180)
+				(at 20.32 -2.54 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -1013,7 +1013,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 21.59 -5.08 180)
+				(at 20.32 -5.08 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -1031,7 +1031,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 21.59 -7.62 180)
+				(at 20.32 -7.62 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -1049,7 +1049,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 21.59 -10.16 180)
+				(at 20.32 -10.16 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -1069,7 +1069,7 @@
 		)
 		(symbol "_LQFP32_1_0"
 			(pin unspecified line
-				(at 10.16 19.05 270)
+				(at 10.16 17.78 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -1087,7 +1087,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 21.59 7.62 180)
+				(at 20.32 7.62 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -1107,8 +1107,8 @@
 		)
 		(symbol "_LQFP32_1_1"
 			(rectangle
-				(start -16.51 16.51)
-				(end 19.05 -19.05)
+				(start -15.24 15.24)
+				(end 17.78 -17.78)
 				(stroke
 					(width 0.254)
 					(type solid)
@@ -1125,7 +1125,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "U"
-			(at 24.13 22.86 0)
+			(at 22.86 21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1134,7 +1134,7 @@
 			)
 		)
 		(property "Value" "_LQFP48"
-			(at 24.13 -25.908 0)
+			(at 22.86 -24.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1143,7 +1143,7 @@
 			)
 		)
 		(property "Footprint" "Package_QFP:LQFP-48_7x7mm_P0.5mm"
-			(at 24.13 -28.448 0)
+			(at 22.86 -26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1153,7 +1153,7 @@
 			)
 		)
 		(property "Datasheet" "DATASHEET"
-			(at 24.13 -30.988 0)
+			(at 22.86 -29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1173,7 +1173,7 @@
 		)
 		(symbol "_LQFP48_0_0"
 			(pin unspecified line
-				(at -24.13 12.7 0)
+				(at -22.86 12.7 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -1191,7 +1191,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -24.13 10.16 0)
+				(at -22.86 10.16 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -1209,7 +1209,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -24.13 7.62 0)
+				(at -22.86 7.62 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -1227,7 +1227,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -24.13 5.08 0)
+				(at -22.86 5.08 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -1245,7 +1245,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -24.13 2.54 0)
+				(at -22.86 2.54 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -1263,7 +1263,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -24.13 0 0)
+				(at -22.86 0 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -1281,7 +1281,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -24.13 -2.54 0)
+				(at -22.86 -2.54 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -1299,7 +1299,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -24.13 -5.08 0)
+				(at -22.86 -5.08 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -1317,7 +1317,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -24.13 -7.62 0)
+				(at -22.86 -7.62 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -1335,7 +1335,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -24.13 -10.16 0)
+				(at -22.86 -10.16 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -1353,7 +1353,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -24.13 -12.7 0)
+				(at -22.86 -12.7 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -1371,7 +1371,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -24.13 -15.24 0)
+				(at -22.86 -15.24 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -1389,7 +1389,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -12.7 24.13 270)
+				(at -12.7 22.86 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -1407,7 +1407,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -12.7 -26.67 90)
+				(at -12.7 -25.4 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -1425,7 +1425,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -10.16 24.13 270)
+				(at -10.16 22.86 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -1443,7 +1443,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -10.16 -26.67 90)
+				(at -10.16 -25.4 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -1461,7 +1461,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -7.62 24.13 270)
+				(at -7.62 22.86 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -1479,7 +1479,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -7.62 -26.67 90)
+				(at -7.62 -25.4 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -1497,7 +1497,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -5.08 24.13 270)
+				(at -5.08 22.86 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -1515,7 +1515,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -5.08 -26.67 90)
+				(at -5.08 -25.4 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -1533,7 +1533,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -2.54 24.13 270)
+				(at -2.54 22.86 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -1551,7 +1551,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -2.54 -26.67 90)
+				(at -2.54 -25.4 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -1569,7 +1569,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 0 24.13 270)
+				(at 0 22.86 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -1587,7 +1587,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 0 -26.67 90)
+				(at 0 -25.4 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -1605,7 +1605,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 2.54 24.13 270)
+				(at 2.54 22.86 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -1623,7 +1623,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 2.54 -26.67 90)
+				(at 2.54 -25.4 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -1641,7 +1641,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 5.08 -26.67 90)
+				(at 5.08 -25.4 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -1659,7 +1659,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 7.62 -26.67 90)
+				(at 7.62 -25.4 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -1677,7 +1677,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 10.16 24.13 270)
+				(at 10.16 22.86 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -1695,7 +1695,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 10.16 -26.67 90)
+				(at 10.16 -25.4 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -1713,7 +1713,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 12.7 24.13 270)
+				(at 12.7 22.86 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -1731,7 +1731,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 12.7 -26.67 90)
+				(at 12.7 -25.4 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -1749,7 +1749,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 15.24 24.13 270)
+				(at 15.24 22.86 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -1767,7 +1767,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 26.67 12.7 180)
+				(at 25.4 12.7 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -1785,7 +1785,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 26.67 10.16 180)
+				(at 25.4 10.16 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -1803,7 +1803,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 26.67 7.62 180)
+				(at 25.4 7.62 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -1821,7 +1821,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 26.67 5.08 180)
+				(at 25.4 5.08 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -1839,7 +1839,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 26.67 2.54 180)
+				(at 25.4 2.54 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -1857,7 +1857,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 26.67 0 180)
+				(at 25.4 0 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -1875,7 +1875,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 26.67 -2.54 180)
+				(at 25.4 -2.54 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -1893,7 +1893,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 26.67 -5.08 180)
+				(at 25.4 -5.08 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -1911,7 +1911,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 26.67 -7.62 180)
+				(at 25.4 -7.62 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -1929,7 +1929,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 26.67 -10.16 180)
+				(at 25.4 -10.16 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -1947,7 +1947,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 26.67 -12.7 180)
+				(at 25.4 -12.7 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -1967,7 +1967,7 @@
 		)
 		(symbol "_LQFP48_1_0"
 			(pin unspecified line
-				(at 5.08 24.13 270)
+				(at 5.08 22.86 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -1985,7 +1985,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 7.62 24.13 270)
+				(at 7.62 22.86 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -2003,7 +2003,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 15.24 -26.67 90)
+				(at 15.24 -25.4 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -2021,7 +2021,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 26.67 -15.24 180)
+				(at 25.4 -15.24 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -2041,8 +2041,8 @@
 		)
 		(symbol "_LQFP48_1_1"
 			(rectangle
-				(start -21.59 21.59)
-				(end 24.13 -24.13)
+				(start -20.32 20.32)
+				(end 22.86 -22.86)
 				(stroke
 					(width 0.254)
 					(type solid)
@@ -2059,7 +2059,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "U"
-			(at 29.21 27.94 0)
+			(at 27.94 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2068,7 +2068,7 @@
 			)
 		)
 		(property "Value" "_LQFP64"
-			(at 29.21 -30.48 0)
+			(at 27.94 -29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2077,7 +2077,7 @@
 			)
 		)
 		(property "Footprint" "Package_QFP:LQFP-64_10x10mm_P0.5mm"
-			(at 29.21 -33.02 0)
+			(at 27.94 -31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2087,7 +2087,7 @@
 			)
 		)
 		(property "Datasheet" "DATASHEET"
-			(at 29.21 -35.56 0)
+			(at 27.94 -34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2107,7 +2107,7 @@
 		)
 		(symbol "_LQFP64_0_0"
 			(pin unspecified line
-				(at -29.21 17.78 0)
+				(at -27.94 17.78 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -2125,7 +2125,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -29.21 15.24 0)
+				(at -27.94 15.24 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -2143,7 +2143,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -29.21 12.7 0)
+				(at -27.94 12.7 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -2161,7 +2161,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -29.21 10.16 0)
+				(at -27.94 10.16 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -2179,7 +2179,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -29.21 7.62 0)
+				(at -27.94 7.62 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -2197,7 +2197,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -29.21 5.08 0)
+				(at -27.94 5.08 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -2215,7 +2215,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -29.21 2.54 0)
+				(at -27.94 2.54 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -2233,7 +2233,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -29.21 0 0)
+				(at -27.94 0 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -2251,7 +2251,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -29.21 -2.54 0)
+				(at -27.94 -2.54 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -2269,7 +2269,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -29.21 -5.08 0)
+				(at -27.94 -5.08 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -2287,7 +2287,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -29.21 -7.62 0)
+				(at -27.94 -7.62 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -2305,7 +2305,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -29.21 -10.16 0)
+				(at -27.94 -10.16 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -2323,7 +2323,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -29.21 -12.7 0)
+				(at -27.94 -12.7 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -2341,7 +2341,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -29.21 -15.24 0)
+				(at -27.94 -15.24 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -2359,7 +2359,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -29.21 -17.78 0)
+				(at -27.94 -17.78 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -2377,7 +2377,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -29.21 -20.32 0)
+				(at -27.94 -20.32 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -2395,7 +2395,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -17.78 29.21 270)
+				(at -17.78 27.94 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -2413,7 +2413,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -17.78 -31.75 90)
+				(at -17.78 -30.48 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -2431,7 +2431,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -15.24 29.21 270)
+				(at -15.24 27.94 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -2449,7 +2449,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -15.24 -31.75 90)
+				(at -15.24 -30.48 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -2467,7 +2467,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -12.7 29.21 270)
+				(at -12.7 27.94 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -2485,7 +2485,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -12.7 -31.75 90)
+				(at -12.7 -30.48 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -2503,7 +2503,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -10.16 29.21 270)
+				(at -10.16 27.94 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -2521,7 +2521,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -10.16 -31.75 90)
+				(at -10.16 -30.48 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -2539,7 +2539,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -7.62 29.21 270)
+				(at -7.62 27.94 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -2557,7 +2557,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -7.62 -31.75 90)
+				(at -7.62 -30.48 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -2575,7 +2575,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -5.08 29.21 270)
+				(at -5.08 27.94 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -2593,7 +2593,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -5.08 -31.75 90)
+				(at -5.08 -30.48 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -2611,7 +2611,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -2.54 29.21 270)
+				(at -2.54 27.94 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -2629,7 +2629,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -2.54 -31.75 90)
+				(at -2.54 -30.48 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -2647,7 +2647,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 5.08 29.21 270)
+				(at 5.08 27.94 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -2665,7 +2665,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 5.08 -31.75 90)
+				(at 5.08 -30.48 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -2683,7 +2683,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 7.62 29.21 270)
+				(at 7.62 27.94 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -2701,7 +2701,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 7.62 -31.75 90)
+				(at 7.62 -30.48 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -2719,7 +2719,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 10.16 29.21 270)
+				(at 10.16 27.94 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -2737,7 +2737,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 10.16 -31.75 90)
+				(at 10.16 -30.48 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -2755,7 +2755,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 12.7 29.21 270)
+				(at 12.7 27.94 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -2773,7 +2773,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 12.7 -31.75 90)
+				(at 12.7 -30.48 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -2791,7 +2791,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 15.24 29.21 270)
+				(at 15.24 27.94 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -2809,7 +2809,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 15.24 -31.75 90)
+				(at 15.24 -30.48 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -2827,7 +2827,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 17.78 29.21 270)
+				(at 17.78 27.94 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -2845,7 +2845,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 17.78 -31.75 90)
+				(at 17.78 -30.48 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -2863,7 +2863,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 20.32 29.21 270)
+				(at 20.32 27.94 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -2881,7 +2881,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 20.32 -31.75 90)
+				(at 20.32 -30.48 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -2899,7 +2899,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 31.75 17.78 180)
+				(at 30.48 17.78 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -2917,7 +2917,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 31.75 15.24 180)
+				(at 30.48 15.24 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -2935,7 +2935,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 31.75 12.7 180)
+				(at 30.48 12.7 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -2953,7 +2953,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 31.75 10.16 180)
+				(at 30.48 10.16 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -2971,7 +2971,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 31.75 7.62 180)
+				(at 30.48 7.62 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -2989,7 +2989,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 31.75 5.08 180)
+				(at 30.48 5.08 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -3007,7 +3007,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 31.75 2.54 180)
+				(at 30.48 2.54 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -3025,7 +3025,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 31.75 -5.08 180)
+				(at 30.48 -5.08 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -3043,7 +3043,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 31.75 -7.62 180)
+				(at 30.48 -7.62 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -3061,7 +3061,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 31.75 -10.16 180)
+				(at 30.48 -10.16 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -3079,7 +3079,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 31.75 -12.7 180)
+				(at 30.48 -12.7 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -3097,7 +3097,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 31.75 -15.24 180)
+				(at 30.48 -15.24 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -3115,7 +3115,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 31.75 -17.78 180)
+				(at 30.48 -17.78 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -3133,7 +3133,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 31.75 -20.32 180)
+				(at 30.48 -20.32 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -3153,7 +3153,7 @@
 		)
 		(symbol "_LQFP64_1_0"
 			(pin unspecified line
-				(at 0 29.21 270)
+				(at 0 27.94 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -3171,7 +3171,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 0 -31.75 90)
+				(at 0 -30.48 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -3189,7 +3189,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 2.54 29.21 270)
+				(at 2.54 27.94 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -3207,7 +3207,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 2.54 -31.75 90)
+				(at 2.54 -30.48 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -3225,7 +3225,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 31.75 0 180)
+				(at 30.48 0 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -3243,7 +3243,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 31.75 -2.54 180)
+				(at 30.48 -2.54 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -3263,8 +3263,8 @@
 		)
 		(symbol "_LQFP64_1_1"
 			(rectangle
-				(start -26.67 26.67)
-				(end 29.21 -29.21)
+				(start -25.4 25.4)
+				(end 27.94 -27.94)
 				(stroke
 					(width 0.254)
 					(type solid)
@@ -3525,7 +3525,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "U"
-			(at 19.05 17.78 0)
+			(at 17.78 16.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3534,7 +3534,7 @@
 			)
 		)
 		(property "Value" "_QFN16"
-			(at 19.05 -20.32 0)
+			(at 17.78 -19.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3543,7 +3543,7 @@
 			)
 		)
 		(property "Footprint" "Package_DFN_QFN:LQFN-16-1EP_3x3mm_P0.5mm_EP1.7x1.7mm"
-			(at 19.05 -22.86 0)
+			(at 17.78 -21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3553,7 +3553,7 @@
 			)
 		)
 		(property "Datasheet" "DATASHEET"
-			(at 19.05 -25.4 0)
+			(at 17.78 -24.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3573,7 +3573,7 @@
 		)
 		(symbol "_QFN16_0_0"
 			(pin unspecified line
-				(at -19.05 2.54 0)
+				(at -17.78 2.54 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -3591,7 +3591,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -19.05 0 0)
+				(at -17.78 0 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -3609,7 +3609,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -19.05 -2.54 0)
+				(at -17.78 -2.54 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -3627,7 +3627,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -19.05 -5.08 0)
+				(at -17.78 -5.08 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -3645,7 +3645,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -2.54 19.05 270)
+				(at -2.54 17.78 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -3663,7 +3663,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -2.54 -21.59 90)
+				(at -2.54 -20.32 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -3681,7 +3681,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 0 19.05 270)
+				(at 0 17.78 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -3699,7 +3699,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 0 -21.59 90)
+				(at 0 -20.32 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -3717,7 +3717,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 2.54 19.05 270)
+				(at 2.54 17.78 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -3735,7 +3735,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 2.54 -21.59 90)
+				(at 2.54 -20.32 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -3753,7 +3753,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 5.08 19.05 270)
+				(at 5.08 17.78 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -3771,7 +3771,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 5.08 -21.59 90)
+				(at 5.08 -20.32 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -3789,7 +3789,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 21.59 2.54 180)
+				(at 20.32 2.54 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -3807,7 +3807,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 21.59 0 180)
+				(at 20.32 0 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -3825,7 +3825,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 21.59 -2.54 180)
+				(at 20.32 -2.54 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -3843,7 +3843,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 21.59 -5.08 180)
+				(at 20.32 -5.08 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -3863,7 +3863,7 @@
 		)
 		(symbol "_QFN16_1_0"
 			(pin unspecified line
-				(at 16.51 -21.59 90)
+				(at 15.24 -20.32 90)
 				(length 2.54)
 				(name "vss"
 					(effects
@@ -3883,8 +3883,8 @@
 		)
 		(symbol "_QFN16_1_1"
 			(rectangle
-				(start -16.51 16.51)
-				(end 19.05 -19.05)
+				(start -15.24 15.24)
+				(end 17.78 -17.78)
 				(stroke
 					(width 0.254)
 					(type solid)
@@ -4349,7 +4349,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "U"
-			(at 19.05 17.78 0)
+			(at 17.78 16.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4358,7 +4358,7 @@
 			)
 		)
 		(property "Value" "_QFN24"
-			(at 19.05 -20.32 0)
+			(at 17.78 -19.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4376,7 +4376,7 @@
 			)
 		)
 		(property "Datasheet" "DATASHEET"
-			(at 19.05 -25.4 0)
+			(at 17.78 -24.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4396,7 +4396,7 @@
 		)
 		(symbol "_QFN24_0_0"
 			(pin unspecified line
-				(at -19.05 5.08 0)
+				(at -17.78 5.08 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -4414,7 +4414,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -19.05 2.54 0)
+				(at -17.78 2.54 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -4432,7 +4432,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -19.05 0 0)
+				(at -17.78 0 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -4450,7 +4450,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -19.05 -2.54 0)
+				(at -17.78 -2.54 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -4468,7 +4468,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -19.05 -5.08 0)
+				(at -17.78 -5.08 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -4486,7 +4486,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -19.05 -7.62 0)
+				(at -17.78 -7.62 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -4504,7 +4504,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -5.08 -21.59 90)
+				(at -5.08 -20.32 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -4522,7 +4522,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -2.54 19.05 270)
+				(at -2.54 17.78 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -4540,7 +4540,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -2.54 -21.59 90)
+				(at -2.54 -20.32 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -4558,7 +4558,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 0 19.05 270)
+				(at 0 17.78 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -4576,7 +4576,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 0 -21.59 90)
+				(at 0 -20.32 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -4594,7 +4594,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 2.54 19.05 270)
+				(at 2.54 17.78 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -4612,7 +4612,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 2.54 -21.59 90)
+				(at 2.54 -20.32 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -4630,7 +4630,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 5.08 19.05 270)
+				(at 5.08 17.78 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -4648,7 +4648,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 5.08 -21.59 90)
+				(at 5.08 -20.32 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -4666,7 +4666,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 7.62 19.05 270)
+				(at 7.62 17.78 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -4684,7 +4684,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 7.62 -21.59 90)
+				(at 7.62 -20.32 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -4702,7 +4702,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 21.59 5.08 180)
+				(at 20.32 5.08 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -4720,7 +4720,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 21.59 2.54 180)
+				(at 20.32 2.54 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -4738,7 +4738,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 21.59 0 180)
+				(at 20.32 0 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -4756,7 +4756,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 21.59 -2.54 180)
+				(at 20.32 -2.54 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -4774,7 +4774,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 21.59 -5.08 180)
+				(at 20.32 -5.08 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -4792,7 +4792,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 21.59 -7.62 180)
+				(at 20.32 -7.62 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -4812,7 +4812,7 @@
 		)
 		(symbol "_QFN24_1_0"
 			(pin unspecified line
-				(at -5.08 19.05 270)
+				(at -5.08 17.78 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -4830,7 +4830,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 16.51 -21.59 90)
+				(at 15.24 -20.32 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -4850,8 +4850,8 @@
 		)
 		(symbol "_QFN24_1_1"
 			(rectangle
-				(start -16.51 16.51)
-				(end 19.05 -19.05)
+				(start -15.24 15.24)
+				(end 17.78 -17.78)
 				(stroke
 					(width 0.254)
 					(type solid)
@@ -4868,7 +4868,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "U"
-			(at 19.05 17.78 0)
+			(at 17.78 16.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4877,7 +4877,7 @@
 			)
 		)
 		(property "Value" "_QFN32"
-			(at 19.05 -20.32 0)
+			(at 17.78 -19.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4886,7 +4886,7 @@
 			)
 		)
 		(property "Footprint" "Package_DFN_QFN:QFN-32-1EP_4x4mm_P0.4mm_EP2.9x2.9mm"
-			(at 19.05 -22.86 0)
+			(at 17.78 -21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4896,7 +4896,7 @@
 			)
 		)
 		(property "Datasheet" "DATASHEET"
-			(at 19.05 -25.4 0)
+			(at 17.78 -24.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4916,7 +4916,7 @@
 		)
 		(symbol "_QFN32_0_0"
 			(pin unspecified line
-				(at -19.05 7.62 0)
+				(at -17.78 7.62 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -4934,7 +4934,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -19.05 5.08 0)
+				(at -17.78 5.08 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -4952,7 +4952,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -19.05 2.54 0)
+				(at -17.78 2.54 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -4970,7 +4970,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -19.05 0 0)
+				(at -17.78 0 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -4988,7 +4988,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -19.05 -2.54 0)
+				(at -17.78 -2.54 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -5006,7 +5006,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -19.05 -5.08 0)
+				(at -17.78 -5.08 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -5024,7 +5024,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -19.05 -7.62 0)
+				(at -17.78 -7.62 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -5042,7 +5042,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -19.05 -10.16 0)
+				(at -17.78 -10.16 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -5060,7 +5060,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -7.62 19.05 270)
+				(at -7.62 17.78 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -5078,7 +5078,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -7.62 -21.59 90)
+				(at -7.62 -20.32 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -5096,7 +5096,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -5.08 19.05 270)
+				(at -5.08 17.78 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -5114,7 +5114,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -5.08 -21.59 90)
+				(at -5.08 -20.32 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -5132,7 +5132,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -2.54 19.05 270)
+				(at -2.54 17.78 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -5150,7 +5150,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -2.54 -21.59 90)
+				(at -2.54 -20.32 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -5168,7 +5168,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 0 19.05 270)
+				(at 0 17.78 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -5186,7 +5186,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 0 -21.59 90)
+				(at 0 -20.32 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -5204,7 +5204,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 2.54 19.05 270)
+				(at 2.54 17.78 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -5222,7 +5222,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 2.54 -21.59 90)
+				(at 2.54 -20.32 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -5240,7 +5240,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 5.08 19.05 270)
+				(at 5.08 17.78 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -5258,7 +5258,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 5.08 -21.59 90)
+				(at 5.08 -20.32 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -5276,7 +5276,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 7.62 19.05 270)
+				(at 7.62 17.78 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -5294,7 +5294,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 7.62 -21.59 90)
+				(at 7.62 -20.32 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -5312,7 +5312,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 10.16 -21.59 90)
+				(at 10.16 -20.32 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -5330,7 +5330,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 21.59 5.08 180)
+				(at 20.32 5.08 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -5348,7 +5348,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 21.59 2.54 180)
+				(at 20.32 2.54 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -5366,7 +5366,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 21.59 0 180)
+				(at 20.32 0 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -5384,7 +5384,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 21.59 -2.54 180)
+				(at 20.32 -2.54 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -5402,7 +5402,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 21.59 -5.08 180)
+				(at 20.32 -5.08 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -5420,7 +5420,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 21.59 -7.62 180)
+				(at 20.32 -7.62 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -5438,7 +5438,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 21.59 -10.16 180)
+				(at 20.32 -10.16 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -5458,7 +5458,7 @@
 		)
 		(symbol "_QFN32_1_0"
 			(pin unspecified line
-				(at 10.16 19.05 270)
+				(at 10.16 17.78 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -5476,7 +5476,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 16.51 -21.59 90)
+				(at 15.24 -20.32 90)
 				(length 2.54)
 				(name "vss"
 					(effects
@@ -5494,7 +5494,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 21.59 7.62 180)
+				(at 20.32 7.62 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -5514,8 +5514,8 @@
 		)
 		(symbol "_QFN32_1_1"
 			(rectangle
-				(start -16.51 16.51)
-				(end 19.05 -19.05)
+				(start -15.24 15.24)
+				(end 17.78 -17.78)
 				(stroke
 					(width 0.254)
 					(type solid)
@@ -5532,7 +5532,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "U"
-			(at 24.13 22.86 0)
+			(at 22.86 21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5541,7 +5541,7 @@
 			)
 		)
 		(property "Value" "_QFN48"
-			(at 24.13 -25.908 0)
+			(at 22.86 -24.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5550,7 +5550,7 @@
 			)
 		)
 		(property "Footprint" "Package_DFN_QFN:QFN-48-1EP_6x6mm_P0.4mm_EP4.3x4.3mm"
-			(at 24.13 -28.448 0)
+			(at 22.86 -26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5560,7 +5560,7 @@
 			)
 		)
 		(property "Datasheet" "DATASHEET"
-			(at 24.13 -30.988 0)
+			(at 22.86 -29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5580,7 +5580,7 @@
 		)
 		(symbol "_QFN48_0_0"
 			(pin unspecified line
-				(at -24.13 12.7 0)
+				(at -22.86 12.7 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -5598,7 +5598,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -24.13 10.16 0)
+				(at -22.86 10.16 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -5616,7 +5616,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -24.13 7.62 0)
+				(at -22.86 7.62 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -5634,7 +5634,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -24.13 5.08 0)
+				(at -22.86 5.08 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -5652,7 +5652,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -24.13 2.54 0)
+				(at -22.86 2.54 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -5670,7 +5670,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -24.13 0 0)
+				(at -22.86 0 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -5688,7 +5688,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -24.13 -2.54 0)
+				(at -22.86 -2.54 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -5706,7 +5706,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -24.13 -5.08 0)
+				(at -22.86 -5.08 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -5724,7 +5724,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -24.13 -7.62 0)
+				(at -22.86 -7.62 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -5742,7 +5742,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -24.13 -10.16 0)
+				(at -22.86 -10.16 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -5760,7 +5760,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -24.13 -12.7 0)
+				(at -22.86 -12.7 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -5778,7 +5778,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -24.13 -15.24 0)
+				(at -22.86 -15.24 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -5796,7 +5796,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -12.7 24.13 270)
+				(at -12.7 22.86 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -5814,7 +5814,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -12.7 -26.67 90)
+				(at -12.7 -25.4 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -5832,7 +5832,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -10.16 24.13 270)
+				(at -10.16 22.86 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -5850,7 +5850,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -10.16 -26.67 90)
+				(at -10.16 -25.4 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -5868,7 +5868,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -7.62 24.13 270)
+				(at -7.62 22.86 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -5886,7 +5886,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -7.62 -26.67 90)
+				(at -7.62 -25.4 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -5904,7 +5904,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -5.08 24.13 270)
+				(at -5.08 22.86 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -5922,7 +5922,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -5.08 -26.67 90)
+				(at -5.08 -25.4 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -5940,7 +5940,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -2.54 24.13 270)
+				(at -2.54 22.86 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -5958,7 +5958,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -2.54 -26.67 90)
+				(at -2.54 -25.4 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -5976,7 +5976,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 0 24.13 270)
+				(at 0 22.86 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -5994,7 +5994,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 0 -26.67 90)
+				(at 0 -25.4 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -6012,7 +6012,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 2.54 24.13 270)
+				(at 2.54 22.86 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -6030,7 +6030,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 2.54 -26.67 90)
+				(at 2.54 -25.4 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -6048,7 +6048,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 5.08 -26.67 90)
+				(at 5.08 -25.4 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -6066,7 +6066,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 7.62 -26.67 90)
+				(at 7.62 -25.4 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -6084,7 +6084,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 10.16 24.13 270)
+				(at 10.16 22.86 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -6102,7 +6102,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 10.16 -26.67 90)
+				(at 10.16 -25.4 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -6120,7 +6120,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 12.7 24.13 270)
+				(at 12.7 22.86 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -6138,7 +6138,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 12.7 -26.67 90)
+				(at 12.7 -25.4 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -6156,7 +6156,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 15.24 24.13 270)
+				(at 15.24 22.86 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -6174,7 +6174,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 26.67 12.7 180)
+				(at 25.4 12.7 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -6192,7 +6192,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 26.67 10.16 180)
+				(at 25.4 10.16 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -6210,7 +6210,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 26.67 7.62 180)
+				(at 25.4 7.62 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -6228,7 +6228,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 26.67 5.08 180)
+				(at 25.4 5.08 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -6246,7 +6246,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 26.67 2.54 180)
+				(at 25.4 2.54 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -6264,7 +6264,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 26.67 0 180)
+				(at 25.4 0 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -6282,7 +6282,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 26.67 -2.54 180)
+				(at 25.4 -2.54 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -6300,7 +6300,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 26.67 -5.08 180)
+				(at 25.4 -5.08 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -6318,7 +6318,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 26.67 -7.62 180)
+				(at 25.4 -7.62 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -6336,7 +6336,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 26.67 -10.16 180)
+				(at 25.4 -10.16 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -6354,7 +6354,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 26.67 -12.7 180)
+				(at 25.4 -12.7 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -6374,7 +6374,7 @@
 		)
 		(symbol "_QFN48_1_0"
 			(pin unspecified line
-				(at 5.08 24.13 270)
+				(at 5.08 22.86 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -6392,7 +6392,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 7.62 24.13 270)
+				(at 7.62 22.86 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -6410,7 +6410,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 15.24 -26.67 90)
+				(at 15.24 -25.4 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -6428,7 +6428,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 21.59 -26.67 90)
+				(at 20.32 -25.4 90)
 				(length 2.54)
 				(name "vss"
 					(effects
@@ -6446,7 +6446,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 26.67 -15.24 180)
+				(at 25.4 -15.24 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -6466,8 +6466,8 @@
 		)
 		(symbol "_QFN48_1_1"
 			(rectangle
-				(start -21.59 21.59)
-				(end 24.13 -24.13)
+				(start -20.32 20.32)
+				(end 22.86 -22.86)
 				(stroke
 					(width 0.254)
 					(type solid)
@@ -6484,7 +6484,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "U"
-			(at 26.67 25.4 0)
+			(at 25.4 24.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6493,7 +6493,7 @@
 			)
 		)
 		(property "Value" "_QFN56"
-			(at 26.67 -27.94 0)
+			(at 25.4 -26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6512,7 +6512,7 @@
 			)
 		)
 		(property "Datasheet" "DATASHEET"
-			(at 26.67 -33.02 0)
+			(at 25.4 -31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6532,7 +6532,7 @@
 		)
 		(symbol "_QFN56_0_0"
 			(pin unspecified line
-				(at -26.67 15.24 0)
+				(at -25.4 15.24 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -6550,7 +6550,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -26.67 12.7 0)
+				(at -25.4 12.7 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -6568,7 +6568,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -26.67 10.16 0)
+				(at -25.4 10.16 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -6586,7 +6586,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -26.67 7.62 0)
+				(at -25.4 7.62 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -6604,7 +6604,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -26.67 5.08 0)
+				(at -25.4 5.08 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -6622,7 +6622,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -26.67 2.54 0)
+				(at -25.4 2.54 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -6640,7 +6640,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -26.67 0 0)
+				(at -25.4 0 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -6658,7 +6658,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -26.67 -2.54 0)
+				(at -25.4 -2.54 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -6676,7 +6676,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -26.67 -5.08 0)
+				(at -25.4 -5.08 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -6694,7 +6694,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -26.67 -7.62 0)
+				(at -25.4 -7.62 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -6712,7 +6712,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -26.67 -10.16 0)
+				(at -25.4 -10.16 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -6730,7 +6730,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -26.67 -12.7 0)
+				(at -25.4 -12.7 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -6748,7 +6748,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -26.67 -15.24 0)
+				(at -25.4 -15.24 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -6766,7 +6766,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -26.67 -17.78 0)
+				(at -25.4 -17.78 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -6784,7 +6784,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -15.24 -29.21 90)
+				(at -15.24 -27.94 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -6802,7 +6802,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -12.7 26.67 270)
+				(at -12.7 25.4 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -6820,7 +6820,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -12.7 -29.21 90)
+				(at -12.7 -27.94 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -6838,7 +6838,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -10.16 26.67 270)
+				(at -10.16 25.4 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -6856,7 +6856,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -10.16 -29.21 90)
+				(at -10.16 -27.94 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -6874,7 +6874,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -7.62 26.67 270)
+				(at -7.62 25.4 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -6892,7 +6892,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -7.62 -29.21 90)
+				(at -7.62 -27.94 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -6910,7 +6910,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -5.08 26.67 270)
+				(at -5.08 25.4 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -6928,7 +6928,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -5.08 -29.21 90)
+				(at -5.08 -27.94 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -6946,7 +6946,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -2.54 26.67 270)
+				(at -2.54 25.4 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -6964,7 +6964,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -2.54 -29.21 90)
+				(at -2.54 -27.94 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -6982,7 +6982,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 0 26.67 270)
+				(at 0 25.4 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -7000,7 +7000,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 0 -29.21 90)
+				(at 0 -27.94 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -7018,7 +7018,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 2.54 26.67 270)
+				(at 2.54 25.4 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -7036,7 +7036,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 2.54 -29.21 90)
+				(at 2.54 -27.94 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -7054,7 +7054,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 5.08 26.67 270)
+				(at 5.08 25.4 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -7072,7 +7072,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 5.08 -29.21 90)
+				(at 5.08 -27.94 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -7090,7 +7090,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 7.62 26.67 270)
+				(at 7.62 25.4 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -7108,7 +7108,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 10.16 26.67 270)
+				(at 10.16 25.4 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -7126,7 +7126,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 12.7 26.67 270)
+				(at 12.7 25.4 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -7144,7 +7144,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 12.7 -29.21 90)
+				(at 12.7 -27.94 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -7162,7 +7162,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 15.24 26.67 270)
+				(at 15.24 25.4 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -7180,7 +7180,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 15.24 -29.21 90)
+				(at 15.24 -27.94 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -7198,7 +7198,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 17.78 26.67 270)
+				(at 17.78 25.4 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -7216,7 +7216,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 17.78 -29.21 90)
+				(at 17.78 -27.94 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -7234,7 +7234,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 29.21 15.24 180)
+				(at 27.94 15.24 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -7252,7 +7252,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 29.21 7.62 180)
+				(at 27.94 7.62 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -7270,7 +7270,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 29.21 5.08 180)
+				(at 27.94 5.08 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -7288,7 +7288,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 29.21 2.54 180)
+				(at 27.94 2.54 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -7306,7 +7306,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 29.21 0 180)
+				(at 27.94 0 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -7324,7 +7324,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 29.21 -2.54 180)
+				(at 27.94 -2.54 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -7342,7 +7342,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 29.21 -5.08 180)
+				(at 27.94 -5.08 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -7360,7 +7360,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 29.21 -7.62 180)
+				(at 27.94 -7.62 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -7378,7 +7378,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 29.21 -10.16 180)
+				(at 27.94 -10.16 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -7396,7 +7396,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 29.21 -12.7 180)
+				(at 27.94 -12.7 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -7414,7 +7414,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 29.21 -15.24 180)
+				(at 27.94 -15.24 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -7432,7 +7432,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 29.21 -17.78 180)
+				(at 27.94 -17.78 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -7452,7 +7452,7 @@
 		)
 		(symbol "_QFN56_1_0"
 			(pin unspecified line
-				(at -15.24 26.67 270)
+				(at -15.24 25.4 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -7470,7 +7470,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 7.62 -29.21 90)
+				(at 7.62 -27.94 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -7488,7 +7488,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 10.16 -29.21 90)
+				(at 10.16 -27.94 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -7506,7 +7506,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 24.13 -29.21 90)
+				(at 22.86 -27.94 90)
 				(length 2.54)
 				(name "vss"
 					(effects
@@ -7524,7 +7524,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 29.21 12.7 180)
+				(at 27.94 12.7 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -7542,7 +7542,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 29.21 10.16 180)
+				(at 27.94 10.16 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -7562,8 +7562,8 @@
 		)
 		(symbol "_QFN56_1_1"
 			(rectangle
-				(start -24.13 24.13)
-				(end 26.67 -26.67)
+				(start -22.86 22.86)
+				(end 25.4 -25.4)
 				(stroke
 					(width 0.254)
 					(type solid)
@@ -7580,7 +7580,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "U"
-			(at 29.21 27.94 0)
+			(at 27.94 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7589,7 +7589,7 @@
 			)
 		)
 		(property "Value" "_QFN64"
-			(at 29.21 -30.48 0)
+			(at 27.94 -29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7598,7 +7598,7 @@
 			)
 		)
 		(property "Footprint" "Package_DFN_QFN:QFN-64-1EP_8x8mm_P0.4mm_EP6.5x6.5mm"
-			(at 29.21 -33.02 0)
+			(at 27.94 -31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7608,7 +7608,7 @@
 			)
 		)
 		(property "Datasheet" "DATASHEET"
-			(at 29.21 -35.56 0)
+			(at 27.94 -34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7628,7 +7628,7 @@
 		)
 		(symbol "_QFN64_0_0"
 			(pin unspecified line
-				(at -29.21 17.78 0)
+				(at -27.94 17.78 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -7646,7 +7646,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -29.21 15.24 0)
+				(at -27.94 15.24 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -7664,7 +7664,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -29.21 12.7 0)
+				(at -27.94 12.7 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -7682,7 +7682,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -29.21 10.16 0)
+				(at -27.94 10.16 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -7700,7 +7700,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -29.21 7.62 0)
+				(at -27.94 7.62 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -7718,7 +7718,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -29.21 5.08 0)
+				(at -27.94 5.08 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -7736,7 +7736,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -29.21 2.54 0)
+				(at -27.94 2.54 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -7754,7 +7754,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -29.21 0 0)
+				(at -27.94 0 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -7772,7 +7772,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -29.21 -2.54 0)
+				(at -27.94 -2.54 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -7790,7 +7790,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -29.21 -5.08 0)
+				(at -27.94 -5.08 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -7808,7 +7808,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -29.21 -7.62 0)
+				(at -27.94 -7.62 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -7826,7 +7826,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -29.21 -10.16 0)
+				(at -27.94 -10.16 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -7844,7 +7844,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -29.21 -12.7 0)
+				(at -27.94 -12.7 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -7862,7 +7862,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -29.21 -15.24 0)
+				(at -27.94 -15.24 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -7880,7 +7880,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -29.21 -17.78 0)
+				(at -27.94 -17.78 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -7898,7 +7898,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -29.21 -20.32 0)
+				(at -27.94 -20.32 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -7916,7 +7916,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -17.78 29.21 270)
+				(at -17.78 27.94 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -7934,7 +7934,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -17.78 -31.75 90)
+				(at -17.78 -30.48 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -7952,7 +7952,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -15.24 29.21 270)
+				(at -15.24 27.94 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -7970,7 +7970,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -15.24 -31.75 90)
+				(at -15.24 -30.48 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -7988,7 +7988,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -12.7 29.21 270)
+				(at -12.7 27.94 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -8006,7 +8006,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -12.7 -31.75 90)
+				(at -12.7 -30.48 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -8024,7 +8024,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -10.16 29.21 270)
+				(at -10.16 27.94 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -8042,7 +8042,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -10.16 -31.75 90)
+				(at -10.16 -30.48 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -8060,7 +8060,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -7.62 29.21 270)
+				(at -7.62 27.94 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -8078,7 +8078,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -7.62 -31.75 90)
+				(at -7.62 -30.48 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -8096,7 +8096,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -5.08 29.21 270)
+				(at -5.08 27.94 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -8114,7 +8114,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -5.08 -31.75 90)
+				(at -5.08 -30.48 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -8132,7 +8132,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -2.54 29.21 270)
+				(at -2.54 27.94 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -8150,7 +8150,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -2.54 -31.75 90)
+				(at -2.54 -30.48 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -8168,7 +8168,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 5.08 29.21 270)
+				(at 5.08 27.94 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -8186,7 +8186,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 5.08 -31.75 90)
+				(at 5.08 -30.48 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -8204,7 +8204,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 7.62 29.21 270)
+				(at 7.62 27.94 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -8222,7 +8222,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 7.62 -31.75 90)
+				(at 7.62 -30.48 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -8240,7 +8240,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 10.16 29.21 270)
+				(at 10.16 27.94 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -8258,7 +8258,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 10.16 -31.75 90)
+				(at 10.16 -30.48 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -8276,7 +8276,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 12.7 29.21 270)
+				(at 12.7 27.94 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -8294,7 +8294,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 12.7 -31.75 90)
+				(at 12.7 -30.48 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -8312,7 +8312,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 15.24 29.21 270)
+				(at 15.24 27.94 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -8330,7 +8330,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 15.24 -31.75 90)
+				(at 15.24 -30.48 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -8348,7 +8348,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 17.78 29.21 270)
+				(at 17.78 27.94 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -8366,7 +8366,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 17.78 -31.75 90)
+				(at 17.78 -30.48 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -8384,7 +8384,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 20.32 29.21 270)
+				(at 20.32 27.94 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -8402,7 +8402,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 20.32 -31.75 90)
+				(at 20.32 -30.48 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -8420,7 +8420,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 31.75 17.78 180)
+				(at 30.48 17.78 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -8438,7 +8438,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 31.75 15.24 180)
+				(at 30.48 15.24 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -8456,7 +8456,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 31.75 12.7 180)
+				(at 30.48 12.7 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -8474,7 +8474,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 31.75 10.16 180)
+				(at 30.48 10.16 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -8492,7 +8492,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 31.75 7.62 180)
+				(at 30.48 7.62 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -8510,7 +8510,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 31.75 5.08 180)
+				(at 30.48 5.08 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -8528,7 +8528,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 31.75 2.54 180)
+				(at 30.48 2.54 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -8546,7 +8546,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 31.75 -5.08 180)
+				(at 30.48 -5.08 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -8564,7 +8564,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 31.75 -7.62 180)
+				(at 30.48 -7.62 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -8582,7 +8582,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 31.75 -10.16 180)
+				(at 30.48 -10.16 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -8600,7 +8600,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 31.75 -12.7 180)
+				(at 30.48 -12.7 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -8618,7 +8618,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 31.75 -15.24 180)
+				(at 30.48 -15.24 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -8636,7 +8636,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 31.75 -17.78 180)
+				(at 30.48 -17.78 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -8654,7 +8654,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 31.75 -20.32 180)
+				(at 30.48 -20.32 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -8674,7 +8674,7 @@
 		)
 		(symbol "_QFN64_1_0"
 			(pin unspecified line
-				(at 0 29.21 270)
+				(at 0 27.94 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -8692,7 +8692,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 0 -31.75 90)
+				(at 0 -30.48 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -8710,7 +8710,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 2.54 29.21 270)
+				(at 2.54 27.94 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -8728,7 +8728,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 2.54 -31.75 90)
+				(at 2.54 -30.48 90)
 				(length 2.54)
 				(name ""
 					(effects
@@ -8746,7 +8746,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 26.67 -31.75 90)
+				(at 25.4 -30.48 90)
 				(length 2.54)
 				(name "vss"
 					(effects
@@ -8764,7 +8764,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 31.75 0 180)
+				(at 30.48 0 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -8782,7 +8782,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 31.75 -2.54 180)
+				(at 30.48 -2.54 180)
 				(length 2.54)
 				(name ""
 					(effects
@@ -8802,8 +8802,8 @@
 		)
 		(symbol "_QFN64_1_1"
 			(rectangle
-				(start -26.67 26.67)
-				(end 29.21 -29.21)
+				(start -25.4 25.4)
+				(end 27.94 -27.94)
 				(stroke
 					(width 0.254)
 					(type solid)
