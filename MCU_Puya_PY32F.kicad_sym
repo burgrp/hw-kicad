@@ -238,7 +238,7 @@
 				(start -17.78 7.62)
 				(end 17.78 -7.62)
 				(stroke
-					(width 0)
+					(width 0.254)
 					(type solid)
 				)
 				(fill
@@ -482,7 +482,7 @@
 				(start -17.78 7.62)
 				(end 17.78 -7.62)
 				(stroke
-					(width 0)
+					(width 0.254)
 					(type solid)
 				)
 				(fill
@@ -906,7 +906,7 @@
 				(start -17.78 12.7)
 				(end 17.78 -15.24)
 				(stroke
-					(width 0)
+					(width 0.254)
 					(type solid)
 				)
 				(fill
@@ -1354,7 +1354,7 @@
 				(start -17.78 17.78)
 				(end 17.78 -17.78)
 				(stroke
-					(width 0)
+					(width 0.254)
 					(type solid)
 				)
 				(fill
@@ -1564,7 +1564,7 @@
 				(start -17.78 5.08)
 				(end 17.78 -7.62)
 				(stroke
-					(width 0)
+					(width 0.254)
 					(type solid)
 				)
 				(fill
@@ -1916,7 +1916,7 @@
 				(start -17.78 10.16)
 				(end 17.78 -12.7)
 				(stroke
-					(width 0)
+					(width 0.254)
 					(type solid)
 				)
 				(fill
@@ -2292,7 +2292,7 @@
 				(start -16.51 16.51)
 				(end 19.05 -19.05)
 				(stroke
-					(width 0)
+					(width 0.254)
 					(type solid)
 				)
 				(fill
@@ -2608,7 +2608,7 @@
 				(start -17.78 10.16)
 				(end 17.78 -10.16)
 				(stroke
-					(width 0)
+					(width 0.254)
 					(type solid)
 				)
 				(fill
@@ -3032,7 +3032,7 @@
 				(start -17.78 12.7)
 				(end 17.78 -15.24)
 				(stroke
-					(width 0)
+					(width 0.254)
 					(type solid)
 				)
 				(fill
@@ -3456,7 +3456,7 @@
 				(start -17.78 12.7)
 				(end 17.78 -15.24)
 				(stroke
-					(width 0)
+					(width 0.254)
 					(type solid)
 				)
 				(fill
@@ -3904,7 +3904,7 @@
 				(start -17.78 17.78)
 				(end 17.78 -17.78)
 				(stroke
-					(width 0)
+					(width 0.254)
 					(type solid)
 				)
 				(fill
@@ -4114,7 +4114,7 @@
 				(start -17.78 5.08)
 				(end 17.78 -7.62)
 				(stroke
-					(width 0)
+					(width 0.254)
 					(type solid)
 				)
 				(fill
@@ -4466,7 +4466,7 @@
 				(start -17.78 10.16)
 				(end 17.78 -12.7)
 				(stroke
-					(width 0)
+					(width 0.254)
 					(type solid)
 				)
 				(fill
@@ -4842,7 +4842,7 @@
 				(start -16.51 16.51)
 				(end 19.05 -19.05)
 				(stroke
-					(width 0)
+					(width 0.254)
 					(type solid)
 				)
 				(fill
@@ -5086,7 +5086,7 @@
 				(start -17.78 7.62)
 				(end 17.78 -7.62)
 				(stroke
-					(width 0)
+					(width 0.254)
 					(type solid)
 				)
 				(fill
@@ -5510,7 +5510,7 @@
 				(start -17.78 12.7)
 				(end 17.78 -15.24)
 				(stroke
-					(width 0)
+					(width 0.254)
 					(type solid)
 				)
 				(fill
@@ -5934,7 +5934,7 @@
 				(start -17.78 12.7)
 				(end 17.78 -15.24)
 				(stroke
-					(width 0)
+					(width 0.254)
 					(type solid)
 				)
 				(fill
@@ -6382,7 +6382,7 @@
 				(start -17.78 17.78)
 				(end 17.78 -17.78)
 				(stroke
-					(width 0)
+					(width 0.254)
 					(type solid)
 				)
 				(fill
@@ -6806,7 +6806,7 @@
 				(start -17.78 12.7)
 				(end 17.78 -15.24)
 				(stroke
-					(width 0)
+					(width 0.254)
 					(type solid)
 				)
 				(fill
@@ -7254,7 +7254,7 @@
 				(start -17.78 17.78)
 				(end 17.78 -17.78)
 				(stroke
-					(width 0)
+					(width 0.254)
 					(type solid)
 				)
 				(fill
@@ -7678,7 +7678,7 @@
 				(start -17.78 12.7)
 				(end 17.78 -15.24)
 				(stroke
-					(width 0)
+					(width 0.254)
 					(type solid)
 				)
 				(fill
@@ -8102,7 +8102,7 @@
 				(start -17.78 12.7)
 				(end 17.78 -15.24)
 				(stroke
-					(width 0)
+					(width 0.254)
 					(type solid)
 				)
 				(fill
@@ -8526,7 +8526,7 @@
 				(start -17.78 12.7)
 				(end 17.78 -15.24)
 				(stroke
-					(width 0)
+					(width 0.254)
 					(type solid)
 				)
 				(fill
@@ -8950,7 +8950,7 @@
 				(start -17.78 12.7)
 				(end 17.78 -15.24)
 				(stroke
-					(width 0)
+					(width 0.254)
 					(type solid)
 				)
 				(fill
@@ -9160,7 +9160,7 @@
 				(start -17.78 5.08)
 				(end 17.78 -7.62)
 				(stroke
-					(width 0)
+					(width 0.254)
 					(type solid)
 				)
 				(fill
@@ -9388,7 +9388,7 @@
 				(start -17.78 5.08)
 				(end 17.78 -7.62)
 				(stroke
-					(width 0)
+					(width 0.254)
 					(type solid)
 				)
 				(fill
@@ -9598,7 +9598,7 @@
 				(start -17.78 5.08)
 				(end 17.78 -7.62)
 				(stroke
-					(width 0)
+					(width 0.254)
 					(type solid)
 				)
 				(fill
@@ -9950,7 +9950,7 @@
 				(start -17.78 10.16)
 				(end 17.78 -12.7)
 				(stroke
-					(width 0)
+					(width 0.254)
 					(type solid)
 				)
 				(fill
@@ -10446,7 +10446,7 @@
 				(start -17.78 15.24)
 				(end 17.78 -17.78)
 				(stroke
-					(width 0)
+					(width 0.254)
 					(type solid)
 				)
 				(fill
@@ -10965,7 +10965,7 @@
 				(start -16.51 16.51)
 				(end 19.05 -19.05)
 				(stroke
-					(width 0)
+					(width 0.254)
 					(type solid)
 				)
 				(fill
@@ -11463,7 +11463,7 @@
 				(start -17.78 15.24)
 				(end 17.78 -17.78)
 				(stroke
-					(width 0)
+					(width 0.254)
 					(type solid)
 				)
 				(fill
@@ -11887,7 +11887,7 @@
 				(start -17.78 12.7)
 				(end 17.78 -15.24)
 				(stroke
-					(width 0)
+					(width 0.254)
 					(type solid)
 				)
 				(fill
@@ -12335,7 +12335,7 @@
 				(start -17.78 17.78)
 				(end 17.78 -17.78)
 				(stroke
-					(width 0)
+					(width 0.254)
 					(type solid)
 				)
 				(fill
@@ -12759,7 +12759,7 @@
 				(start -17.78 12.7)
 				(end 17.78 -15.24)
 				(stroke
-					(width 0)
+					(width 0.254)
 					(type solid)
 				)
 				(fill
@@ -13207,7 +13207,7 @@
 				(start -17.78 17.78)
 				(end 17.78 -17.78)
 				(stroke
-					(width 0)
+					(width 0.254)
 					(type solid)
 				)
 				(fill
@@ -13631,7 +13631,7 @@
 				(start -17.78 12.7)
 				(end 17.78 -15.24)
 				(stroke
-					(width 0)
+					(width 0.254)
 					(type solid)
 				)
 				(fill
@@ -14079,7 +14079,7 @@
 				(start -17.78 17.78)
 				(end 17.78 -17.78)
 				(stroke
-					(width 0)
+					(width 0.254)
 					(type solid)
 				)
 				(fill
@@ -14503,7 +14503,7 @@
 				(start -17.78 12.7)
 				(end 17.78 -15.24)
 				(stroke
-					(width 0)
+					(width 0.254)
 					(type solid)
 				)
 				(fill
@@ -15149,7 +15149,7 @@
 				(start -16.51 16.51)
 				(end 19.05 -19.05)
 				(stroke
-					(width 0)
+					(width 0.254)
 					(type solid)
 				)
 				(fill
@@ -15795,7 +15795,7 @@
 				(start -16.51 16.51)
 				(end 19.05 -19.05)
 				(stroke
-					(width 0)
+					(width 0.254)
 					(type solid)
 				)
 				(fill
@@ -16459,7 +16459,7 @@
 				(start -16.51 16.51)
 				(end 19.05 -19.05)
 				(stroke
-					(width 0)
+					(width 0.254)
 					(type solid)
 				)
 				(fill
@@ -17123,7 +17123,7 @@
 				(start -16.51 16.51)
 				(end 19.05 -19.05)
 				(stroke
-					(width 0)
+					(width 0.254)
 					(type solid)
 				)
 				(fill
@@ -17787,7 +17787,7 @@
 				(start -16.51 16.51)
 				(end 19.05 -19.05)
 				(stroke
-					(width 0)
+					(width 0.254)
 					(type solid)
 				)
 				(fill
@@ -18015,7 +18015,7 @@
 				(start -17.78 5.08)
 				(end 17.78 -7.62)
 				(stroke
-					(width 0)
+					(width 0.254)
 					(type solid)
 				)
 				(fill
@@ -18949,7 +18949,7 @@
 				(start -21.59 21.59)
 				(end 24.13 -24.13)
 				(stroke
-					(width 0)
+					(width 0.254)
 					(type solid)
 				)
 				(fill
@@ -19883,7 +19883,7 @@
 				(start -21.59 21.59)
 				(end 24.13 -24.13)
 				(stroke
-					(width 0)
+					(width 0.254)
 					(type solid)
 				)
 				(fill
@@ -20547,7 +20547,7 @@
 				(start -16.51 16.51)
 				(end 19.05 -19.05)
 				(stroke
-					(width 0)
+					(width 0.254)
 					(type solid)
 				)
 				(fill
@@ -21643,7 +21643,7 @@
 				(start -24.13 24.13)
 				(end 26.67 -26.67)
 				(stroke
-					(width 0)
+					(width 0.254)
 					(type solid)
 				)
 				(fill
@@ -22865,7 +22865,7 @@
 				(start -26.67 26.67)
 				(end 29.21 -29.21)
 				(stroke
-					(width 0)
+					(width 0.254)
 					(type solid)
 				)
 				(fill
@@ -24087,7 +24087,7 @@
 				(start -26.67 26.67)
 				(end 29.21 -29.21)
 				(stroke
-					(width 0)
+					(width 0.254)
 					(type solid)
 				)
 				(fill
