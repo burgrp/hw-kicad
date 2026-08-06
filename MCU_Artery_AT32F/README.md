@@ -117,7 +117,7 @@ package pins.
 Run from the repository root:
 
 ```sh
-node MCU_Artrery_AT32F/generate_kicad_symbols.js
+node MCU_Artery_AT32F/generate_kicad_symbols.js
 ```
 
 The command downloads all configured component releases and replaces
