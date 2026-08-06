@@ -1,9 +1,9 @@
-# Artery AT32F KiCad symbol generator
+# Artery AT32 KiCad symbol generator
 
 This directory contains the source configuration and generator for the
 `Artery_MCU.kicad_sym` library in the repository root. The generated library
-targets KiCad 10 and currently covers the AT32F455, AT32F456, and AT32F457
-families.
+targets KiCad 10 and covers all 26 MCU families listed on Artery's English
+product index as of August 2026.
 
 ## Directory contents
 
@@ -23,34 +23,41 @@ removed automatically.
 Each package variant produces two symbols:
 
 - `<device>` is a complete single-unit symbol.
-- `<device>_MultiUnit` separates supply and support pins into a
+- `<device> MultiUnit` separates supply and support pins into a
   **Power / Control** unit and creates one additional unit per GPIO port.
 
-For example, `AT32F455ZxT7_MultiUnit` contains a Power / Control unit followed
+For example, `AT32F455ZxT7 MultiUnit` contains a Power / Control unit followed
 by Port A, Port B, and the other available GPIO ports. Every physical pin
 appears exactly once across the multi-unit symbol.
+
+`MultiUnit` is part of the library symbol name only. Both forms use the bare
+device part number, such as `AT32F455ZxT7`, for their visible `Value` property.
 
 The complete symbols place positive supply pins at the top, ground pins at the
 bottom, and functional pins on the sides. Their dimensions reserve clearance
 at all corners to prevent power-pin labels from overlapping side-pin labels.
 
-## Supported variants and footprints
+## Supported families and footprints
 
-| Device | Standard KiCad footprint |
+The current source map contains:
+
+| Product line | Families |
 | --- | --- |
-| AT32F455CxT7 | `Package_QFP:LQFP-48_7x7mm_P0.5mm` |
-| AT32F455CxU7 | `Package_DFN_QFN:QFN-48-1EP_6x6mm_P0.4mm_EP4.4x4.4mm` |
-| AT32F455RxT7 | `Package_QFP:LQFP-64_10x10mm_P0.5mm` |
-| AT32F455VxT7 | `Package_QFP:LQFP-100_14x14mm_P0.5mm` |
-| AT32F455ZxT7 | `Package_QFP:LQFP-144_20x20mm_P0.5mm` |
-| AT32F456CxT7 | `Package_QFP:LQFP-48_7x7mm_P0.5mm` |
-| AT32F456CxU7 | `Package_DFN_QFN:QFN-48-1EP_6x6mm_P0.4mm_EP4.4x4.4mm` |
-| AT32F456RxT7 | `Package_QFP:LQFP-64_10x10mm_P0.5mm` |
-| AT32F456VxT7 | `Package_QFP:LQFP-100_14x14mm_P0.5mm` |
-| AT32F456ZxT7 | `Package_QFP:LQFP-144_20x20mm_P0.5mm` |
-| AT32F457RxT7 | `Package_QFP:LQFP-64_10x10mm_P0.5mm` |
-| AT32F457VxT7 | `Package_QFP:LQFP-100_14x14mm_P0.5mm` |
-| AT32F457ZxT7 | `Package_QFP:LQFP-144_20x20mm_P0.5mm` |
+| General-purpose and high-performance | AT32F011, AT32F402, AT32F403, AT32F403A, AT32F405, AT32F407, AT32F413, AT32F415, AT32F421, AT32F4212, AT32F422, AT32F423, AT32F425, AT32F426, AT32F435, AT32F437, AT32F455, AT32F456, AT32F457, AT32F490 |
+| Low-power | AT32L021 |
+| Automotive | AT32A403A, AT32A423 |
+| Motor control | AT32M412, AT32M416 |
+| Wireless | AT32WB415 |
+
+These releases currently provide 112 package variants. The generator creates
+both complete and multi-unit forms, producing 224 top-level symbols.
+
+All variants resolve to 18 standard KiCad footprints across these package
+classes:
+
+- LQFP-32, LQFP-48, LQFP-64, LQFP-100, and LQFP-144
+- QFN-20, QFN-28, QFN-32, QFN-36, and QFN-48 with exposed pads
+- TSSOP-20 and TSSOP-24
 
 The QFN vendor package specifies a 4.5 mm exposed pad. The assigned standard
 KiCad footprint has the nearest exposed-pad size, 4.4 x 4.4 mm. Its exposed
@@ -62,7 +69,7 @@ pad is pad 49 and maps to `VSS`.
 
 ```json
 "AT32F455": {
-  "componentLibraryUrl": "https://www.arterychip.com/file/download/2582",
+  "componentLibraryUrl": "https://www.arterychip.com/download/JLCEDA/AT32F455_SCH_PCB_Lib_V1.2.zip",
   "datasheetUrl": "https://www.arterychip.com/download/DS/DS_AT32F455_456_457_V2.01_EN.pdf"
 }
 ```
@@ -70,6 +77,9 @@ pad is pad 49 and maps to `VSS`.
 The generator downloads `componentLibraryUrl`, extracts all JLCEDA `.elibz`
 devices from the release, and writes `datasheetUrl` into each related KiCad
 symbol's `Datasheet` property. It does not download the datasheet PDF.
+
+AT32F403 is the sole configured family without an official English datasheet.
+Its symbol fields therefore reference the official Chinese V2.00 datasheet.
 
 Add future families to the `families` map. A downloaded device name must begin
 with its configured family key; generation fails if a release contains a
@@ -83,6 +93,7 @@ standard KiCad libraries:
 - LQFP packages are matched by lead count, body dimensions, and pitch.
 - QFN packages are matched by lead count, body dimensions, pitch, and nearest
   exposed-pad dimensions.
+- TSSOP packages are matched by lead count, body dimensions, and pitch.
 
 If automatic matching is impossible or a reviewed alternative is preferred,
 add an exact symbol-to-footprint mapping under `footprintOverrides`.

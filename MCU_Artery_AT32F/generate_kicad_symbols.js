@@ -47,7 +47,7 @@ function normalizeDimension(value) {
 
 function parsePackageTitle(title) {
   const match = title.match(
-    /^(LQFP|QFN)-(\d+)_L([\d.]+)-W([\d.]+)-P([\d.]+)/i,
+    /^(LQFP|QFN|TSSOP)-(\d+)_L([\d.]+)-W([\d.]+)-P([\d.]+)/i,
   );
   if (!match) return null;
   const ep = title.match(/-EP([\d.]+)/i);
@@ -78,7 +78,7 @@ function isNoConnect(pin) {
 }
 
 function portInfo(pin) {
-  const match = pin.name.match(/^P([A-Z])(\d+)$/);
+  const match = pin.name.match(/^P([A-Z])(\d+)(?:$|\()/);
   return match ? { bank: match[1], index: Number(match[2]) } : null;
 }
 
@@ -312,6 +312,20 @@ function resolveFootprint(device) {
     if (footprint) return footprint;
   }
 
+  if (packageInfo.type === "TSSOP") {
+    const footprint =
+      `TSSOP-${packageInfo.leads}_` +
+      `${normalizeDimension(packageInfo.width)}x${normalizeDimension(packageInfo.length)}mm_` +
+      `P${normalizeDimension(packageInfo.pitch)}mm`;
+    const file = path.join(
+      kicadDataDir,
+      "footprints",
+      "Package_SO.pretty",
+      `${footprint}.kicad_mod`,
+    );
+    if (fs.existsSync(file)) return `Package_SO:${footprint}`;
+  }
+
   throw new Error(
     `${device.name}: no standard KiCad footprint found for ${device.packageTitle}; ` +
       "add footprintOverrides entry to kicad_generator_config.json",
@@ -388,6 +402,7 @@ ${indent})`;
 function symbolProperties(
   device,
   symbolName,
+  propertyValue,
   footprint,
   fieldY,
   halfWidth,
@@ -404,14 +419,14 @@ function symbolProperties(
   const reference = property("Reference", "U", -halfWidth, fieldY, {
     justify: "left",
   });
-  const value = stackFields
-    ? property("Value", symbolName, -halfWidth, fieldY - GRID, {
+  const valueProperty = stackFields
+    ? property("Value", propertyValue, -halfWidth, fieldY - GRID, {
         justify: "left",
       })
-    : property("Value", symbolName, halfWidth, fieldY, { justify: "right" });
+    : property("Value", propertyValue, halfWidth, fieldY, { justify: "right" });
 
   return `${reference}
-${value}
+${valueProperty}
 ${property("Footprint", footprint, 0, 0, { hidden: true })}
 ${property("Datasheet", device.datasheetUrl, 0, 0, { hidden: true })}
 ${property("Description", description, 0, 0, { hidden: true })}
@@ -515,7 +530,7 @@ function renderCompleteSymbol(device, footprint) {
 \t\t(on_board yes)
 \t\t(in_pos_files yes)
 \t\t(duplicate_pin_numbers_are_jumpers no)
-${symbolProperties(device, symbolName, footprint, top + FIELD_CLEARANCE, halfWidth)}
+${symbolProperties(device, symbolName, device.name, footprint, top + FIELD_CLEARANCE, halfWidth)}
 \t\t(embedded_fonts no)
 \t\t(symbol ${quote(`${symbolName}_0_1`)}
 ${rectangle(halfWidth, top, bottom)}
@@ -596,7 +611,7 @@ ${renderedPins.join("\n")}
 }
 
 function renderMultiUnitSymbol(device, footprint) {
-  const symbolName = `${device.name}_MultiUnit`;
+  const symbolName = `${device.name} MultiUnit`;
   const ports = new Map();
   const supportPins = [];
 
@@ -624,16 +639,24 @@ function renderMultiUnitSymbol(device, footprint) {
 \t\t(on_board yes)
 \t\t(in_pos_files yes)
 \t\t(duplicate_pin_numbers_are_jumpers no)
-${symbolProperties(device, symbolName, footprint, 22.86, fieldHalfWidth, true)}
+${symbolProperties(device, symbolName, device.name, footprint, 22.86, fieldHalfWidth, true)}
 \t\t(embedded_fonts no)
 ${units.join("\n")}
 \t)`;
 }
 
 const devices = extractSources();
+const footprintErrors = [];
 for (const device of devices) {
   validateDevice(device);
-  device.footprint = resolveFootprint(device);
+  try {
+    device.footprint = resolveFootprint(device);
+  } catch (error) {
+    footprintErrors.push(error.message);
+  }
+}
+if (footprintErrors.length) {
+  throw new Error(`Footprint resolution failed:\n${footprintErrors.join("\n")}`);
 }
 
 const renderedSymbols = devices.flatMap((device) => [

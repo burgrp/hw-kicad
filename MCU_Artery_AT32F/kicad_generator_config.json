@@ -1,16 +1,108 @@
 {
   "families": {
+    "AT32A403A": {
+      "componentLibraryUrl": "https://www.arterychip.com/download/JLCEDA/AT32A403A_SCH_PCB_Lib_V1.1.zip",
+      "datasheetUrl": "https://www.arterychip.com/download/DS/DS_AT32A403A_V2.02_EN.pdf"
+    },
+    "AT32A423": {
+      "componentLibraryUrl": "https://www.arterychip.com/download/JLCEDA/AT32A423_SCH_PCB_Lib_V1.1.zip",
+      "datasheetUrl": "https://www.arterychip.com/download/DS/DS_AT32A423_V2.01_EN.pdf"
+    },
+    "AT32F011": {
+      "componentLibraryUrl": "https://www.arterychip.com/download/JLCEDA/AT32F011_SCH_PCB_Lib_V1.1.zip",
+      "datasheetUrl": "https://www.arterychip.com/download/DS/DS_AT32F011_V2.00_EN.pdf"
+    },
+    "AT32F402": {
+      "componentLibraryUrl": "https://www.arterychip.com/download/JLCEDA/AT32F402_SCH_PCB_Lib_V1.1.zip",
+      "datasheetUrl": "https://www.arterychip.com/download/DS/DS_AT32F405_402_V2.02_EN.pdf"
+    },
+    "AT32F403": {
+      "componentLibraryUrl": "https://www.arterychip.com/download/JLCEDA/AT32F403_SCH_PCB_Lib_V1.1.zip",
+      "datasheetUrl": "https://www.arterychip.com/download/DS/DS_AT32F403_V2.00_CH.pdf"
+    },
+    "AT32F403A": {
+      "componentLibraryUrl": "https://www.arterychip.com/download/JLCEDA/AT32F403A_SCH_PCB_Lib_V1.1.zip",
+      "datasheetUrl": "https://www.arterychip.com/download/DS/DS_AT32F403A_V2.04_EN.pdf"
+    },
+    "AT32F405": {
+      "componentLibraryUrl": "https://www.arterychip.com/download/JLCEDA/AT32F405_SCH_PCB_Lib_V1.1.zip",
+      "datasheetUrl": "https://www.arterychip.com/download/DS/DS_AT32F405_402_V2.02_EN.pdf"
+    },
+    "AT32F407": {
+      "componentLibraryUrl": "https://www.arterychip.com/download/JLCEDA/AT32F407_SCH_PCB_Lib_V1.1.zip",
+      "datasheetUrl": "https://www.arterychip.com/download/DS/DS_AT32F407_V2.04_EN.pdf"
+    },
+    "AT32F413": {
+      "componentLibraryUrl": "https://www.arterychip.com/download/JLCEDA/AT32F413_SCH_PCB_Lib_V1.1.zip",
+      "datasheetUrl": "https://www.arterychip.com/download/DS/DS_AT32F413_V2.02_EN.pdf"
+    },
+    "AT32F415": {
+      "componentLibraryUrl": "https://www.arterychip.com/download/JLCEDA/AT32F415_SCH_PCB_Lib_V1.1.zip",
+      "datasheetUrl": "https://www.arterychip.com/download/DS/DS_AT32F415_V2.02_EN.pdf"
+    },
+    "AT32F421": {
+      "componentLibraryUrl": "https://www.arterychip.com/download/JLCEDA/AT32F421_SCH_PCB_Lib_V1.1.zip",
+      "datasheetUrl": "https://www.arterychip.com/download/DS/DS_AT32F421_V2.02_EN.pdf"
+    },
+    "AT32F4212": {
+      "componentLibraryUrl": "https://www.arterychip.com/download/JLCEDA/AT32F4212_SCH_PCB_Lib_V1.1.zip",
+      "datasheetUrl": "https://www.arterychip.com/download/DS/DS_AT32F4212_V2.01_EN.pdf"
+    },
+    "AT32F422": {
+      "componentLibraryUrl": "https://www.arterychip.com/download/JLCEDA/AT32F422_SCH_PCB_Lib_V1.1.zip",
+      "datasheetUrl": "https://www.arterychip.com/download/DS/DS_AT32F422_426_V2.02_EN.pdf"
+    },
+    "AT32F423": {
+      "componentLibraryUrl": "https://www.arterychip.com/download/JLCEDA/AT32F423_SCH_PCB_Lib_V1.1.zip",
+      "datasheetUrl": "https://www.arterychip.com/download/DS/DS_AT32F423_V2.03_EN.pdf"
+    },
+    "AT32F425": {
+      "componentLibraryUrl": "https://www.arterychip.com/download/JLCEDA/AT32F425_SCH_PCB_Lib_V1.1.zip",
+      "datasheetUrl": "https://www.arterychip.com/download/DS/DS_AT32F425_V2.03_EN.pdf"
+    },
+    "AT32F426": {
+      "componentLibraryUrl": "https://www.arterychip.com/download/JLCEDA/AT32F426_SCH_PCB_Lib_V1.1.zip",
+      "datasheetUrl": "https://www.arterychip.com/download/DS/DS_AT32F422_426_V2.02_EN.pdf"
+    },
+    "AT32F435": {
+      "componentLibraryUrl": "https://www.arterychip.com/download/JLCEDA/AT32F435_SCH_PCB_Lib_V1.1.zip",
+      "datasheetUrl": "https://www.arterychip.com/download/DS/DS_AT32F435_437_V2.12_EN.pdf"
+    },
+    "AT32F437": {
+      "componentLibraryUrl": "https://www.arterychip.com/download/JLCEDA/AT32F437_SCH_PCB_Lib_V1.1.zip",
+      "datasheetUrl": "https://www.arterychip.com/download/DS/DS_AT32F435_437_V2.12_EN.pdf"
+    },
     "AT32F455": {
-      "componentLibraryUrl": "https://www.arterychip.com/file/download/2582",
+      "componentLibraryUrl": "https://www.arterychip.com/download/JLCEDA/AT32F455_SCH_PCB_Lib_V1.2.zip",
       "datasheetUrl": "https://www.arterychip.com/download/DS/DS_AT32F455_456_457_V2.01_EN.pdf"
     },
     "AT32F456": {
-      "componentLibraryUrl": "https://www.arterychip.com/file/download/2581",
+      "componentLibraryUrl": "https://www.arterychip.com/download/JLCEDA/AT32F456_SCH_PCB_Lib_V1.2.zip",
       "datasheetUrl": "https://www.arterychip.com/download/DS/DS_AT32F455_456_457_V2.01_EN.pdf"
     },
     "AT32F457": {
-      "componentLibraryUrl": "https://www.arterychip.com/file/download/2580",
+      "componentLibraryUrl": "https://www.arterychip.com/download/JLCEDA/AT32F457_SCH_PCB_Lib_V1.2.zip",
       "datasheetUrl": "https://www.arterychip.com/download/DS/DS_AT32F455_456_457_V2.01_EN.pdf"
+    },
+    "AT32F490": {
+      "componentLibraryUrl": "https://www.arterychip.com/download/JLCEDA/AT32F490_SCH_PCB_Lib_V1.1.zip",
+      "datasheetUrl": "https://www.arterychip.com/download/DS/DS_AT32F490_V2.02_EN.pdf"
+    },
+    "AT32L021": {
+      "componentLibraryUrl": "https://www.arterychip.com/download/JLCEDA/AT32L021_SCH_PCB_Lib_V1.1.zip",
+      "datasheetUrl": "https://www.arterychip.com/download/DS/DS_AT32L021_V2.01_EN.pdf"
+    },
+    "AT32M412": {
+      "componentLibraryUrl": "https://www.arterychip.com/download/JLCEDA/AT32M412_SCH_PCB_Lib_V1.1.zip",
+      "datasheetUrl": "https://www.arterychip.com/download/DS/DS_AT32M412_416_V2.01_EN.pdf"
+    },
+    "AT32M416": {
+      "componentLibraryUrl": "https://www.arterychip.com/download/JLCEDA/AT32M416_SCH_PCB_Lib_V1.1.zip",
+      "datasheetUrl": "https://www.arterychip.com/download/DS/DS_AT32M412_416_V2.01_EN.pdf"
+    },
+    "AT32WB415": {
+      "componentLibraryUrl": "https://www.arterychip.com/download/JLCEDA/AT32WB415_SCH_PCB_Lib_V1.1.zip",
+      "datasheetUrl": "https://www.arterychip.com/download/DS/DS_AT32WB415_V2.02_EN.pdf"
     }
   },
   "footprintOverrides": {
