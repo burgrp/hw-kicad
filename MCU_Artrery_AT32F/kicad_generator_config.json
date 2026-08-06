@@ -1,0 +1,27 @@
+{
+  "families": {
+    "AT32F455": {
+      "componentLibraryUrl": "https://www.arterychip.com/file/download/2582",
+      "datasheetUrl": "https://www.arterychip.com/download/DS/DS_AT32F455_456_457_V2.01_EN.pdf"
+    },
+    "AT32F456": {
+      "componentLibraryUrl": "https://www.arterychip.com/file/download/2581",
+      "datasheetUrl": "https://www.arterychip.com/download/DS/DS_AT32F455_456_457_V2.01_EN.pdf"
+    },
+    "AT32F457": {
+      "componentLibraryUrl": "https://www.arterychip.com/file/download/2580",
+      "datasheetUrl": "https://www.arterychip.com/download/DS/DS_AT32F455_456_457_V2.01_EN.pdf"
+    }
+  },
+  "footprintOverrides": {
+    "AT32F455CxU7": "Package_DFN_QFN:QFN-48-1EP_6x6mm_P0.4mm_EP4.4x4.4mm"
+  },
+  "pinAssertions": {
+    "AT32F455CxU7": {
+      "49": "VSS"
+    },
+    "AT32F455ZxT7": {
+      "143": "NC"
+    }
+  }
+}
