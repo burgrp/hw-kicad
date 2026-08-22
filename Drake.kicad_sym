@@ -11404,23 +11404,25 @@
 		(in_pos_files yes)
 		(duplicate_pin_numbers_are_jumpers no)
 		(property "Reference" "X"
-			(at 0 6.35 0)
+			(at -4.318 -1.27 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
+				(justify right)
 			)
 		)
 		(property "Value" "SWD"
-			(at 0 -6.35 0)
+			(at -4.318 1.27 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
+				(justify right)
 			)
 		)
 		(property "Footprint" "Drake:SWD"
@@ -11455,36 +11457,22 @@
 				)
 			)
 		)
-		(symbol "SWD_0_1"
-			(rectangle
-				(start 3.81 3.81)
-				(end -3.81 -3.81)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 3.81 1.27) (xy -3.81 1.27)
-				)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-		)
 		(symbol "SWD_1_1"
+			(rectangle
+				(start -3.81 2.54)
+				(end 2.54 -2.54)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type background)
+				)
+			)
 			(pin bidirectional line
-				(at 8.89 2.54 180)
+				(at 7.62 1.27 180)
 				(length 5.08)
-				(name "SWDIO"
+				(name "DIO"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -11500,8 +11488,9 @@
 				)
 			)
 			(pin power_in line
-				(at 8.89 0 180)
+				(at 12.7 7.62 180)
 				(length 5.08)
+				(hide yes)
 				(name "GND"
 					(effects
 						(font
@@ -11518,9 +11507,9 @@
 				)
 			)
 			(pin bidirectional line
-				(at 8.89 -2.54 180)
+				(at 7.62 -1.27 180)
 				(length 5.08)
-				(name "SWCLK"
+				(name "CLK"
 					(effects
 						(font
 							(size 1.27 1.27)
